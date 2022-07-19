@@ -1,0 +1,39 @@
+name: Scrape de datos más recientes
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '22,52 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Get data
+      run: |-
+        curl 'https://aplicacioneswp.metrovias.com.ar/APIAccesibilidad/Accesibilidad.svc/GetLineas'
+        -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0' \
+        -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+        -H 'Accept-Language: en,en-US;q=0.8,en-GB;q=0.5,es-ES;q=0.3' \
+        -H 'Accept-Encoding: gzip, deflate, br' \
+        -H 'Origin: https://emova.com.ar' \
+        -H 'DNT: 1' \
+        -H 'Connection: keep-alive' \
+        -H 'Referer: https://emova.com.ar/' \
+        -H 'Sec-Fetch-Dest: empty' \
+        -H 'Sec-Fetch-Mode: cors' \
+        -H 'Sec-Fetch-Site: cross-site' \
+        -H 'Sec-GPC: 1' \
+        -H 'TE: trailers' \
+        --compressed > estado.json
+    - name: Commit & push if changed
+      run: |-
+        date=$(date)
+        git config user.name "Automatic"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        git commit -m "Cambios"|| exit 0
+        git push
