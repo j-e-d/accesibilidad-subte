@@ -10,6 +10,7 @@ result = requests.get(
 json_data = result.json()
 
 results = list()
+results_no_date = list()
 for line in json_data:
     data_dict = {
         "idLinea": line["idLinea"],
@@ -33,6 +34,9 @@ for line in json_data:
                 "tipo": access["tipo"],
             }
             results.append(access_dict)
+            access_dict.pop("fechaActualizacion")
+            access_dict.pop("fechaNormalizacion")
+            results_no_date.append(access_dict)
 
 
 results.sort(key=operator.itemgetter("nombre"))
@@ -46,12 +50,13 @@ with open("data-completo.csv", "w", encoding="utf8", newline="") as output_file:
     fc.writeheader()
     fc.writerows(results)
 
-results.pop('fechaActualizacion')
-results.pop('fechaNormalizacion')
+results_no_date.sort(key=operator.itemgetter("nombre"))
+results_no_date.sort(key=operator.itemgetter("idEstacion"))
+results_no_date.sort(key=operator.itemgetter("idLinea"))
 with open("data-sin-fechas.csv", "w", encoding="utf8", newline="") as output_file:
     fc = csv.DictWriter(
         output_file,
-        fieldnames=results[0].keys(),
+        fieldnames=results_no_date[0].keys(),
     )
     fc.writeheader()
-    fc.writerows(results)
+    fc.writerows(results_no_date)
