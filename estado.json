@@ -200,16 +200,6 @@
             "tipo": "1"
           },
           {
-            "cabecera": 2,
-            "descripcion": "Escalera N°7: Sudoeste de andén  - pasillo este",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E1",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
             "cabecera": 1,
             "descripcion": "Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial ",
             "fechaActualizacion": "/Date(1658263580873-0300)/",
@@ -217,6 +207,16 @@
             "funcionando": true,
             "nombre": "S6",
             "sentido": "1",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Escalera N°7: Sudoeste de andén  - pasillo este",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E1",
+            "sentido": "0",
             "tipo": "1"
           },
           {
@@ -263,16 +263,6 @@
         "accesos": [
           {
             "cabecera": 2,
-            "descripcion": "Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3924",
-            "fechaActualizacion": "/Date(1658263580873-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "EXT(E2)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 2,
             "descripcion": "Ascensor N°1: Andén sentido San Pedrito  - Av. Rivadavia 3910",
             "fechaActualizacion": "/Date(1658263580873-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -280,6 +270,16 @@
             "nombre": "ASCENSOR SUR A2",
             "sentido": "0",
             "tipo": "0"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3924",
+            "fechaActualizacion": "/Date(1658263580873-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "EXT(E2)",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 8,
@@ -344,6 +344,16 @@
             "tipo": "0"
           },
           {
+            "cabecera": 1,
+            "descripcion": "Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400)",
+            "fechaActualizacion": "/Date(1658263580873-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "Ext (E3)",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
             "cabecera": 2,
             "descripcion": "Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo ",
             "fechaActualizacion": "/Date(1658263580873-0300)/",
@@ -355,32 +365,22 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400)",
-            "fechaActualizacion": "/Date(1658263580873-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "Ext (E3)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Escalera N°2 (sur) Andén sureste - vestíbulos",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "Sur(E1)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Escalera N°3 (norte): Vestíbulos - andén noreste",
             "fechaActualizacion": "/Date(1658263580873-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "Norte (E2)",
             "sentido": "1",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°2 (sur) Andén sureste - vestíbulos",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "Sur(E1)",
+            "sentido": "0",
             "tipo": "1"
           }
         ],
@@ -412,7 +412,7 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(EXT)",
@@ -430,6 +430,16 @@
             "tipo": "0"
           },
           {
+            "cabecera": 2,
+            "descripcion": "Escalera N°2: Andén - vestíbulo",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E2",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
             "cabecera": 1,
             "descripcion": "Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951)",
             "fechaActualizacion": "/Date(1658263580873-0300)/",
@@ -438,16 +448,6 @@
             "nombre": "ASCENSOR N1",
             "sentido": "0",
             "tipo": "0"
-          },
-          {
-            "cabecera": 2,
-            "descripcion": "Escalera N°2: Andén - vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E2",
-            "sentido": "0",
-            "tipo": "1"
           }
         ],
         "idEstacion": 11,
@@ -486,16 +486,6 @@
             "tipo": "0"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Ascensor N°3: Andén - vestíbulo",
-            "fechaActualizacion": "/Date(1658263580873-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "ASCENSOR N3",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
             "cabecera": 2,
             "descripcion": "Escalera N°2: Andén  - vestíbulo",
             "fechaActualizacion": "/Date(1658263580873-0300)/",
@@ -514,6 +504,16 @@
             "nombre": "E2(EXT)",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 0,
+            "descripcion": "Ascensor N°3: Andén - vestíbulo",
+            "fechaActualizacion": "/Date(1658263580873-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "ASCENSOR N3",
+            "sentido": "0",
+            "tipo": "0"
           }
         ],
         "idEstacion": 12,
@@ -554,7 +554,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "Int(E2)",
@@ -609,31 +609,21 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Escalera N°3: Andén central lado oeste  - vestíbulo",
-            "fechaActualizacion": "/Date(1658263580873-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "Int (E3)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445",
-            "fechaActualizacion": "/Date(1658263580873-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "ASCENSOR N1",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 1,
             "descripcion": " Escalera N°1: Vestíbulo - Av. Rivadavia 7425",
             "fechaActualizacion": "/Date(1658263580873-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "Ext (E1)",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°3: Andén central lado oeste  - vestíbulo",
+            "fechaActualizacion": "/Date(1658263580873-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "Int (E3)",
             "sentido": "0",
             "tipo": "1"
           },
@@ -646,6 +636,16 @@
             "nombre": "Int (E2)",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445",
+            "fechaActualizacion": "/Date(1658263580873-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "ASCENSOR N1",
+            "sentido": "0",
+            "tipo": "0"
           }
         ],
         "idEstacion": 14,
@@ -866,16 +866,6 @@
           },
           {
             "cabecera": 2,
-            "descripcion": "Ascensor N°2: Andén sentido Rosas - Vestíbulo",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A2",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 2,
             "descripcion": "Escalera N°13: Vestíbulo - Av. Corrientes 1832",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -883,6 +873,16 @@
             "nombre": "E13",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Ascensor N°2: Andén sentido Rosas - Vestíbulo",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A2",
+            "sentido": "0",
+            "tipo": "0"
           },
           {
             "cabecera": 1,
@@ -912,16 +912,6 @@
           },
           {
             "cabecera": 0,
-            "descripcion": "Escalera N°9: Andén sentido Alem  -  Vestíbulo",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E9",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 0,
             "descripcion": "Escalera N°10: Vestíbulo - Andén sentido Alem ",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -937,6 +927,16 @@
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E12",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 0,
+            "descripcion": "Escalera N°9: Andén sentido Alem  -  Vestíbulo",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E9",
             "sentido": "0",
             "tipo": "1"
           }
@@ -1124,21 +1124,21 @@
           },
           {
             "cabecera": 2,
-            "descripcion": " Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste ",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E2",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 2,
             "descripcion": " Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza ",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": " Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste ",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E2",
             "sentido": "0",
             "tipo": "1"
           }
@@ -1180,16 +1180,6 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Ascensor N°2:  Andén central - vestíbulo",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A2",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Ascensor N°1: Vestíbulo - Tronador 750",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -1207,6 +1197,16 @@
             "nombre": "E3",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°2:  Andén central - vestíbulo",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A2",
+            "sentido": "0",
+            "tipo": "0"
           }
         ],
         "idEstacion": 114,
@@ -1216,16 +1216,6 @@
         "accesos": [
           {
             "cabecera": 1,
-            "descripcion": "Ascensor N°1: Vestíbulo - Av. Triunvirato 3680 ",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A1",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Escalera N°4: Vestíbulo - Av. Triunvirato 3711 ",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -1233,6 +1223,16 @@
             "nombre": "E4",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°1: Vestíbulo - Av. Triunvirato 3680 ",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A1",
+            "sentido": "0",
+            "tipo": "0"
           },
           {
             "cabecera": 1,
@@ -1256,16 +1256,6 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E3",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Ascensor N°2: Andén Central - Vestíbulo",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -1273,6 +1263,16 @@
             "nombre": "A2",
             "sentido": "0",
             "tipo": "0"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E3",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 115,
@@ -1311,14 +1311,14 @@
             "tipo": "1"
           },
           {
-            "cabecera": 1,
-            "descripcion": "Escalera N°2: Entrepiso - vestbulo",
+            "cabecera": 0,
+            "descripcion": "Ascensor N°3: Andén sentido Alem - Vestíbulo",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E2",
+            "nombre": "A3",
             "sentido": "0",
-            "tipo": "1"
+            "tipo": "0"
           },
           {
             "cabecera": 1,
@@ -1327,6 +1327,16 @@
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°2: Entrepiso - vestbulo",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E2",
             "sentido": "0",
             "tipo": "1"
           },
@@ -1349,16 +1359,6 @@
             "nombre": "E4",
             "sentido": "0",
             "tipo": "1"
-          },
-          {
-            "cabecera": 0,
-            "descripcion": "Ascensor N°3: Andén sentido Alem - Vestíbulo",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A3",
-            "sentido": "0",
-            "tipo": "0"
           }
         ],
         "idEstacion": 116,
@@ -1458,16 +1458,6 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109",
-            "fechaActualizacion": "/Date(1658262343900-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A2",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Ascensor N°1: Vestíbulo - Av. Triunvirato 5100",
             "fechaActualizacion": "/Date(1658262343900-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -1535,6 +1525,16 @@
             "nombre": "A6",
             "sentido": "0",
             "tipo": "0"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109",
+            "fechaActualizacion": "/Date(1658262343900-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A2",
+            "sentido": "0",
+            "tipo": "0"
           }
         ],
         "idEstacion": 117,
@@ -1551,21 +1551,21 @@
         "accesos": [
           {
             "cabecera": 2,
-            "descripcion": " Escalera N°2: Andén - Hall Centro de Trasbordo ",
-            "fechaActualizacion": "/Date(1658262643617-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E2",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 2,
             "descripcion": " Escalera N°1:  Andén - Hall Centro de Trasbordo",
             "fechaActualizacion": "/Date(1658262643617-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": false,
             "nombre": "E1",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": " Escalera N°2: Andén - Hall Centro de Trasbordo ",
+            "fechaActualizacion": "/Date(1658262643617-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E2",
             "sentido": "0",
             "tipo": "1"
           },
@@ -1590,22 +1590,22 @@
             "tipo": "0"
           },
           {
-            "cabecera": 2,
-            "descripcion": "Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida)",
-            "fechaActualizacion": "/Date(1658262643617-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A1",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
             "cabecera": 1,
             "descripcion": "Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso)",
             "fechaActualizacion": "/Date(1658262643617-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": false,
             "nombre": "A3",
+            "sentido": "0",
+            "tipo": "0"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida)",
+            "fechaActualizacion": "/Date(1658262643617-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A1",
             "sentido": "0",
             "tipo": "0"
           }
@@ -1801,16 +1801,6 @@
           },
           {
             "cabecera": 2,
-            "descripcion": "Escalera N°11: Andén sentido Constitución- vestíbulo y combinación Líneas B y D (sentido a Catedral)",
-            "fechaActualizacion": "/Date(1658262643617-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E11",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 2,
             "descripcion": "Ascensor N°1: Vestíbulo - Andén sentido Constitución",
             "fechaActualizacion": "/Date(1658262643617-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -1818,6 +1808,16 @@
             "nombre": "A5",
             "sentido": "0",
             "tipo": "0"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Escalera N°11: Andén sentido Constitución- vestíbulo y combinación Líneas B y D (sentido a Catedral)",
+            "fechaActualizacion": "/Date(1658262643617-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E11",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 206,
@@ -1973,9 +1973,9 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
+            "funcionando": false,
             "nombre": "Ei (1)",
             "sentido": "0",
             "tipo": "1"
@@ -2015,9 +2015,9 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°4: Vestíbulo este - andén central    E1(4)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
+            "funcionando": false,
             "nombre": "E1(4)",
             "sentido": "0",
             "tipo": "1"
@@ -2025,7 +2025,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°6: Andén central - vestíbulo oeste  E3(6)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E3(6)",
@@ -2035,10 +2035,30 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°3: Andén central - vestíbulo este    E2 (3)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": false,
+            "nombre": "E2(3)",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": " Escalera N°5: Vestíbulo oeste - andén central E4(5)",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E2(3)",
+            "nombre": "E4(5)",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": " Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext)",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "Ei(ext)",
             "sentido": "0",
             "tipo": "1"
           },
@@ -2051,26 +2071,6 @@
             "nombre": "ASCENSOR N1",
             "sentido": "0",
             "tipo": "0"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": " Escalera N°5: Vestíbulo oeste - andén central E4(5)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E4(5)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": " Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "Ei(ext)",
-            "sentido": "0",
-            "tipo": "1"
           }
         ],
         "idEstacion": 303,
@@ -2107,7 +2107,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EI(EXT)",
@@ -2117,7 +2117,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(8)",
@@ -2137,7 +2137,7 @@
           {
             "cabecera": 0,
             "descripcion": " Escalera N°7: Andén sentido Catedral - Vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E2(7)",
@@ -2163,7 +2163,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°9: Cerrada por renovación de medio de elevación. ",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": false,
             "nombre": "E2(9)",
@@ -2183,7 +2183,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EI(EXT)",
@@ -2199,7 +2199,7 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera Ext: Vestíbulo - Av. Santa Fe 2915",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EI(1)",
@@ -2209,7 +2209,7 @@
           {
             "cabecera": 2,
             "descripcion": " Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(12)",
@@ -2251,7 +2251,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°15: Andén central - vestíbulo oeste ",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E4(15)",
@@ -2261,7 +2261,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°16: Vestíbulo oeste - andén central",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E3(16)",
@@ -2280,21 +2280,21 @@
           },
           {
             "cabecera": 1,
-            "descripcion": " Escalera Ext: Vestíbulo este - Av. Santa Fe 4026",
-            "fechaActualizacion": "/Date(1658264097323-0300)/",
+            "descripcion": " Escalera N°14: Vestíbulo este - andén central",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "EI(EXT)",
+            "nombre": "E1(14)",
             "sentido": "0",
             "tipo": "1"
           },
           {
             "cabecera": 1,
-            "descripcion": " Escalera N°14: Vestíbulo este - andén central",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "descripcion": " Escalera Ext: Vestíbulo este - Av. Santa Fe 4026",
+            "fechaActualizacion": "/Date(1658264097323-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E1(14)",
+            "nombre": "EI(EXT)",
             "sentido": "0",
             "tipo": "1"
           }
@@ -2307,7 +2307,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°18:  Andén central - vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(18)",
@@ -2317,7 +2317,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera Ext: Vestíbulo - Av. Santa Fe 4636",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EI(EXT)",
@@ -2353,7 +2353,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°20: Entrepiso de salida noroeste - vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E7(20)",
@@ -2363,7 +2363,7 @@
           {
             "cabecera": 2,
             "descripcion": " Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(22)",
@@ -2372,38 +2372,28 @@
           },
           {
             "cabecera": 0,
-            "descripcion": " Escalera N°21: Vestíbulo - Andén sentido Catedral ",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E2(21)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "  Escalera N°19: Vestíbulo - Entrepiso de salida noroeste",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E8(19)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 0,
             "descripcion": " Escalera N°23: Andén sentido Catedral - vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": false,
+            "nombre": "E4(23)",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": " Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E4(23)",
+            "nombre": "E3(24)",
             "sentido": "0",
             "tipo": "1"
           },
           {
             "cabecera": 1,
             "descripcion": " Escalera N°25: Vestíbulo - Entrepiso de salida sur",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E5(25)",
@@ -2411,12 +2401,22 @@
             "tipo": "1"
           },
           {
-            "cabecera": 2,
-            "descripcion": " Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "cabecera": 0,
+            "descripcion": " Escalera N°21: Vestíbulo - Andén sentido Catedral ",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": false,
+            "nombre": "E2(21)",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "  Escalera N°19: Vestíbulo - Entrepiso de salida noroeste",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E3(24)",
+            "nombre": "E8(19)",
             "sentido": "0",
             "tipo": "1"
           }
@@ -2429,9 +2429,9 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°27: Vestíbulo - Andén sentido Catedral",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": false,
+            "funcionando": true,
             "nombre": "E2(27)",
             "sentido": "0",
             "tipo": "1"
@@ -2439,7 +2439,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E3(30)",
@@ -2449,7 +2449,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(28)",
@@ -2479,7 +2479,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°29: Andén sentido Catedral - Vestíbulo",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E4(29)",
@@ -2505,7 +2505,7 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera N°35: Vestíbulo - Av. Cabildo 1617",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": false,
             "nombre": "Ei(35)",
@@ -2525,10 +2525,20 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°34: Andén sentido Catedral - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E2(34)",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 0,
+            "descripcion": "Escalera N°31: Hall central boletería - Andén sentido Catedral ",
+            "fechaActualizacion": "/Date(1658264097323-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E2(31)",
             "sentido": "0",
             "tipo": "1"
           },
@@ -2543,19 +2553,9 @@
             "tipo": "2"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Escalera N°31: Hall central boletería - Andén sentido Catedral ",
-            "fechaActualizacion": "/Date(1658264097323-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E2(31)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
             "cabecera": 2,
             "descripcion": "Escalera N°32: Cerrada por renovación de medio de elevación.",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": false,
             "nombre": "E2(32)",
@@ -2611,7 +2611,7 @@
           {
             "cabecera": 1,
             "descripcion": " Escalera N°38: Boletería - Av. Cabildo 2040 ",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(38)",
@@ -2629,22 +2629,12 @@
             "tipo": "1"
           },
           {
-            "cabecera": 1,
-            "descripcion": "  Escalera N°40: Av. Cabildo 2076 - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E3(40)",
-            "sentido": "1",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 0,
-            "descripcion": " Escalera N°37:  Andén sentido Catedral - Boletería",
+            "cabecera": 2,
+            "descripcion": "Escalera N°36: Andén sentido Congreso de Tucumán - Boletería",
             "fechaActualizacion": "/Date(1658264097323-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E2(37)",
+            "nombre": "E1(36)",
             "sentido": "0",
             "tipo": "1"
           },
@@ -2660,6 +2650,16 @@
           },
           {
             "cabecera": 1,
+            "descripcion": "  Escalera N°40: Av. Cabildo 2076 - Boletería",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": false,
+            "nombre": "E3(40)",
+            "sentido": "1",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
             "descripcion": "  Escalera N°41: Av. Cabildo 2077 - Boletería ",
             "fechaActualizacion": "/Date(1658264097323-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -2669,12 +2669,12 @@
             "tipo": "1"
           },
           {
-            "cabecera": 2,
-            "descripcion": "Escalera N°36: Andén sentido Congreso de Tucumán - Boletería",
+            "cabecera": 0,
+            "descripcion": " Escalera N°37:  Andén sentido Catedral - Boletería",
             "fechaActualizacion": "/Date(1658264097323-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E1(36)",
+            "nombre": "E2(37)",
             "sentido": "0",
             "tipo": "1"
           }
@@ -2716,16 +2716,6 @@
           },
           {
             "cabecera": 1,
-            "descripcion": " Escalera N°43: Andén Central - Vestíbulo este",
-            "fechaActualizacion": "/Date(1658264097323-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E2(43)",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Ascensor N°1: Vestíbulo - Av. Cabildo 2834",
             "fechaActualizacion": "/Date(1658264097323-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -2736,11 +2726,11 @@
           },
           {
             "cabecera": 1,
-            "descripcion": " Escalera N°42: Vestíbulo este - Andén central",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "descripcion": " Escalera N°43: Andén Central - Vestíbulo este",
+            "fechaActualizacion": "/Date(1658264097323-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E1(42)",
+            "nombre": "E2(43)",
             "sentido": "0",
             "tipo": "1"
           },
@@ -2763,6 +2753,16 @@
             "nombre": "EI1(46)",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": " Escalera N°42: Vestíbulo este - Andén central",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E1(42)",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 315,
@@ -2780,7 +2780,7 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar)",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "Ei(Ext)",
@@ -2790,21 +2790,11 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera N°3: Andén Central - Vestíbulo oeste",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
+            "funcionando": false,
             "nombre": "ED2(3)",
             "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Escalera N°2: Vestíbulo este - Andén Central",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "ED1(2)",
-            "sentido": "1",
             "tipo": "1"
           },
           {
@@ -2820,10 +2810,20 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera N°4: Vestíbulo oeste - andén central",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": false,
+            "nombre": "EA1(4)",
+            "sentido": "1",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°2: Vestíbulo este - Andén Central",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "EA1(4)",
+            "nombre": "ED1(2)",
             "sentido": "1",
             "tipo": "1"
           }
@@ -2836,7 +2836,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°6: Andén sentido Virreyes - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA2(6)",
@@ -2846,7 +2846,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°8: Andén sentido Virreyes - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "ED2(8)",
@@ -2856,7 +2856,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°5: Andén sentido Retiro - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E1(5)",
@@ -2882,7 +2882,7 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera Ext: Pasillo sur - Lima 899",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "Ei(EXT)",
@@ -2944,9 +2944,9 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°13: Andén sentido Retiro - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
+            "funcionando": false,
             "nombre": "EA1(13)",
             "sentido": "0",
             "tipo": "1"
@@ -2960,7 +2960,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°15: Andén sentido Retiro - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA2(15)",
@@ -2970,7 +2970,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°16: Andén sentido Virreyes - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA1(16)",
@@ -2986,7 +2986,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°18: Andén sentido Virreyes - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA2(18)",
@@ -2996,7 +2996,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°17:  Andén sentido Retiro - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA1(17)",
@@ -3022,7 +3022,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°19: Andén sentido a Retiro - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647023-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA1(19)",
@@ -3054,7 +3054,7 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera N°23: Andén Central - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "ED1(23)",
@@ -3064,7 +3064,7 @@
           {
             "cabecera": 1,
             "descripcion": "Escalera N°22: Andén Central - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA1(22)",
@@ -3080,9 +3080,9 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°24: Andén sentido Virreyes - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
+            "funcionando": false,
             "nombre": "EA1(24)",
             "sentido": "0",
             "tipo": "1"
@@ -3090,7 +3090,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°25: Andén sentido Retiro - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA2(25)",
@@ -3106,7 +3106,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°7: Andén sentido Virreyes - Hall Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA1(7)",
@@ -3122,7 +3122,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°2: Andén sentido Retiro - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA2(2)",
@@ -3132,7 +3132,7 @@
           {
             "cabecera": 0,
             "descripcion": "Escalera N°1: Andén sentido Virreyes - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "EA1(1)",
@@ -3148,7 +3148,7 @@
           {
             "cabecera": 2,
             "descripcion": "Escalera N°26: Andén sentido Virreyes - Boletería",
-            "fechaActualizacion": "/Date(1658274800633-0300)/",
+            "fechaActualizacion": "/Date(1658283647040-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": false,
             "nombre": "EA1(26)",
@@ -3223,6 +3223,36 @@
           },
           {
             "cabecera": 1,
+            "descripcion": "Ascensor N°4: Andén Central/ Andén Central Línea B",
+            "fechaActualizacion": "/Date(1658264350080-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A4",
+            "sentido": "0",
+            "tipo": "0"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°2: Vestíbulo norte - hall boletería norte",
+            "fechaActualizacion": "/Date(1658264350080-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A2",
+            "sentido": "0",
+            "tipo": "0"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°1: Andén - vestíbulo sur",
+            "fechaActualizacion": "/Date(1658264350080-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A1",
+            "sentido": "0",
+            "tipo": "0"
+          },
+          {
+            "cabecera": 1,
             "descripcion": "Escalera N°7: Vestíbulo - Andén",
             "fechaActualizacion": "/Date(1658264350080-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -3260,36 +3290,6 @@
             "nombre": "E3",
             "sentido": "0",
             "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Ascensor N°4: Andén Central/ Andén Central Línea B",
-            "fechaActualizacion": "/Date(1658264350080-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A4",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Ascensor N°1: Andén - vestíbulo sur",
-            "fechaActualizacion": "/Date(1658264350080-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A1",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Ascensor N°2: Vestíbulo norte - hall boletería norte",
-            "fechaActualizacion": "/Date(1658264350080-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A2",
-            "sentido": "0",
-            "tipo": "0"
           }
         ],
         "idEstacion": 415,
@@ -3435,6 +3435,26 @@
           },
           {
             "cabecera": 1,
+            "descripcion": "Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central",
+            "fechaActualizacion": "/Date(1658264350080-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E8",
+            "sentido": "1",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C)",
+            "fechaActualizacion": "/Date(1658264350080-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E10",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
             "descripcion": "Escalera N°5: Hall Salidas 4 y 7 - Boletería",
             "fechaActualizacion": "/Date(1658264350080-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -3465,36 +3485,6 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Ascensor N°2: Boletería - Av Libertador 100 - Salida 5",
-            "fechaActualizacion": "/Date(1658264350080-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": false,
-            "nombre": "A2",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central",
-            "fechaActualizacion": "/Date(1658264350080-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E8",
-            "sentido": "1",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C)",
-            "fechaActualizacion": "/Date(1658264350080-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E10",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central",
             "fechaActualizacion": "/Date(1658264350080-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -3512,6 +3502,16 @@
             "nombre": "E7",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°2: Boletería - Av Libertador 100 - Salida 5",
+            "fechaActualizacion": "/Date(1658264350080-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": false,
+            "nombre": "A2",
+            "sentido": "0",
+            "tipo": "0"
           }
         ],
         "idEstacion": 417,
@@ -3633,22 +3633,22 @@
             "tipo": "0"
           },
           {
-            "cabecera": 2,
-            "descripcion": "Ascensor N°1: Andén sentido Hospitales - Vestíbulo",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A1",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
             "cabecera": 0,
             "descripcion": "Ascensor N°2: Andén sentido Facultad - Vestíbulo",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "A2",
+            "sentido": "0",
+            "tipo": "0"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Ascensor N°1: Andén sentido Hospitales - Vestíbulo",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A1",
             "sentido": "0",
             "tipo": "0"
           },
@@ -3719,16 +3719,6 @@
             "tipo": "1"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Escalera N°1: Andén sentido Facultad - Vestíbulo",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E1",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
             "cabecera": 2,
             "descripcion": "Ascensor N°2: Andén sentido Hospitales - Vestíbulo",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
@@ -3737,6 +3727,16 @@
             "nombre": "A2",
             "sentido": "0",
             "tipo": "0"
+          },
+          {
+            "cabecera": 0,
+            "descripcion": "Escalera N°1: Andén sentido Facultad - Vestíbulo",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E1",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 503,
@@ -3785,16 +3785,6 @@
             "tipo": "1"
           },
           {
-            "cabecera": 2,
-            "descripcion": "Ascensor N°3: Andén sentido Hospitales a Boletería calle Inclán",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A3",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
             "cabecera": 1,
             "descripcion": "Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
@@ -3803,6 +3793,16 @@
             "nombre": "E4",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Ascensor N°3: Andén sentido Hospitales a Boletería calle Inclán",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A3",
+            "sentido": "0",
+            "tipo": "0"
           },
           {
             "cabecera": 2,
@@ -3861,16 +3861,6 @@
             "tipo": "1"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Ascensor N°2: Andén sentido Facultad a Boletería del lado combinación con Línea E",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A2",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
             "cabecera": 2,
             "descripcion": "Ascensor N°3: Andén sentido Hospitales a Boletería del lado combinación con Línea E",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
@@ -3881,12 +3871,12 @@
             "tipo": "0"
           },
           {
-            "cabecera": 1,
-            "descripcion": "Ascensor N°1 Boletería del lado combinación con Línea E a Av. Jujuy 1194 ",
+            "cabecera": 0,
+            "descripcion": "Ascensor N°2: Andén sentido Facultad a Boletería del lado combinación con Línea E",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "A1",
+            "nombre": "A2",
             "sentido": "0",
             "tipo": "0"
           },
@@ -3909,6 +3899,16 @@
             "nombre": "A4",
             "sentido": "0",
             "tipo": "2"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Ascensor N°1 Boletería del lado combinación con Línea E a Av. Jujuy 1194 ",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A1",
+            "sentido": "0",
+            "tipo": "0"
           },
           {
             "cabecera": 1,
@@ -3987,16 +3987,6 @@
             "tipo": "1"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina ",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E1",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
             "cabecera": 2,
             "descripcion": "Ascensor N°2: Andén Sentido Facultad - Vestíbulo",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
@@ -4005,6 +3995,16 @@
             "nombre": "A2",
             "sentido": "0",
             "tipo": "0"
+          },
+          {
+            "cabecera": 0,
+            "descripcion": "Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina ",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E1",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 506,
@@ -4012,6 +4012,16 @@
       },
       {
         "accesos": [
+          {
+            "cabecera": 1,
+            "descripcion": " Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "S3",
+            "sentido": "0",
+            "tipo": "2"
+          },
           {
             "cabecera": 1,
             "descripcion": " Salvaescalera P2  Tren Sarmiento - Hall Boletería ",
@@ -4034,16 +4044,6 @@
           },
           {
             "cabecera": 1,
-            "descripcion": " Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "S3",
-            "sentido": "0",
-            "tipo": "2"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Escalera N°3: Hall Boletería - Entrepiso ",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -4054,12 +4054,12 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Escalera N°6: Entrepiso - Vestíbulo ",
+            "descripcion": "Escalera N°7: Vestíbulo - Entrepiso",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E6",
-            "sentido": "0",
+            "funcionando": false,
+            "nombre": "E7",
+            "sentido": "1",
             "tipo": "1"
           },
           {
@@ -4074,12 +4074,12 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Escalera N°7: Vestíbulo - Entrepiso",
+            "descripcion": "Escalera N°6: Entrepiso - Vestíbulo ",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": false,
-            "nombre": "E7",
-            "sentido": "1",
+            "funcionando": true,
+            "nombre": "E6",
+            "sentido": "0",
             "tipo": "1"
           },
           {
@@ -4111,16 +4111,6 @@
             "nombre": "E10",
             "sentido": "0",
             "tipo": "1"
-          },
-          {
-            "cabecera": 2,
-            "descripcion": "Ascensor N°3: Andén a Hospitales - Hall Boletería",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A3",
-            "sentido": "0",
-            "tipo": "0"
           },
           {
             "cabecera": 0,
@@ -4161,6 +4151,16 @@
             "nombre": "E2",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Ascensor N°3: Andén a Hospitales - Hall Boletería",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A3",
+            "sentido": "0",
+            "tipo": "0"
           }
         ],
         "idEstacion": 507,
@@ -4239,6 +4239,16 @@
             "tipo": "1"
           },
           {
+            "cabecera": 2,
+            "descripcion": "Ascensor N°3: Andén - vestíbulo",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A3",
+            "sentido": "0",
+            "tipo": "0"
+          },
+          {
             "cabecera": 0,
             "descripcion": "Ascensor N°2: Andén - vestíbulo",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
@@ -4250,31 +4260,11 @@
           },
           {
             "cabecera": 2,
-            "descripcion": "Ascensor N°3: Andén - vestíbulo",
+            "descripcion": "Ascensor N°4: Andén a Facultad – Entrepiso combinación L/B sentido Alem ",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "A3",
-            "sentido": "0",
-            "tipo": "0"
-          },
-          {
-            "cabecera": 2,
-            "descripcion": "Escalera N°8: Andén sentido Hospitales - Entrepiso ",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E8",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 0,
-            "descripcion": "Ascensor N° 1: Hall Boletería – Av. Pueyrredón 562",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "A1",
+            "nombre": "A4",
             "sentido": "0",
             "tipo": "0"
           },
@@ -4309,12 +4299,12 @@
             "tipo": "0"
           },
           {
-            "cabecera": 2,
-            "descripcion": "Ascensor N°4: Andén a Facultad – Entrepiso combinación L/B sentido Alem ",
+            "cabecera": 0,
+            "descripcion": "Ascensor N° 1: Hall Boletería – Av. Pueyrredón 562",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "A4",
+            "nombre": "A1",
             "sentido": "0",
             "tipo": "0"
           },
@@ -4347,6 +4337,16 @@
             "nombre": "E10",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 2,
+            "descripcion": "Escalera N°8: Andén sentido Hospitales - Entrepiso ",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E8",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 508,
@@ -4376,21 +4376,21 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1)",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E4",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
             "descripcion": "Escalera N°5: Hall boletería - entrepiso (salida 2)",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E5",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1)",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E4",
             "sentido": "0",
             "tipo": "1"
           },
@@ -4415,12 +4415,12 @@
             "tipo": "1"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Escalera N°1: Andén sentido Facultad - Vestíbulo",
+            "cabecera": 1,
+            "descripcion": "Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2)  ",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E1",
+            "nombre": "E6",
             "sentido": "0",
             "tipo": "1"
           },
@@ -4435,12 +4435,12 @@
             "tipo": "0"
           },
           {
-            "cabecera": 1,
-            "descripcion": "Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2)  ",
+            "cabecera": 0,
+            "descripcion": "Escalera N°1: Andén sentido Facultad - Vestíbulo",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "E6",
+            "nombre": "E1",
             "sentido": "0",
             "tipo": "1"
           }
@@ -4541,12 +4541,12 @@
             "tipo": "0"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Ascensor N°3: Entrepiso - Andén sentido Facultad",
+            "cabecera": 1,
+            "descripcion": "Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500 ",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "A3",
+            "nombre": "A6",
             "sentido": "0",
             "tipo": "0"
           },
@@ -4562,13 +4562,13 @@
           },
           {
             "cabecera": 1,
-            "descripcion": "Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500 ",
+            "descripcion": "Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3)",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
-            "nombre": "A6",
+            "nombre": "E5",
             "sentido": "0",
-            "tipo": "0"
+            "tipo": "1"
           },
           {
             "cabecera": 2,
@@ -4577,16 +4577,6 @@
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
             "funcionando": true,
             "nombre": "E4",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
-            "cabecera": 1,
-            "descripcion": "Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3)",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E5",
             "sentido": "0",
             "tipo": "1"
           },
@@ -4609,6 +4599,16 @@
             "nombre": "E2",
             "sentido": "0",
             "tipo": "1"
+          },
+          {
+            "cabecera": 0,
+            "descripcion": "Ascensor N°3: Entrepiso - Andén sentido Facultad",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "A3",
+            "sentido": "0",
+            "tipo": "0"
           }
         ],
         "idEstacion": 510,
@@ -4637,16 +4637,6 @@
             "tipo": "1"
           },
           {
-            "cabecera": 1,
-            "descripcion": "Escalera N°5: Entrepiso - Hall Boletería",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E5",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
             "cabecera": 2,
             "descripcion": "Escalera N°1: Andén sentido Facultad -  Entrepiso",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
@@ -4664,6 +4654,16 @@
             "funcionando": true,
             "nombre": "E4",
             "sentido": "1",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 1,
+            "descripcion": "Escalera N°5: Entrepiso - Hall Boletería",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E5",
+            "sentido": "0",
             "tipo": "1"
           },
           {
@@ -4688,6 +4688,16 @@
           },
           {
             "cabecera": 0,
+            "descripcion": "Escalera N°3: Andén sentido Hospitales - Entrepiso",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E3",
+            "sentido": "0",
+            "tipo": "1"
+          },
+          {
+            "cabecera": 0,
             "descripcion": "Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras) ",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
             "fechaNormalizacion": "/Date(-62135586000000-0300)/",
@@ -4705,16 +4715,6 @@
             "nombre": "A4",
             "sentido": "0",
             "tipo": "0"
-          },
-          {
-            "cabecera": 0,
-            "descripcion": "Escalera N°3: Andén sentido Hospitales - Entrepiso",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E3",
-            "sentido": "0",
-            "tipo": "1"
           }
         ],
         "idEstacion": 511,
@@ -4753,16 +4753,6 @@
             "tipo": "1"
           },
           {
-            "cabecera": 0,
-            "descripcion": "Escalera N°1: Andén no operativo - vestíbulo ",
-            "fechaActualizacion": "/Date(1658262524740-0300)/",
-            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
-            "funcionando": true,
-            "nombre": "E1",
-            "sentido": "0",
-            "tipo": "1"
-          },
-          {
             "cabecera": 2,
             "descripcion": "Ascensor N°2: Andén - vestíbulo",
             "fechaActualizacion": "/Date(1658262524740-0300)/",
@@ -4771,6 +4761,16 @@
             "nombre": "A2",
             "sentido": "0",
             "tipo": "0"
+          },
+          {
+            "cabecera": 0,
+            "descripcion": "Escalera N°1: Andén no operativo - vestíbulo ",
+            "fechaActualizacion": "/Date(1658262524740-0300)/",
+            "fechaNormalizacion": "/Date(-62135586000000-0300)/",
+            "funcionando": true,
+            "nombre": "E1",
+            "sentido": "0",
+            "tipo": "1"
           }
         ],
         "idEstacion": 512,
