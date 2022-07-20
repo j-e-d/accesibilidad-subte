@@ -1,6 +1,8 @@
-from copy import deepcopy
 import csv
 import operator
+from copy import deepcopy
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -24,11 +26,19 @@ for line in json_data:
             "nombreEstacion": station["nombre"].strip(),
         }
         for access in station["accesos"]:
+            fecha_actualizacion_str = access["fechaActualizacion"].split('-')[0].split('(')[1][:-3]
+            fecha_actualizacion_ts = datetime.fromtimestamp(int(fecha_actualizacion_str)).astimezone(ZoneInfo("America/Argentina/Buenos_Aires")).isoformat()
+
+            fecha_normalizacion_ts = None
+            if access["fechaNormalizacion"] != "/Date(-62135586000000-0300)/":
+                fecha_normalizacion_str =  access["fechaNormalizacion"].split('-')[0].split('(')[1][:-3]
+                fecha_normalizacion_ts = datetime.fromtimestamp(int(fecha_normalizacion_ts)).astimezone(ZoneInfo("America/Argentina/Buenos_Aires")).isoformat()
+
             access_dict = station_dict | {
                 "cabecera": access["cabecera"],
                 "descripcion": access["descripcion"].strip(),
-                'fechaActualizacion': access['fechaActualizacion'],
-                "fechaNormalizacion": access["fechaNormalizacion"],
+                'fechaActualizacion': fecha_actualizacion_ts,
+                "fechaNormalizacion": fecha_normalizacion_ts,
                 "funcionando": access["funcionando"],
                 "nombre": access["nombre"].strip(),
                 "sentido": access["sentido"],
