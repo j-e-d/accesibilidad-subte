@@ -1,3 +1,4 @@
+from copy import deepcopy
 import csv
 import operator
 
@@ -34,9 +35,10 @@ for line in json_data:
                 "tipo": access["tipo"],
             }
             results.append(access_dict)
-            access_dict.pop("fechaActualizacion")
-            access_dict.pop("fechaNormalizacion")
-            results_no_date.append(access_dict)
+            access_dict_no_dates = deepcopy(access_dict)
+            access_dict_no_dates.pop("fechaActualizacion")
+            access_dict_no_dates.pop("fechaNormalizacion")
+            results_no_date.append(access_dict_no_dates)
 
 
 results.sort(key=operator.itemgetter("nombre"))
