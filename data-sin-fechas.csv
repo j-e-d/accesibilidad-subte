@@ -224,7 +224,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,313,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,True,S37,0,2
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°3:  Andén - vestíbulo,True,S38,0,2
 4,Línea D,False,314,Juramento,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2043,False,ASCENSOR N1,0,0
-4,Línea D,False,314,Juramento,2,Ascensor N°2: Andén sentido Congreso de Tucumán - Boletería,True,ASCENSOR N2,0,0
+4,Línea D,False,314,Juramento,2,Ascensor N°2: Andén sentido Congreso de Tucumán - Boletería,False,ASCENSOR N2,0,0
 4,Línea D,False,314,Juramento,0,Ascensor N°3: Andén sentido Catedral - Vestíbulo,True,ASCENSOR N3,0,0
 4,Línea D,False,314,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,True,E1(36),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,True,E1(38),0,1
@@ -234,7 +234,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E4(41),1,1
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,ASCENSOR N1,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo,False,ASCENSOR N2,0,0
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E1(42),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,False,E1(42),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,True,E2(43),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,True,E3(44),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,True,E4(45),0,1
@@ -358,7 +358,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,True,E3,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,True,E4,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,True,E5,0,1
-6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,True,E7,1,1
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,True,E8,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E9,0,1
