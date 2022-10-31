@@ -279,7 +279,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E5,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,True,E6,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,False,E7,1,1
+5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,True,E7,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,True,E8,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),True,E9,0,1
 5,Línea E,False,416,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,True,A1,0,0
