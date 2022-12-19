@@ -90,7 +90,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
 2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,E1,0,1
-2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,E1,0,1
+2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,False,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,E1,0,1
@@ -371,7 +371,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,1,Ascensor N°6: Hall  - Combinación con Línea B sentido a J.M. de Rosas,True,A6,0,0
 6,Línea H,False,508,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,True,Camino Rodante N°3,0,0
 6,Línea H,False,508,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,True,Camino rodante N°4,0,0
-6,Línea H,False,508,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,True,E1,0,1
+6,Línea H,False,508,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,False,E1,0,1
 6,Línea H,False,508,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,True,E10,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,True,E2,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
