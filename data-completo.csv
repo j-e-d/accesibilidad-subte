@@ -250,7 +250,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-01-06T11:52:27-03:00,,True,EA1(10),0,1
 5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-01-06T11:52:27-03:00,,True,ED2(9),1,1
 5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-01-06T11:52:27-03:00,,True,Ei(EXT),0,1
-5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-01-06T11:52:27-03:00,,True,EA1(11),0,1
+5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-01-06T13:48:31-03:00,,False,EA1(11),0,1
 5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-01-06T11:52:27-03:00,,True,EA2(12),0,1
 5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-01-06T11:52:27-03:00,,True,EA1(13),0,1
 5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-01-06T11:52:27-03:00,,True,EA2(14),0,1
@@ -306,7 +306,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2023-01-06T12:11:22-03:00,,True,A1,0,0
 6,Línea H,False,501,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,2023-01-06T12:11:22-03:00,,True,A2,0,0
 6,Línea H,False,501,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),2023-01-06T12:11:22-03:00,,True,A3,0,0
-6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,2023-01-06T12:54:35-03:00,,False,E1,0,1
+6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,2023-01-06T14:11:07-03:00,,True,E1,0,1
 6,Línea H,False,501,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,2023-01-06T12:11:22-03:00,,True,E2,0,1
 6,Línea H,False,501,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,2023-01-06T12:11:22-03:00,,True,E3,0,1
 6,Línea H,False,502,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,2023-01-06T12:11:22-03:00,,True,A1,0,0
