@@ -27,7 +27,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-01-09T14:02:30-03:00,,True,E1,0,1
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-01-09T14:02:30-03:00,,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-01-09T14:02:30-03:00,,True,ASCENSOR EXTERIOR,0,0
-1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,2023-01-09T14:02:30-03:00,,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,2023-01-09T15:30:31-03:00,,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-01-09T14:02:30-03:00,,False,Ext (E3),0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,2023-01-09T14:02:30-03:00,,True,Norte (E2),1,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2023-01-09T14:02:30-03:00,,True,Sur(E1),0,1
@@ -92,7 +92,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-01-09T11:24:48-03:00,,False,E1,0,1
 2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,2023-01-09T11:24:48-03:00,,True,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2023-01-09T11:24:48-03:00,,True,E1,0,1
-2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2023-01-09T12:48:23-03:00,,False,E1,0,1
+2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2023-01-09T15:30:46-03:00,,True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,2023-01-09T11:24:48-03:00,,True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,2023-01-09T11:24:48-03:00,,True,E2,0,1
 2,Línea B,False,113,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,2023-01-09T11:24:48-03:00,,True,E3,1,1
