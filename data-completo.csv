@@ -39,7 +39,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,2023-01-09T14:02:30-03:00,,True,E3,0,1
 1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,2023-01-09T14:02:30-03:00,,True,ASCENSOR N1,0,0
 1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,2023-01-09T14:02:30-03:00,,True,ASCENSOR N2,0,0
-1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,2023-01-09T14:02:30-03:00,,False,ASCENSOR N3,0,0
+1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,2023-01-09T19:25:31-03:00,,True,ASCENSOR N3,0,0
 1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,2023-01-09T14:02:30-03:00,,True,E2(EXT),0,1
 1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,2023-01-09T14:02:30-03:00,,True,E3,0,1
 1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,2023-01-09T14:02:30-03:00,,False,E4,0,1
@@ -303,10 +303,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2023-01-09T17:24:21-03:00,,True,E7,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,2023-01-09T17:24:21-03:00,,True,E8,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central,2023-01-09T17:24:21-03:00,,True,E9,1,1
-6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2023-01-09T18:18:23-03:00,,True,A1,0,0
+6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2023-01-09T19:25:46-03:00,,True,A1,0,0
 6,Línea H,False,501,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,2023-01-09T18:18:23-03:00,,True,A2,0,0
 6,Línea H,False,501,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),2023-01-09T18:18:23-03:00,,True,A3,0,0
-6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,2023-01-09T18:18:23-03:00,,True,E1,0,1
+6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,2023-01-09T19:25:46-03:00,,False,E1,0,1
 6,Línea H,False,501,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,2023-01-09T18:18:23-03:00,,True,E2,0,1
 6,Línea H,False,501,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,2023-01-09T18:18:23-03:00,,True,E3,0,1
 6,Línea H,False,502,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,2023-01-09T18:18:23-03:00,,True,A1,0,0
