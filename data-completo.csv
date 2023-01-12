@@ -248,7 +248,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-01-12T05:55:10-03:00,,True,EA2(6),0,1
 5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2023-01-12T05:55:10-03:00,,True,ED2(8),0,1
 5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-01-12T05:55:10-03:00,,True,EA1(10),0,1
-5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-01-12T05:55:10-03:00,,True,ED2(9),1,1
+5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-01-12T08:50:04-03:00,,False,ED2(9),1,1
 5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-01-12T05:55:10-03:00,,True,Ei(EXT),0,1
 5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-01-12T05:55:10-03:00,,True,EA1(11),0,1
 5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-01-12T05:55:10-03:00,,True,EA2(12),0,1
