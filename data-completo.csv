@@ -200,9 +200,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2023-01-12T12:38:05-03:00,,True,E2(17),0,1
 4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2023-01-12T12:38:05-03:00,,True,EI(EXT),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,2023-01-12T12:38:05-03:00,,True,E1(22),0,1
-4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,2023-01-12T12:38:05-03:00,,True,E2(21),0,1
+4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,2023-01-12T17:44:50-03:00,,False,E2(21),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,2023-01-12T12:38:05-03:00,,True,E3(24),0,1
-4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,2023-01-12T12:38:05-03:00,,True,E4(23),0,1
+4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,2023-01-12T17:45:36-03:00,,False,E4(23),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,2023-01-12T12:38:05-03:00,,True,E5(25),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),2023-01-12T12:38:05-03:00,,False,E6(26),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,2023-01-12T12:38:05-03:00,,True,E7(20),0,1
