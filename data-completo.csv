@@ -27,7 +27,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-01-13T12:25:25-03:00,,True,E1,0,1
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-01-13T12:25:25-03:00,,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-01-13T12:25:25-03:00,,True,ASCENSOR EXTERIOR,0,0
-1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,2023-01-13T12:25:25-03:00,,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,2023-01-13T13:30:58-03:00,,False,ASCENSOR NORTE A1,0,0
 1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-01-13T12:25:25-03:00,,True,Ext (E3),0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,2023-01-13T12:25:25-03:00,,False,Norte (E2),1,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2023-01-13T12:25:25-03:00,,True,Sur(E1),0,1
@@ -89,7 +89,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2023-01-13T10:39:43-03:00,,True,E2,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,2023-01-13T10:39:43-03:00,,True,E3,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2023-01-13T10:39:43-03:00,,True,E4,0,1
-2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-01-13T10:39:43-03:00,,False,E1,0,1
+2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-01-13T13:04:05-03:00,,True,E1,0,1
 2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,2023-01-13T10:39:43-03:00,,True,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2023-01-13T10:39:43-03:00,,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2023-01-13T10:39:43-03:00,,True,E1,0,1
