@@ -126,7 +126,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,True,E10,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,True,E3,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,False,E3,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,True,E4,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,1,1
@@ -161,7 +161,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,207,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,True,E14,0,1
 3,Línea C,False,207,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,True,E15,0,1
 3,Línea C,False,207,Lavalle,1,Escalera N°2 Hall: Vestíbulo -  Pasillo de salida,True,E2,0,1
-3,Línea C,False,208,Gral. San Martín,1,Escalera N°1: Vestíbulo - Plaza General San Martín y Maipú,False,E1,0,1
+3,Línea C,False,208,Gral. San Martín,1,Escalera N°1: Vestíbulo - Plaza General San Martín y Maipú,True,E1,0,1
 3,Línea C,False,208,Gral. San Martín,2,Escalera N°16: Andén sentido Constitución - vestíbulo,True,E16,0,1
 3,Línea C,False,208,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro -  Vestíbulo,True,E17,0,1
 3,Línea C,False,209,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,True,A1,0,0
