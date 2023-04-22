@@ -144,7 +144,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,203,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,True,E5,0,1
 3,Línea C,False,203,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,True,E6,0,1
 3,Línea C,False,204,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,True,E7,0,1
-3,Línea C,False,204,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,False,E8,0,1
+3,Línea C,False,204,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,True,E8,0,1
 3,Línea C,False,205,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,True,E1,0,1
 3,Línea C,False,205,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,True,E10,0,1
 3,Línea C,False,205,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,True,E9,0,1
