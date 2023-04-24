@@ -341,13 +341,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,505,Humberto 1°,1,Escalera N°5: Boletería que da a la calle Humberto 1° a Av. Jujuy 1148,True,E5,0,1
 6,Línea H,False,505,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
 6,Línea H,False,505,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,True,S2,0,0
-6,Línea H,False,506,Venezuela,0,Ascensor N°1:  Vestíbulo - Av. Jujuy 451,True,A1,0,0
+6,Línea H,False,506,Venezuela,0,Ascensor N°1:  Vestíbulo - Av. Jujuy 451,False,A1,0,0
 6,Línea H,False,506,Venezuela,2,Ascensor N°2: Andén Sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,506,Venezuela,1,Ascensor N°3: Andén Sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,506,Venezuela,0,Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina,True,E1,0,1
 6,Línea H,False,506,Venezuela,2,Escalera N°1: Vestíbulo - Av. Jujuy 425,True,E2,0,1
 6,Línea H,False,506,Venezuela,1,Escalera N°2: Vestíbulo - Jujuy 420. Cerrada por renovación de medio de elevación.,False,E3,0,1
-6,Línea H,False,506,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,True,E4,0,1
+6,Línea H,False,506,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,False,E4,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,True,A1,0,0
 6,Línea H,False,507,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,507,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,False,A3,0,0
@@ -390,7 +390,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,509,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),True,E4,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),True,E5,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),True,E6,0,1
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,False,A1,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A4,0,0
