@@ -360,7 +360,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,True,E7,1,1
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,True,E8,0,1
-6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E9,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,False,E9,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Salvaescalera P2  Tren Sarmiento - Hall Boletería,True,P 2,0,2
 6,Línea H,False,507,Once – 30 de Diciembre,1,Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento,True,S3,0,2
 6,Línea H,False,508,Corrientes,0,Ascensor N° 1: Hall Boletería – Av. Pueyrredón 562,True,A1,0,0
