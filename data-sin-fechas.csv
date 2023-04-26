@@ -189,7 +189,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EI(EXT),0,1
 4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E1(12),0,1
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E2(11),0,1
-4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EI(1),0,1
+4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,False,EI(1),0,1
 4,Línea D,False,308,Bulnes,1,Escalera N°1: Estación cerrada por obras de renovación integral.  -  Boletería  - Av. Santa Fe 3256,False,EI(EXT),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,True,E1(14),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,True,E2(13),0,1
