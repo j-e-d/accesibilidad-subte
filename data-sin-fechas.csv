@@ -133,9 +133,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,True,E7,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,True,E8,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,True,E9,0,1
-3,Línea C,False,201,Constitución,2,Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),False,A1,0,0
+3,Línea C,False,201,Constitución,2,Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),True,A1,0,0
 3,Línea C,False,201,Constitución,2,Ascensor N°2: Andén 1 - Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),True,A2,0,0
-3,Línea C,False,201,Constitución,1,Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso),True,A3,0,0
+3,Línea C,False,201,Constitución,1,Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso),False,A3,0,0
 3,Línea C,False,201,Constitución,2,Ascensor N°4: Andén 2 -  Centro de Trasbordo superficie Av. Garay 1150 (sólo salida),True,A4,0,0
 3,Línea C,False,201,Constitución,2,Escalera N°1:  Andén - Hall Centro de Trasbordo,True,E1,0,1
 3,Línea C,False,201,Constitución,2,Escalera N°2: Andén - Hall Centro de Trasbordo,True,E2,0,1
@@ -278,7 +278,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,True,E3,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E5,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,True,E6,0,1
+5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,False,E6,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,True,E7,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,True,E8,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),True,E9,0,1
