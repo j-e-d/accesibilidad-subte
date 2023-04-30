@@ -240,7 +240,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,True,EI1(46),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,True,EI2(47),0,1
 5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,False,EA1(4),1,1
-5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,False,EA2 (1),0,1
+5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,True,EA2 (1),0,1
 5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,True,ED1(2),1,1
 5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,False,ED2(3),0,1
 5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,Ei(Ext),0,1
