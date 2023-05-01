@@ -164,7 +164,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,208,Gral. San Martín,1,Escalera N°1: Estación cerrada por obras de renovación integral.,False,E1,0,1
 3,Línea C,False,208,Gral. San Martín,2,Escalera N°16:Estación cerrada por obras de renovación integral.,False,E16,0,1
 3,Línea C,False,208,Gral. San Martín,0,Escalera N°17: Estación cerrada por obras de renovación integral.,False,E17,0,1
-3,Línea C,False,209,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,True,A1,0,0
+3,Línea C,False,209,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,False,A1,0,0
 3,Línea C,False,209,Retiro,1,Escalera N°18: Vestíbulo - Línea Mitre,True,E18,0,1
 3,Línea C,False,209,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,True,E19,1,1
 4,Línea D,False,301,Catedral,2,Ascensor N°1: Andén sur sentido Congreso de Tucumán  - Av. Roque Sáenz Peña 534 (sólo ingreso),True,ASCENSOR N1,0,0
@@ -243,7 +243,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,True,EA2 (1),0,1
 5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,True,ED1(2),1,1
 5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,True,ED2(3),0,1
-5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,Ei(Ext),0,1
+5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),False,Ei(Ext),0,1
 5,Línea E,False,402,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E1(5),0,1
 5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,EA2(6),0,1
 5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,ED2(8),0,1
