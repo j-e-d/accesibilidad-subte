@@ -95,7 +95,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,True,E2,0,1
-2,Línea B,False,113,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,True,E3,1,1
+2,Línea B,False,113,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,False,E3,1,1
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°1: Vestíbulo - Tronador 750,True,A1,0,0
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,True,A2,0,0
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°1: Andén central - Av.Triunvirato  3101,True,E1,0,1
@@ -180,7 +180,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,304,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,True,ASCENSOR N1,0,0
 4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,False,Ei(ext),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,False,ASCENSOR N1,0,0
-4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,True,ASCENSOR N2,0,0
+4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,False,ASCENSOR N2,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,True,E1(8),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,True,E2(7),0,1
 4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,True,EI(EXT),0,1
