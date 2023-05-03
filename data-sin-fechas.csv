@@ -296,7 +296,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,417,Retiro,1,Escalera N°1: Pasillo - Juncal 601,True,E1,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C),True,E10,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),True,E2,0,1
-5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",True,E3,0,1
+5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",False,E3,0,1
 5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",True,E4,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,True,E5,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,True,E6,0,1
@@ -389,7 +389,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,509,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),True,E3,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),True,E4,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),True,E5,0,1
-6,Línea H,False,509,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),False,E6,0,1
+6,Línea H,False,509,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),True,E6,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
