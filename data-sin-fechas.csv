@@ -252,7 +252,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,False,Ei(EXT),0,1
 5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,EA1(11),0,1
 5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,True,EA2(12),0,1
-5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,True,EA1(13),0,1
+5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,False,EA1(13),0,1
 5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,True,EA2(14),0,1
 5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,EA1(16),0,1
 5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,EA2(15),0,1
@@ -342,7 +342,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,505,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
 6,Línea H,False,505,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,True,S2,0,0
 6,Línea H,False,506,Venezuela,0,Ascensor N°1:  Vestíbulo - Av. Jujuy 451,True,A1,0,0
-6,Línea H,False,506,Venezuela,2,Ascensor N°2: Andén Sentido Facultad - Vestíbulo,False,A2,0,0
+6,Línea H,False,506,Venezuela,2,Ascensor N°2: Andén Sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,506,Venezuela,1,Ascensor N°3: Andén Sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,506,Venezuela,0,Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina,True,E1,0,1
 6,Línea H,False,506,Venezuela,2,Escalera N°1: Vestíbulo - Av. Jujuy 425,True,E2,0,1
