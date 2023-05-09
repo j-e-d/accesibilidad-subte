@@ -199,7 +199,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,True,E1(18),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,True,E2(17),0,1
 4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,True,EI(EXT),0,1
-4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,False,E1(22),0,1
+4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,True,E1(22),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,True,E2(21),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,True,E3(24),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E4(23),0,1
@@ -274,7 +274,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),True,A3,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,True,A4,0,0
 5,Línea E,False,415,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,True,E1,0,1
-5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,True,E2,0,1
+5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,False,E2,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,True,E3,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E5,0,1
