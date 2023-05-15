@@ -59,7 +59,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,E2,0,1
 2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E19,1,1
 2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E20,0,1
-2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,False,E21,0,1
+2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E21,0,1
 2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E22,1,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
@@ -122,7 +122,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,True,A6,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,True,E1,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,False,E1,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,True,E10,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
