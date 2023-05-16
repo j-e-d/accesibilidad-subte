@@ -14,7 +14,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E1,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,E3(EXT),0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,False,E3(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,S5,0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,S6,1,1
@@ -49,7 +49,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,True,E1(EXT),0,1
 1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E4(Ext),0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,Int(E2),0,1
-1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,False,Int(E3),0,1
+1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,Int(E3),0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,False,ASCENSOR N1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,ASCENSOR N2,0,0
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,Ext (E1),0,1
