@@ -242,7 +242,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,True,EA1(4),1,1
 5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,True,EA2 (1),0,1
 5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,True,ED1(2),1,1
-5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,False,ED2(3),0,1
+5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,True,ED2(3),0,1
 5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,Ei(Ext),0,1
 5,Línea E,False,402,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E1(5),0,1
 5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,EA2(6),0,1
@@ -411,9 +411,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,511,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,True,A3,0,0
 6,Línea H,False,511,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,False,A4,0,0
 6,Línea H,False,511,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,True,E1,0,1
-6,Línea H,False,511,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,False,E2,1,1
+6,Línea H,False,511,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,True,E2,1,1
 6,Línea H,False,511,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,True,E3,0,1
-6,Línea H,False,511,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,False,E4,1,1
+6,Línea H,False,511,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,True,E4,1,1
 6,Línea H,False,511,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
 6,Línea H,False,511,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),True,E6,0,1
 6,Línea H,False,512,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,True,A1,0,0
