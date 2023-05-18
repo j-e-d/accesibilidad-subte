@@ -111,7 +111,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,116,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,True,A1,0,0
 2,Línea B,False,116,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,116,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
-2,Línea B,False,116,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,True,E1,0,1
+2,Línea B,False,116,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,False,E1,0,1
 2,Línea B,False,116,Echeverría,1,Escalera N°2: Entrepiso - vestbulo,True,E2,0,1
 2,Línea B,False,116,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,True,E3,0,1
 2,Línea B,False,116,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,True,E4,0,1
@@ -129,7 +129,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,True,E3,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,True,E4,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,1,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,True,E7,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,True,E8,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,True,E9,0,1
@@ -375,7 +375,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,False,E10,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,True,E2,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
-6,Línea H,False,508,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,False,E4,1,1
+6,Línea H,False,508,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,True,E4,1,1
 6,Línea H,False,508,Corrientes,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
 6,Línea H,False,508,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,0,1
 6,Línea H,False,508,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,False,E7,0,1
@@ -409,7 +409,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,511,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),True,A1,0,0
 6,Línea H,False,511,Las Heras,2,Ascensor N°2: Entrepiso - Hall Boletería,True,A2,0,0
 6,Línea H,False,511,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,True,A3,0,0
-6,Línea H,False,511,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,True,A4,0,0
+6,Línea H,False,511,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,False,A4,0,0
 6,Línea H,False,511,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,True,E1,0,1
 6,Línea H,False,511,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,True,E2,1,1
 6,Línea H,False,511,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,True,E3,0,1
