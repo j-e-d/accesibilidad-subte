@@ -89,7 +89,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2023-05-19T17:59:37-03:00,,True,E2,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,2023-05-19T17:59:37-03:00,,True,E3,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2023-05-19T17:59:37-03:00,,True,E4,0,1
-2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-05-19T17:59:37-03:00,,True,E1,0,1
+2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-05-19T18:33:55-03:00,,False,E1,0,1
 2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,2023-05-19T17:59:37-03:00,,True,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2023-05-19T17:59:37-03:00,,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2023-05-19T17:59:37-03:00,,True,E1,0,1
@@ -181,20 +181,20 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,2023-05-19T18:09:23-03:00,,True,Ei(ext),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,2023-05-19T18:09:23-03:00,,False,ASCENSOR N1,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,2023-05-19T18:09:23-03:00,,False,ASCENSOR N2,0,0
-4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2023-05-19T18:27:10-03:00,,True,E1(8),0,1
+4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2023-05-19T18:40:28-03:00,,True,E1(8),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,2023-05-19T18:09:23-03:00,,True,E2(7),0,1
-4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2023-05-19T18:27:10-03:00,,True,EI(EXT),0,1
+4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2023-05-19T18:40:28-03:00,,True,EI(EXT),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,2023-05-19T18:09:23-03:00,,True,E1(10),0,1
-4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,2023-05-19T18:27:10-03:00,,False,E2(9),0,1
+4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,2023-05-19T18:40:28-03:00,,False,E2(9),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2023-05-19T18:09:23-03:00,,True,EI(EXT),0,1
 4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2023-05-19T18:09:23-03:00,,True,E1(12),0,1
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2023-05-19T18:09:23-03:00,,True,E2(11),0,1
-4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2023-05-19T18:27:10-03:00,,True,EI(1),0,1
+4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2023-05-19T18:40:28-03:00,,True,EI(1),0,1
 4,Línea D,False,308,Bulnes,1,Escalera N°1: Estación cerrada por obras de renovación integral.  -  Boletería  - Av. Santa Fe 3256,2023-05-19T18:09:23-03:00,,False,EI(EXT),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2023-05-19T18:27:10-03:00,,True,E1(14),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2023-05-19T18:40:28-03:00,,True,E1(14),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,2023-05-19T18:09:23-03:00,,True,E2(13),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2023-05-19T18:09:23-03:00,,True,E3(16),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2023-05-19T18:27:10-03:00,,True,E4(15),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2023-05-19T18:40:28-03:00,,True,E4(15),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2023-05-19T18:09:23-03:00,,True,EI(EXT),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2023-05-19T18:09:23-03:00,,True,E1(18),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2023-05-19T18:09:23-03:00,,True,E2(17),0,1
@@ -207,8 +207,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),2023-05-19T18:09:23-03:00,,True,E6(26),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,2023-05-19T18:09:23-03:00,,False,E7(20),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,2023-05-19T18:09:23-03:00,,True,E8(19),0,1
-4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,2023-05-19T18:27:10-03:00,,True,E1(28),0,1
-4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,2023-05-19T18:27:10-03:00,,True,E2(27),0,1
+4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,2023-05-19T18:40:28-03:00,,True,E1(28),0,1
+4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,2023-05-19T18:40:28-03:00,,True,E2(27),0,1
 4,Línea D,False,312,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,2023-05-19T18:09:23-03:00,,True,E3(30),0,1
 4,Línea D,False,312,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,2023-05-19T18:09:23-03:00,,True,E4(29),0,1
 4,Línea D,False,312,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,2023-05-19T18:09:23-03:00,,True,S31,0,2
@@ -230,7 +230,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,2023-05-19T18:09:23-03:00,,True,E2(37),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,2023-05-19T18:09:23-03:00,,True,E2(39),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,2023-05-19T18:09:23-03:00,,True,E3(40),1,1
-4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,2023-05-19T18:09:23-03:00,,True,E4(41),1,1
+4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,2023-05-19T18:30:39-03:00,,False,E4(41),1,1
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,2023-05-19T18:09:23-03:00,,True,ASCENSOR N1,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,2023-05-19T18:09:23-03:00,,True,ASCENSOR N2,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,2023-05-19T18:09:23-03:00,,True,E1(42),0,1
@@ -239,70 +239,70 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,2023-05-19T18:09:23-03:00,,True,E4(45),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,2023-05-19T18:09:23-03:00,,True,EI1(46),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,2023-05-19T18:09:23-03:00,,True,EI2(47),0,1
-5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,2023-05-19T18:27:10-03:00,,True,EA1(4),1,1
-5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,2023-05-19T18:27:10-03:00,,True,EA2 (1),0,1
-5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,2023-05-19T18:27:10-03:00,,True,ED1(2),1,1
-5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2023-05-19T18:27:10-03:00,,True,ED2(3),0,1
-5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2023-05-19T18:27:10-03:00,,True,Ei(Ext),0,1
-5,Línea E,False,402,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,2023-05-19T13:02:47-03:00,,True,E1(5),0,1
-5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-05-19T13:02:47-03:00,,True,EA2(6),0,1
-5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2023-05-19T13:02:47-03:00,,True,ED2(8),0,1
-5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-05-19T13:02:47-03:00,,True,EA1(10),0,1
-5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-05-19T13:02:47-03:00,,True,ED2(9),1,1
-5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-05-19T13:02:47-03:00,,True,Ei(EXT),0,1
-5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-05-19T13:02:47-03:00,,True,EA1(11),0,1
-5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-05-19T18:27:10-03:00,,True,EA2(12),0,1
-5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-05-19T18:27:10-03:00,,True,EA1(13),0,1
-5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-05-19T18:27:10-03:00,,True,EA2(14),0,1
-5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2023-05-19T13:02:47-03:00,,True,EA1(16),0,1
-5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2023-05-19T13:02:47-03:00,,True,EA2(15),0,1
-5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,2023-05-19T13:02:47-03:00,,False,EA1(17),0,1
-5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,2023-05-19T18:27:10-03:00,,False,EA2(18),0,1
-5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2023-05-19T13:02:47-03:00,,True,EA1(19),0,1
-5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,2023-05-19T13:02:47-03:00,,True,EA2(20),0,1
-5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,2023-05-19T13:02:47-03:00,,True,EA1(21),0,1
-5,Línea E,False,410,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,2023-05-19T13:02:47-03:00,,True,EA1(22),0,1
-5,Línea E,False,410,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,2023-05-19T13:02:47-03:00,,True,ED1(23),0,1
-5,Línea E,False,411,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,2023-05-19T13:02:47-03:00,,True,EA1(24),0,1
-5,Línea E,False,411,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2023-05-19T13:02:47-03:00,,True,EA2(25),0,1
-5,Línea E,False,412,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,2023-05-19T13:02:47-03:00,,True,EA1(7),0,1
-5,Línea E,False,413,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2023-05-19T13:02:47-03:00,,True,EA1(1),0,1
-5,Línea E,False,413,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2023-05-19T13:02:47-03:00,,True,EA2(2),0,1
-5,Línea E,False,414,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,2023-05-19T13:02:47-03:00,,False,EA1(26),0,1
-5,Línea E,False,415,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,2023-05-19T13:02:47-03:00,,True,A1,0,0
-5,Línea E,False,415,Correo Central,1,Ascensor N°2: Vestíbulo norte - hall boletería norte,2023-05-19T13:02:47-03:00,,True,A2,0,0
-5,Línea E,False,415,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),2023-05-19T13:02:47-03:00,,False,A3,0,0
-5,Línea E,False,415,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,2023-05-19T13:02:47-03:00,,True,A4,0,0
-5,Línea E,False,415,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,2023-05-19T13:02:47-03:00,,True,E1,0,1
-5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,2023-05-19T13:02:47-03:00,,False,E2,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,2023-05-19T13:02:47-03:00,,True,E3,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,2023-05-19T13:02:47-03:00,,True,E4,1,1
-5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,2023-05-19T13:02:47-03:00,,True,E5,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,2023-05-19T13:02:47-03:00,,True,E6,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-05-19T13:02:47-03:00,,True,E7,1,1
-5,Línea E,False,415,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,2023-05-19T13:02:47-03:00,,True,E8,1,1
-5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),2023-05-19T13:02:47-03:00,,True,E9,0,1
-5,Línea E,False,416,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,2023-05-19T13:02:47-03:00,,True,A1,0,0
-5,Línea E,False,416,Catalinas,1,Ascensor N°2: Vestíbulo - Salida 1 (Este) - Alem 900 (Plazoleta),2023-05-19T13:02:47-03:00,,True,A2,0,0
-5,Línea E,False,416,Catalinas,1,Escalera N°1: Vestíbulo - Salida 4 (Av. Leandro N. Alem 900),2023-05-19T13:02:47-03:00,,True,E1,0,1
-5,Línea E,False,416,Catalinas,1,Escalera N°2: Vestíbulo - Entrepiso Salida 1,2023-05-19T13:02:47-03:00,,True,E2,0,1
-5,Línea E,False,416,Catalinas,1,Escalera N°3 : Andén Central- Vestíbulo,2023-05-19T13:02:47-03:00,,True,E3,0,1
-5,Línea E,False,416,Catalinas,1,Escalera N°4: Entrepiso -  Salida 1 (Av. Leandro N. Alem 900),2023-05-19T13:02:47-03:00,,True,E4,0,1
-5,Línea E,False,416,Catalinas,1,Escalera N°5: Andén Central - Vestíbulo,2023-05-19T13:02:47-03:00,,True,E5,0,1
-5,Línea E,False,416,Catalinas,1,Escalera N°6: Vestíbulo - Andén Central,2023-05-19T13:02:47-03:00,,True,E6,1,1
-5,Línea E,False,417,Retiro,1,Ascensor N°1: Andén Central - Vestíbulo -  combinación con Línea C,2023-05-19T13:02:47-03:00,,True,A1,0,0
-5,Línea E,False,417,Retiro,1,Ascensor N°2: Boletería - Av Libertador 100 - Salida 5,2023-05-19T13:02:47-03:00,,False,A2,0,0
-5,Línea E,False,417,Retiro,1,Ascensor N°3: Pasillo de combinación con Línea C - Andén Central Línea C,2023-05-19T13:02:47-03:00,,False,A3,0,0
-5,Línea E,False,417,Retiro,1,Escalera N°1: Pasillo - Juncal 601,2023-05-19T13:02:47-03:00,,False,E1,0,1
-5,Línea E,False,417,Retiro,1,Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C),2023-05-19T13:02:47-03:00,,True,E10,0,1
-5,Línea E,False,417,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),2023-05-19T13:02:47-03:00,,True,E2,0,1
-5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",2023-05-19T13:02:47-03:00,,True,E3,0,1
-5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",2023-05-19T13:02:47-03:00,,True,E4,1,1
-5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,2023-05-19T13:02:47-03:00,,True,E5,1,1
-5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,2023-05-19T13:02:47-03:00,,True,E6,0,1
-5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2023-05-19T13:02:47-03:00,,True,E7,0,1
-5,Línea E,False,417,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,2023-05-19T13:02:47-03:00,,True,E8,1,1
-5,Línea E,False,417,Retiro,1,Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central,2023-05-19T13:02:47-03:00,,True,E9,1,1
+5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,2023-05-19T18:40:28-03:00,,True,EA1(4),1,1
+5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,2023-05-19T18:40:28-03:00,,True,EA2 (1),0,1
+5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,2023-05-19T18:40:28-03:00,,True,ED1(2),1,1
+5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2023-05-19T18:40:28-03:00,,True,ED2(3),0,1
+5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2023-05-19T18:40:28-03:00,,True,Ei(Ext),0,1
+5,Línea E,False,402,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,2023-05-19T18:28:47-03:00,,True,E1(5),0,1
+5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-05-19T18:28:47-03:00,,True,EA2(6),0,1
+5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2023-05-19T18:28:47-03:00,,True,ED2(8),0,1
+5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-05-19T18:28:47-03:00,,True,EA1(10),0,1
+5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-05-19T18:28:47-03:00,,True,ED2(9),1,1
+5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-05-19T18:28:47-03:00,,True,Ei(EXT),0,1
+5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-05-19T18:28:47-03:00,,True,EA1(11),0,1
+5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-05-19T18:40:28-03:00,,True,EA2(12),0,1
+5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-05-19T18:40:28-03:00,,True,EA1(13),0,1
+5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-05-19T18:40:28-03:00,,True,EA2(14),0,1
+5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2023-05-19T18:28:47-03:00,,True,EA1(16),0,1
+5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2023-05-19T18:28:47-03:00,,True,EA2(15),0,1
+5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,2023-05-19T18:28:47-03:00,,False,EA1(17),0,1
+5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,2023-05-19T18:40:28-03:00,,False,EA2(18),0,1
+5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2023-05-19T18:28:47-03:00,,True,EA1(19),0,1
+5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,2023-05-19T18:28:47-03:00,,True,EA2(20),0,1
+5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,2023-05-19T18:28:47-03:00,,True,EA1(21),0,1
+5,Línea E,False,410,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,2023-05-19T18:28:47-03:00,,True,EA1(22),0,1
+5,Línea E,False,410,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,2023-05-19T18:28:47-03:00,,True,ED1(23),0,1
+5,Línea E,False,411,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,2023-05-19T18:28:47-03:00,,True,EA1(24),0,1
+5,Línea E,False,411,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2023-05-19T18:28:47-03:00,,True,EA2(25),0,1
+5,Línea E,False,412,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,2023-05-19T18:28:47-03:00,,True,EA1(7),0,1
+5,Línea E,False,413,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2023-05-19T18:28:47-03:00,,True,EA1(1),0,1
+5,Línea E,False,413,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2023-05-19T18:28:47-03:00,,True,EA2(2),0,1
+5,Línea E,False,414,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,2023-05-19T18:28:47-03:00,,False,EA1(26),0,1
+5,Línea E,False,415,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,2023-05-19T18:28:47-03:00,,True,A1,0,0
+5,Línea E,False,415,Correo Central,1,Ascensor N°2: Vestíbulo norte - hall boletería norte,2023-05-19T18:28:47-03:00,,True,A2,0,0
+5,Línea E,False,415,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),2023-05-19T18:28:47-03:00,,False,A3,0,0
+5,Línea E,False,415,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,2023-05-19T18:28:47-03:00,,True,A4,0,0
+5,Línea E,False,415,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,2023-05-19T18:28:47-03:00,,True,E1,0,1
+5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,2023-05-19T18:28:47-03:00,,False,E2,0,1
+5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,2023-05-19T18:28:47-03:00,,True,E3,0,1
+5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,2023-05-19T18:28:47-03:00,,True,E4,1,1
+5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,2023-05-19T18:28:47-03:00,,True,E5,0,1
+5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,2023-05-19T18:28:47-03:00,,True,E6,0,1
+5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-05-19T18:28:47-03:00,,True,E7,1,1
+5,Línea E,False,415,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,2023-05-19T18:28:47-03:00,,True,E8,1,1
+5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),2023-05-19T18:28:47-03:00,,True,E9,0,1
+5,Línea E,False,416,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,2023-05-19T18:28:47-03:00,,True,A1,0,0
+5,Línea E,False,416,Catalinas,1,Ascensor N°2: Vestíbulo - Salida 1 (Este) - Alem 900 (Plazoleta),2023-05-19T18:28:47-03:00,,True,A2,0,0
+5,Línea E,False,416,Catalinas,1,Escalera N°1: Vestíbulo - Salida 4 (Av. Leandro N. Alem 900),2023-05-19T18:28:47-03:00,,True,E1,0,1
+5,Línea E,False,416,Catalinas,1,Escalera N°2: Vestíbulo - Entrepiso Salida 1,2023-05-19T18:28:47-03:00,,True,E2,0,1
+5,Línea E,False,416,Catalinas,1,Escalera N°3 : Andén Central- Vestíbulo,2023-05-19T18:28:47-03:00,,True,E3,0,1
+5,Línea E,False,416,Catalinas,1,Escalera N°4: Entrepiso -  Salida 1 (Av. Leandro N. Alem 900),2023-05-19T18:28:47-03:00,,True,E4,0,1
+5,Línea E,False,416,Catalinas,1,Escalera N°5: Andén Central - Vestíbulo,2023-05-19T18:28:47-03:00,,True,E5,0,1
+5,Línea E,False,416,Catalinas,1,Escalera N°6: Vestíbulo - Andén Central,2023-05-19T18:28:47-03:00,,True,E6,1,1
+5,Línea E,False,417,Retiro,1,Ascensor N°1: Andén Central - Vestíbulo -  combinación con Línea C,2023-05-19T18:28:47-03:00,,True,A1,0,0
+5,Línea E,False,417,Retiro,1,Ascensor N°2: Boletería - Av Libertador 100 - Salida 5,2023-05-19T18:28:47-03:00,,False,A2,0,0
+5,Línea E,False,417,Retiro,1,Ascensor N°3: Pasillo de combinación con Línea C - Andén Central Línea C,2023-05-19T18:28:47-03:00,,False,A3,0,0
+5,Línea E,False,417,Retiro,1,Escalera N°1: Pasillo - Juncal 601,2023-05-19T18:28:47-03:00,,False,E1,0,1
+5,Línea E,False,417,Retiro,1,Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C),2023-05-19T18:28:47-03:00,,True,E10,0,1
+5,Línea E,False,417,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),2023-05-19T18:28:47-03:00,,True,E2,0,1
+5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",2023-05-19T18:28:47-03:00,,True,E3,0,1
+5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",2023-05-19T18:28:47-03:00,,True,E4,1,1
+5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,2023-05-19T18:28:47-03:00,,True,E5,1,1
+5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,2023-05-19T18:28:47-03:00,,True,E6,0,1
+5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2023-05-19T18:28:47-03:00,,True,E7,0,1
+5,Línea E,False,417,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,2023-05-19T18:28:47-03:00,,True,E8,1,1
+5,Línea E,False,417,Retiro,1,Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central,2023-05-19T18:28:47-03:00,,True,E9,1,1
 6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2023-05-19T17:46:44-03:00,,True,A1,0,0
 6,Línea H,False,501,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,2023-05-19T17:46:44-03:00,,True,A2,0,0
 6,Línea H,False,501,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),2023-05-19T17:46:44-03:00,,True,A3,0,0
