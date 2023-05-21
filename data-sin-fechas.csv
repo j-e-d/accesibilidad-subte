@@ -205,7 +205,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E4(23),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,True,E5(25),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E6(26),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,False,E7(20),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,True,E7(20),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,True,E8(19),0,1
 4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E1(28),0,1
 4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E2(27),0,1
@@ -217,7 +217,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,313,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,True,E2(31),0,1
 4,Línea D,False,313,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,False,E2(32),0,1
 4,Línea D,False,313,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,True,E2(34),0,1
-4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,True,E4(33),0,1
+4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,False,E4(33),0,1
 4,Línea D,False,313,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617. Cerrada por mantenimiento integral.,True,Ei(35),0,1
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,True,S36,0,2
 4,Línea D,False,313,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,True,S37,0,2
@@ -228,7 +228,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,False,E1(36),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,True,E1(38),0,1
 4,Línea D,False,314,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,True,E2(37),0,1
-4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,True,E2(39),0,1
+4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,False,E2(39),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E3(40),1,1
 4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,False,E4(41),1,1
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,ASCENSOR N1,0,0
