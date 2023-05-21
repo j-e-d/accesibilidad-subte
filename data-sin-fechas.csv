@@ -91,7 +91,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
 2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,E1,0,1
 2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,E1,0,1
-2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,False,E1,0,1
+2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,True,E2,0,1
@@ -274,7 +274,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),False,A3,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,True,A4,0,0
 5,Línea E,False,415,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,True,E1,0,1
-5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,True,E2,0,1
+5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,False,E2,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,True,E3,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E5,0,1
