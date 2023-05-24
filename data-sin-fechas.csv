@@ -50,7 +50,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E4(Ext),0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,Int(E2),0,1
 1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,Int(E3),0,1
-1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,True,ASCENSOR N1,0,0
+1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,False,ASCENSOR N1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,ASCENSOR N2,0,0
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,Ext (E1),0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,Int (E2),0,1
@@ -65,11 +65,11 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
 2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,104,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
-2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
+2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,False,A3,0,0
 2,Línea B,False,104,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,True,E1,0,1
 2,Línea B,False,104,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,True,E2,0,1
 2,Línea B,False,105,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,True,A1,0,0
-2,Línea B,False,105,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
+2,Línea B,False,105,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,105,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,105,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,E1,0,1
 2,Línea B,False,105,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
@@ -122,7 +122,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,True,A6,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,True,E1,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,False,E1,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,True,E10,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
@@ -349,8 +349,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,506,Venezuela,1,Escalera N°2: Vestíbulo - Jujuy 420. Cerrada por renovación de medio de elevación.,False,E3,0,1
 6,Línea H,False,506,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,True,E4,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,True,A1,0,0
-6,Línea H,False,507,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
-6,Línea H,False,507,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,True,A3,0,0
+6,Línea H,False,507,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,False,A2,0,0
+6,Línea H,False,507,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,False,A3,0,0
 6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°1: Andén sentido Hospitales - Entrepiso,True,E1,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,True,E10,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,True,E2,0,1
