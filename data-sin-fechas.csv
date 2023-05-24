@@ -158,7 +158,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,206,Diagonal Norte,1,Escalera N°20: Vestíbulo - Sarmiento 861,True,E20,0,1
 3,Línea C,False,206,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,True,E21,1,1
 3,Línea C,False,207,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,True,E1,0,1
-3,Línea C,False,207,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,False,E14,0,1
+3,Línea C,False,207,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,True,E14,0,1
 3,Línea C,False,207,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,True,E15,0,1
 3,Línea C,False,207,Lavalle,1,Escalera N°2 Hall: Vestíbulo -  Pasillo de salida,True,E2,0,1
 3,Línea C,False,208,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,True,E1,0,1
