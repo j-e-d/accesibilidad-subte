@@ -252,8 +252,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,True,Ei(EXT),0,1
 5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,EA1(11),0,1
 5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,False,EA2(12),0,1
-5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,False,EA1(13),0,1
-5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,False,EA2(14),0,1
+5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,True,EA1(13),0,1
+5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,True,EA2(14),0,1
 5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,EA1(16),0,1
 5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,EA2(15),0,1
 5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,False,EA1(17),0,1
