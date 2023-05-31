@@ -191,10 +191,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E2(11),0,1
 4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EI(1),0,1
 4,Línea D,False,308,Bulnes,1,Escalera N°1: Estación cerrada por obras de renovación integral.  -  Boletería  - Av. Santa Fe 3256,False,EI(EXT),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,False,E1(14),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,True,E1(14),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,True,E2(13),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E3(16),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,False,E4(15),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,True,E4(15),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,True,EI(EXT),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,True,E1(18),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,True,E2(17),0,1
@@ -360,7 +360,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,True,E7,1,1
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,True,E8,0,1
-6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E9,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,False,E9,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Salvaescalera P2  Tren Sarmiento - Hall Boletería,True,P 2,0,2
 6,Línea H,False,507,Once – 30 de Diciembre,1,Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento,True,S3,0,2
 6,Línea H,False,508,Corrientes,0,Ascensor N° 1: Hall Boletería – Av. Pueyrredón 562,True,A1,0,0
