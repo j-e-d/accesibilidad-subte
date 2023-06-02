@@ -14,7 +14,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E1,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,E3(EXT),0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,False,E3(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,False,S5,0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,S6,1,1
@@ -222,7 +222,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,False,S36,0,2
 4,Línea D,False,313,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,True,S37,0,2
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°3:  Andén - vestíbulo,True,S38,0,2
-4,Línea D,False,314,Juramento,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2043.,False,ASCENSOR N1,0,0
+4,Línea D,False,314,Juramento,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2043.,True,ASCENSOR N1,0,0
 4,Línea D,False,314,Juramento,2,Ascensor N°2: Andén sentido Congreso de Tucumán - Boletería.,True,ASCENSOR N2,0,0
 4,Línea D,False,314,Juramento,0,Ascensor N°3: Andén sentido Catedral - Vestíbulo.,True,ASCENSOR N3,0,0
 4,Línea D,False,314,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,True,E1(36),0,1
