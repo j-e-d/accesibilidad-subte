@@ -183,15 +183,15 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,False,ASCENSOR N2,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,True,E1(8),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,True,E2(7),0,1
-4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,True,EI(EXT),0,1
+4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,False,EI(EXT),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,False,E1(10),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E2(9),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EI(EXT),0,1
 4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E1(12),0,1
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E2(11),0,1
-4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EI(1),0,1
+4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,False,EI(1),0,1
 4,Línea D,False,308,Bulnes,1,Escalera N°1: Estación cerrada por obras de renovación integral.  -  Boletería  - Av. Santa Fe 3256,False,EI(EXT),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,True,E1(14),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,False,E1(14),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,True,E2(13),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E3(16),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,True,E4(15),0,1
