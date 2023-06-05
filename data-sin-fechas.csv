@@ -7,7 +7,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E1,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E2,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,E1,0,1
-1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,False,E2,0,1
+1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,E2,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),True,ASCENSOR SUR A2,0,0
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,True,E1,0,1
@@ -56,11 +56,11 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,Int (E2),0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,True,Int (E3),0,1
 2,Línea B,False,101,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,False,E1,0,1
-2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,False,E2,0,1
-2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,False,E19,1,1
-2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,False,E20,0,1
+2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,E2,0,1
+2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E19,1,1
+2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E20,0,1
 2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E21,0,1
-2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E22,1,1
+2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,False,E22,1,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
 2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
@@ -75,15 +75,15 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,105,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
 2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
 2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
-2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,False,E16,1,1
+2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,True,E10,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,True,E11,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
-2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,True,E1,0,1
-2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,False,E5,1,1
+2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,False,E1,0,1
+2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,True,E5,1,1
 2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,True,E6,0,1
-2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,False,E7,0,1
+2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,True,E7,0,1
 2,Línea B,False,107,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,True,E8,1,1
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,True,E1,0,1
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,True,E2,1,1
@@ -191,7 +191,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E2(11),0,1
 4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EI(1),0,1
 4,Línea D,False,308,Bulnes,1,Escalera N°1: Estación cerrada por obras de renovación integral.  -  Boletería  - Av. Santa Fe 3256,False,EI(EXT),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,False,E1(14),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,True,E1(14),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,True,E2(13),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E3(16),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,True,E4(15),0,1
