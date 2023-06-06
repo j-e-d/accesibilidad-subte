@@ -181,9 +181,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,False,Ei(ext),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,True,ASCENSOR N1,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,False,ASCENSOR N2,0,0
-4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,False,E1(8),0,1
+4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,True,E1(8),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,True,E2(7),0,1
-4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,False,EI(EXT),0,1
+4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,True,EI(EXT),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,False,E1(10),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E2(9),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EI(EXT),0,1
@@ -377,21 +377,21 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,True,E4,1,1
 6,Línea H,False,508,Corrientes,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
-6,Línea H,False,508,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,0,1
-6,Línea H,False,508,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,False,E7,0,1
+6,Línea H,False,508,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
+6,Línea H,False,508,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,True,E7,0,1
 6,Línea H,False,508,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,True,E8,0,1
 6,Línea H,False,508,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,True,E9,0,1
 6,Línea H,False,509,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,True,A1,0,0
 6,Línea H,False,509,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,True,A2,0,0
-6,Línea H,False,509,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,False,A3,0,0
+6,Línea H,False,509,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,True,A3,0,0
 6,Línea H,False,509,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
 6,Línea H,False,509,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,True,E2,0,1
-6,Línea H,False,509,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),True,E3,0,1
+6,Línea H,False,509,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),False,E3,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),True,E4,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),True,E5,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),True,E6,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A2,0,0
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,False,A2,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A4,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,True,A5,0,0
