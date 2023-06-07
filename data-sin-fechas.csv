@@ -13,7 +13,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,True,E1,0,1
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,False,E1,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,False,E2,0,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,E3(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,S5,0,1
@@ -228,7 +228,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,False,E1(36),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,True,E1(38),0,1
 4,Línea D,False,314,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,True,E2(37),0,1
-4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,False,E2(39),0,1
+4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,True,E2(39),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E3(40),1,1
 4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E4(41),1,1
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,ASCENSOR N1,0,0
