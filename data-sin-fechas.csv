@@ -8,12 +8,12 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E2,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,E1,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,E2,0,1
-1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,False,ASCENSOR NORTE A1,0,0
+1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),True,ASCENSOR SUR A2,0,0
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,True,E1,0,1
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,False,E1,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,False,E2,0,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,E3(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,S5,0,1
@@ -45,11 +45,11 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,True,E4,0,1
 1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),True,ASCENSOR N1,0,0
 1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,True,ASCENSOR N2,0,0
-1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,False,ASCENSOR N3,0,0
-1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,False,E1(EXT),0,1
+1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,True,ASCENSOR N3,0,0
+1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,True,E1(EXT),0,1
 1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E4(Ext),0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,Int(E2),0,1
-1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,False,Int(E3),0,1
+1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,Int(E3),0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,False,ASCENSOR N1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,ASCENSOR N2,0,0
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,False,Ext (E1),0,1
@@ -233,8 +233,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E4(41),1,1
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,ASCENSOR N1,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,True,ASCENSOR N2,0,0
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E1(42),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,True,E2(43),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,False,E1(42),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,False,E2(43),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,True,E3(44),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,True,E4(45),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,True,EI1(46),0,1
