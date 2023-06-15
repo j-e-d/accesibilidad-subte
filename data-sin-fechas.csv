@@ -354,9 +354,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°1: Andén sentido Hospitales - Entrepiso,False,E1,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,True,E10,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,True,E2,0,1
-6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,False,E3,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,True,E3,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,True,E4,0,1
-6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,False,E5,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,True,E5,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,True,E7,1,1
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,True,E8,0,1
