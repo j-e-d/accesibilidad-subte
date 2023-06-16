@@ -377,7 +377,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,True,E4,1,1
 6,Línea H,False,508,Corrientes,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
-6,Línea H,False,508,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,0,1
+6,Línea H,False,508,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
 6,Línea H,False,508,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,False,E7,0,1
 6,Línea H,False,508,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,True,E8,0,1
 6,Línea H,False,508,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,True,E9,0,1
