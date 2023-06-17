@@ -73,7 +73,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,105,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,105,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,E1,0,1
 2,Línea B,False,105,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
-2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
+2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,False,E14,0,1
 2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
 2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,True,E10,1,1
