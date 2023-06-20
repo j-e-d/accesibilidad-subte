@@ -371,7 +371,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,1,Ascensor N°6: Hall  - Combinación con Línea B sentido a J.M. de Rosas,True,A6,0,0
 6,Línea H,False,508,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,True,Camino Rodante N°3,0,0
 6,Línea H,False,508,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,True,Camino rodante N°4,0,0
-6,Línea H,False,508,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,True,E1,0,1
+6,Línea H,False,508,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,False,E1,0,1
 6,Línea H,False,508,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,True,E10,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,False,E2,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
