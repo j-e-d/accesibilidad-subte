@@ -306,7 +306,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
 6,Línea H,False,501,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,True,A2,0,0
 6,Línea H,False,501,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
-6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,True,E1,0,1
+6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,False,E1,0,1
 6,Línea H,False,501,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,True,E2,0,1
 6,Línea H,False,501,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,True,E3,0,1
 6,Línea H,False,502,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,True,A1,0,0
@@ -404,7 +404,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,True,E6,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,True,E7,0,1
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,False,E8,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,True,E9,0,1
 6,Línea H,False,511,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),True,A1,0,0
 6,Línea H,False,511,Las Heras,2,Ascensor N°2: Entrepiso - Hall Boletería,True,A2,0,0
