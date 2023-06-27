@@ -104,10 +104,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°4: Andén central - Vestíbulo,True,E4,1,1
 2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,True,A1,0,0
 2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,True,A2,0,0
-2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,False,E1,1,1
+2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,True,E1,1,1
 2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,True,E2,0,1
-2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,False,E3,0,1
-2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,False,E4,0,1
+2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,True,E3,0,1
+2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,True,E4,0,1
 2,Línea B,False,116,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,True,A1,0,0
 2,Línea B,False,116,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,116,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
@@ -122,7 +122,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,True,A6,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,True,E1,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,False,E1,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,True,E10,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
@@ -322,7 +322,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,503,Caseros,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
 6,Línea H,False,503,Caseros,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,True,E2,0,1
 6,Línea H,False,503,Caseros,1,Escalera N°3: Vestíbulo - Av. Jujuy 2110,False,E3,0,1
-6,Línea H,False,503,Caseros,1,Escalera N°4: Vestíbulo - Av. Jujuy 2180,True,E4,0,1
+6,Línea H,False,503,Caseros,1,Escalera N°4: Vestíbulo - Av. Jujuy 2180,False,E4,0,1
 6,Línea H,False,504,Inclán Mezquita Al Ahmad,1,Ascensor N°1: Boletería esquina Garay con salida a Av. Jujuy 1633,True,A1,0,0
 6,Línea H,False,504,Inclán Mezquita Al Ahmad,0,Ascensor N°2: Andén sentido Facultad a Boletería calle Inclán,True,A2,0,0
 6,Línea H,False,504,Inclán Mezquita Al Ahmad,2,Ascensor N°3: Andén sentido Hospitales a Boletería calle Inclán,True,A3,0,0
