@@ -315,7 +315,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,502,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,False,E1,0,1
 6,Línea H,False,502,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,True,E2,1,1
 6,Línea H,False,502,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,True,E3,0,1
-6,Línea H,False,502,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,False,E4,0,1
+6,Línea H,False,502,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,True,E4,0,1
 6,Línea H,False,503,Caseros,0,Ascensor N°1:Andén sentido Facultad - Vestíbulo,True,A1,0,0
 6,Línea H,False,503,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,True,A2,0,0
 6,Línea H,False,503,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,True,A3,0,0
