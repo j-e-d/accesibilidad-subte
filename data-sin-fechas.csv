@@ -65,7 +65,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
 2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,104,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
-2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,False,A3,0,0
+2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,104,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,True,E1,0,1
 2,Línea B,False,104,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,True,E2,0,1
 2,Línea B,False,105,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,True,A1,0,0
@@ -84,16 +84,16 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,True,E5,1,1
 2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,True,E6,0,1
 2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,True,E7,0,1
-2,Línea B,False,107,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,False,E8,1,1
+2,Línea B,False,107,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,True,E8,1,1
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,True,E1,0,1
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,True,E2,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
-2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,False,E1,0,1
+2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,E1,0,1
 2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,E1,0,1
-2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,False,E1,0,1
+2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,True,E2,0,1
 2,Línea B,False,113,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,True,E3,1,1
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°1: Vestíbulo - Tronador 750,True,A1,0,0
@@ -116,13 +116,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,116,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,True,E3,0,1
 2,Línea B,False,116,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,True,E4,0,1
 2,Línea B,False,116,Echeverría,0,Escalera N°5: Andén sentido Alem - Entrepiso,True,E5,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,False,A1,0,0
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,True,A1,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,True,A2,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,True,A3,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,True,A6,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,False,E1,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,True,E1,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,True,E10,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
@@ -181,7 +181,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,True,Ei(ext),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,False,ASCENSOR N1,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,False,ASCENSOR N2,0,0
-4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,True,E1(8),0,1
+4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,False,E1(8),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,True,E2(7),0,1
 4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,True,EI(EXT),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,False,E1(10),0,1
@@ -258,7 +258,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,EA2(15),0,1
 5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,False,EA1(17),0,1
 5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,False,EA2(18),0,1
-5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,False,EA1(19),0,1
+5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,True,EA1(19),0,1
 5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,True,EA2(20),0,1
 5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,True,EA1(21),0,1
 5,Línea E,False,410,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,True,EA1(22),0,1
