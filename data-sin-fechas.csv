@@ -5,13 +5,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,True,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,False,E1,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E2,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E2,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,E1,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,E2,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),False,ASCENSOR SUR A2,0,0
+1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),True,ASCENSOR SUR A2,0,0
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,True,E1,0,1
-1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,E2,0,1
+1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,False,E2,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E1,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,E3(EXT),0,1
@@ -31,7 +31,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),True,Ext (E3),0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,True,Norte (E2),1,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,True,Sur(E1),0,1
-1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),True,ASCENSOR N1,0,0
+1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),False,ASCENSOR N1,0,0
 1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,True,ASCENSOR N2,0,0
 1,Línea A,False,11,Puan,0,Ascensor N°3: Andén - vestíbulo,True,ASCENSOR N3,0,0
 1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),True,E1(EXT),0,1
@@ -191,7 +191,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E2(11),0,1
 4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EI(1),0,1
 4,Línea D,False,308,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,True,EI(EXT),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,False,E1(14),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,True,E1(14),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,True,E2(13),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E3(16),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,True,E4(15),0,1
