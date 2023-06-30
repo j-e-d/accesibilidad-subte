@@ -258,13 +258,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2023-06-30T06:05:18-03:00,,True,EA2(15),0,1
 5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,2023-06-30T06:05:18-03:00,,False,EA1(17),0,1
 5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,2023-06-30T08:29:16-03:00,,False,EA2(18),0,1
-5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2023-06-30T06:05:18-03:00,,True,EA1(19),0,1
+5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2023-06-30T08:37:21-03:00,,False,EA1(19),0,1
 5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,2023-06-30T06:05:18-03:00,,True,EA2(20),0,1
 5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,2023-06-30T06:05:18-03:00,,True,EA1(21),0,1
 5,Línea E,False,410,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,2023-06-30T06:05:18-03:00,,True,EA1(22),0,1
 5,Línea E,False,410,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,2023-06-30T06:05:18-03:00,,True,ED1(23),0,1
 5,Línea E,False,411,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,2023-06-30T06:05:18-03:00,,True,EA1(24),0,1
-5,Línea E,False,411,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2023-06-30T06:05:18-03:00,,False,EA2(25),0,1
+5,Línea E,False,411,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2023-06-30T08:37:44-03:00,,True,EA2(25),0,1
 5,Línea E,False,412,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,2023-06-30T06:05:18-03:00,,True,EA1(7),0,1
 5,Línea E,False,413,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2023-06-30T06:05:18-03:00,,True,EA1(1),0,1
 5,Línea E,False,413,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2023-06-30T06:05:18-03:00,,True,EA2(2),0,1
