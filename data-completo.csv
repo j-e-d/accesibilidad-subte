@@ -76,14 +76,14 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,2023-06-30T10:07:38-03:00,,True,E14,0,1
 2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2023-06-30T10:07:38-03:00,,True,E15,0,1
 2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,2023-06-30T10:07:38-03:00,,True,E16,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,2023-06-30T10:18:44-03:00,,True,E10,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-06-30T10:18:44-03:00,,True,E11,1,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,2023-06-30T10:44:48-03:00,,True,E10,1,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-06-30T10:44:48-03:00,,True,E11,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2023-06-30T10:07:38-03:00,,True,E12,0,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,2023-06-30T10:18:44-03:00,,True,E9,0,1
-2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-06-30T10:07:38-03:00,,False,E1,0,1
-2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2023-06-30T10:07:38-03:00,,False,E5,1,1
-2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2023-06-30T10:07:38-03:00,,False,E6,0,1
-2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2023-06-30T10:07:38-03:00,,False,E7,0,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,2023-06-30T10:44:48-03:00,,True,E9,0,1
+2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-06-30T10:43:54-03:00,,True,E1,0,1
+2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2023-06-30T10:43:54-03:00,,True,E5,1,1
+2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2023-06-30T10:43:54-03:00,,True,E6,0,1
+2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2023-06-30T10:43:54-03:00,,True,E7,0,1
 2,Línea B,False,107,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,2023-06-30T10:07:38-03:00,,True,E8,1,1
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,2023-06-30T10:07:38-03:00,,True,E1,0,1
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2023-06-30T10:07:38-03:00,,True,E2,1,1
