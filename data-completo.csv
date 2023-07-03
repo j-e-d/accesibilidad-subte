@@ -353,7 +353,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,507,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,2023-07-03T17:13:21-03:00,,True,A3,0,0
 6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°1: Andén sentido Hospitales - Entrepiso,2023-07-03T17:13:21-03:00,,False,E1,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,2023-07-03T17:13:21-03:00,,True,E10,0,1
-6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,2023-07-03T17:13:21-03:00,,True,E2,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,2023-07-03T18:56:57-03:00,,False,E2,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,2023-07-03T17:13:21-03:00,,True,E3,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,2023-07-03T17:13:21-03:00,,True,E4,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,2023-07-03T17:13:21-03:00,,True,E5,0,1
