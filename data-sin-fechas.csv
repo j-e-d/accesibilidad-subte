@@ -310,7 +310,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,501,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,True,E2,0,1
 6,Línea H,False,501,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,True,E3,0,1
 6,Línea H,False,502,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,True,A1,0,0
-6,Línea H,False,502,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,False,A2,0,0
+6,Línea H,False,502,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,502,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),True,A3,0,0
 6,Línea H,False,502,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,True,E1,0,1
 6,Línea H,False,502,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,True,E2,1,1
@@ -330,7 +330,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,504,Inclán Mezquita Al Ahmad,2,Escalera N°2: Andén sentido Hospitales a Boletería del lado Av. Garay,True,E2,0,1
 6,Línea H,False,504,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,True,E3,0,1
 6,Línea H,False,504,Inclán Mezquita Al Ahmad,1,Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600,True,E4,0,1
-6,Línea H,False,505,Humberto 1°,1,Ascensor N°1 Boletería del lado combinación con Línea E a Av. Jujuy 1194,True,A1,0,0
+6,Línea H,False,505,Humberto 1°,1,Ascensor N°1 Boletería del lado combinación con Línea E a Av. Jujuy 1194,False,A1,0,0
 6,Línea H,False,505,Humberto 1°,0,Ascensor N°2: Andén sentido Facultad a Boletería del lado combinación con Línea E,True,A2,0,0
 6,Línea H,False,505,Humberto 1°,2,Ascensor N°3: Andén sentido Hospitales a Boletería del lado combinación con Línea E,True,A3,0,0
 6,Línea H,False,505,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,True,A4,0,2
@@ -391,7 +391,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,509,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),True,E5,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),True,E6,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A2,0,0
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,False,A2,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A4,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,False,A5,0,0
@@ -417,7 +417,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,511,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
 6,Línea H,False,511,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),False,E6,0,1
 6,Línea H,False,512,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,True,A1,0,0
-6,Línea H,False,512,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,False,A2,0,0
+6,Línea H,False,512,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
 6,Línea H,False,512,Facultad de Derecho,1,Ascensor N°3: Vestíbulo - Facultad de Derecho Av. Figueroa Alcorta 2201,True,A3,0,0
 6,Línea H,False,512,Facultad de Derecho,0,Escalera N°1: Andén no operativo - vestíbulo,True,E1,0,1
 6,Línea H,False,512,Facultad de Derecho,2,Escalera N°2: Andén - vestíbulo,True,E2,0,1
