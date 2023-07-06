@@ -133,40 +133,40 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,2023-07-06T17:12:14-03:00,,True,E7,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,2023-07-06T17:12:14-03:00,,True,E8,1,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,2023-07-06T17:12:14-03:00,,True,E9,0,1
-3,Línea C,False,201,Constitución,2,Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2023-07-06T14:33:34-03:00,,True,A1,0,0
-3,Línea C,False,201,Constitución,2,Ascensor N°2: Andén 1 - Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2023-07-06T08:24:23-03:00,,True,A2,0,0
-3,Línea C,False,201,Constitución,1,Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso),2023-07-06T08:24:23-03:00,,True,A3,0,0
-3,Línea C,False,201,Constitución,2,Ascensor N°4: Andén 2 -  Centro de Trasbordo superficie Av. Garay 1150 (sólo salida),2023-07-06T08:24:23-03:00,,True,A4,0,0
-3,Línea C,False,201,Constitución,2,Escalera N°1:  Andén - Hall Centro de Trasbordo,2023-07-06T08:24:23-03:00,,True,E1,0,1
-3,Línea C,False,201,Constitución,2,Escalera N°2: Andén - Hall Centro de Trasbordo,2023-07-06T08:24:23-03:00,,True,E2,0,1
-3,Línea C,False,202,San Juan,2,Escalera N°3: Andén sentido Constitución - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E3,0,1
-3,Línea C,False,202,San Juan,0,Escalera N°4: Andén sentido Retiro.  Cerrada por renovación de medio de elevación.,2023-07-06T08:24:23-03:00,,False,E4,0,1
-3,Línea C,False,203,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E5,0,1
-3,Línea C,False,203,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E6,0,1
-3,Línea C,False,204,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E7,0,1
-3,Línea C,False,204,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,2023-07-06T08:24:23-03:00,,True,E8,0,1
-3,Línea C,False,205,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,2023-07-06T08:24:23-03:00,,True,E1,0,1
-3,Línea C,False,205,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2023-07-06T08:24:23-03:00,,True,E10,0,1
-3,Línea C,False,205,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2023-07-06T08:24:23-03:00,,True,E9,0,1
-3,Línea C,False,206,Diagonal Norte,0,Ascensor N°2: Vestíbulo - Andén sentido Retiro,2023-07-06T08:24:23-03:00,,True,A 2,0,0
-3,Línea C,False,206,Diagonal Norte,1,Ascensor N°3: Hall Boletería – Sarmiento 861,2023-07-06T08:24:23-03:00,,True,A 3,0,0
-3,Línea C,False,206,Diagonal Norte,2,Ascensor N°1: Vestíbulo - Andén sentido Constitución,2023-07-06T08:24:23-03:00,,True,A5,0,0
-3,Línea C,False,206,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2023-07-06T16:34:32-03:00,,False,E 22,0,1
-3,Línea C,False,206,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,2023-07-06T08:24:23-03:00,,True,E 23,1,1
-3,Línea C,False,206,Diagonal Norte,2,Escalera N°11: Andén sentido Constitución- vestíbulo y combinación Líneas B y D (sentido a Catedral),2023-07-06T16:34:32-03:00,,False,E11,0,1
-3,Línea C,False,206,Diagonal Norte,2,Escalera N°13: Andén - vestíbulo y combinación Línea D (sentido a Congreso de Tucumán),2023-07-06T08:24:23-03:00,,True,E13,0,1
-3,Línea C,False,206,Diagonal Norte,1,Escalera N°20: Vestíbulo - Sarmiento 861,2023-07-06T08:24:23-03:00,,True,E20,0,1
-3,Línea C,False,206,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E21,1,1
-3,Línea C,False,207,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,2023-07-06T08:24:23-03:00,,True,E1,0,1
-3,Línea C,False,207,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E14,0,1
-3,Línea C,False,207,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E15,0,1
-3,Línea C,False,207,Lavalle,1,Escalera N°2 Hall: Vestíbulo -  Pasillo de salida,2023-07-06T08:24:23-03:00,,True,E2,0,1
-3,Línea C,False,208,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,2023-07-06T08:24:23-03:00,,True,E1,0,1
-3,Línea C,False,208,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E16,0,1
-3,Línea C,False,208,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,2023-07-06T08:24:23-03:00,,True,E17,0,1
-3,Línea C,False,209,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,2023-07-06T08:24:23-03:00,,True,A1,0,0
-3,Línea C,False,209,Retiro,1,Escalera N°18: Vestíbulo - Línea Mitre,2023-07-06T08:24:23-03:00,,True,E18,0,1
-3,Línea C,False,209,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,2023-07-06T08:24:23-03:00,,True,E19,1,1
+3,Línea C,False,201,Constitución,2,Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2023-07-06T17:51:48-03:00,,True,A1,0,0
+3,Línea C,False,201,Constitución,2,Ascensor N°2: Andén 1 - Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2023-07-06T17:51:48-03:00,,True,A2,0,0
+3,Línea C,False,201,Constitución,1,Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso),2023-07-06T17:51:48-03:00,,True,A3,0,0
+3,Línea C,False,201,Constitución,2,Ascensor N°4: Andén 2 -  Centro de Trasbordo superficie Av. Garay 1150 (sólo salida),2023-07-06T17:51:48-03:00,,True,A4,0,0
+3,Línea C,False,201,Constitución,2,Escalera N°1:  Andén - Hall Centro de Trasbordo,2023-07-06T17:51:48-03:00,,True,E1,0,1
+3,Línea C,False,201,Constitución,2,Escalera N°2: Andén - Hall Centro de Trasbordo,2023-07-06T17:51:48-03:00,,True,E2,0,1
+3,Línea C,False,202,San Juan,2,Escalera N°3: Andén sentido Constitución - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E3,0,1
+3,Línea C,False,202,San Juan,0,Escalera N°4: Andén sentido Retiro.  Cerrada por renovación de medio de elevación.,2023-07-06T17:51:48-03:00,,False,E4,0,1
+3,Línea C,False,203,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E5,0,1
+3,Línea C,False,203,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E6,0,1
+3,Línea C,False,204,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E7,0,1
+3,Línea C,False,204,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,2023-07-06T17:51:48-03:00,,True,E8,0,1
+3,Línea C,False,205,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,2023-07-06T17:51:48-03:00,,True,E1,0,1
+3,Línea C,False,205,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2023-07-06T17:51:48-03:00,,True,E10,0,1
+3,Línea C,False,205,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2023-07-06T17:51:48-03:00,,True,E9,0,1
+3,Línea C,False,206,Diagonal Norte,0,Ascensor N°2: Vestíbulo - Andén sentido Retiro,2023-07-06T17:51:48-03:00,,True,A 2,0,0
+3,Línea C,False,206,Diagonal Norte,1,Ascensor N°3: Hall Boletería – Sarmiento 861,2023-07-06T17:51:48-03:00,,True,A 3,0,0
+3,Línea C,False,206,Diagonal Norte,2,Ascensor N°1: Vestíbulo - Andén sentido Constitución,2023-07-06T17:51:48-03:00,,True,A5,0,0
+3,Línea C,False,206,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2023-07-06T17:51:48-03:00,,True,E 22,0,1
+3,Línea C,False,206,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,2023-07-06T17:51:48-03:00,,True,E 23,1,1
+3,Línea C,False,206,Diagonal Norte,2,Escalera N°11: Andén sentido Constitución- vestíbulo y combinación Líneas B y D (sentido a Catedral),2023-07-06T17:51:48-03:00,,True,E11,0,1
+3,Línea C,False,206,Diagonal Norte,2,Escalera N°13: Andén - vestíbulo y combinación Línea D (sentido a Congreso de Tucumán),2023-07-06T17:51:48-03:00,,True,E13,0,1
+3,Línea C,False,206,Diagonal Norte,1,Escalera N°20: Vestíbulo - Sarmiento 861,2023-07-06T17:51:48-03:00,,True,E20,0,1
+3,Línea C,False,206,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E21,1,1
+3,Línea C,False,207,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,2023-07-06T17:51:48-03:00,,True,E1,0,1
+3,Línea C,False,207,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E14,0,1
+3,Línea C,False,207,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E15,0,1
+3,Línea C,False,207,Lavalle,1,Escalera N°2 Hall: Vestíbulo -  Pasillo de salida,2023-07-06T17:51:48-03:00,,True,E2,0,1
+3,Línea C,False,208,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,2023-07-06T17:51:48-03:00,,True,E1,0,1
+3,Línea C,False,208,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E16,0,1
+3,Línea C,False,208,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,2023-07-06T17:51:48-03:00,,True,E17,0,1
+3,Línea C,False,209,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,2023-07-06T17:51:48-03:00,,True,A1,0,0
+3,Línea C,False,209,Retiro,1,Escalera N°18: Vestíbulo - Línea Mitre,2023-07-06T17:51:48-03:00,,True,E18,0,1
+3,Línea C,False,209,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,2023-07-06T17:51:48-03:00,,True,E19,1,1
 4,Línea D,False,301,Catedral,2,Ascensor N°1: Andén sur sentido Congreso de Tucumán  - Av. Roque Sáenz Peña 534 (sólo ingreso),2023-07-06T13:02:40-03:00,,True,ASCENSOR N1,0,0
 4,Línea D,False,301,Catedral,0,Ascensor N° 2 Andén Norte - Sólo hacia el exterior: Av. Roque Sáenz Peña 567,2023-07-06T13:02:40-03:00,,True,Ascensor N° 2: Andén de arribo de formaciones,0,0
 4,Línea D,False,301,Catedral,0,Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior),2023-07-06T13:02:40-03:00,,False,Ei (1),0,1
