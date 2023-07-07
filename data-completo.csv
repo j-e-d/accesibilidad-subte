@@ -74,10 +74,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,105,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,2023-07-07T06:44:16-03:00,,True,E1,0,1
 2,Línea B,False,105,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,2023-07-07T06:44:16-03:00,,True,E13,0,1
 2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,2023-07-07T06:44:16-03:00,,True,E14,0,1
-2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2023-07-07T06:44:16-03:00,,True,E15,0,1
+2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2023-07-07T09:05:34-03:00,,False,E15,0,1
 2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,2023-07-07T06:44:16-03:00,,True,E16,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,2023-07-07T06:44:16-03:00,,True,E10,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-07-07T06:44:16-03:00,,True,E11,1,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-07-07T09:11:53-03:00,,False,E11,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2023-07-07T06:44:16-03:00,,True,E12,0,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,2023-07-07T06:44:16-03:00,,True,E9,0,1
 2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-07-07T06:44:16-03:00,,True,E1,0,1
