@@ -161,7 +161,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,207,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,True,E14,0,1
 3,Línea C,False,207,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,True,E15,0,1
 3,Línea C,False,207,Lavalle,1,Escalera N°2 Hall: Vestíbulo -  Pasillo de salida,True,E2,0,1
-3,Línea C,False,208,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,True,E1,0,1
+3,Línea C,False,208,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,False,E1,0,1
 3,Línea C,False,208,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,True,E16,0,1
 3,Línea C,False,208,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,True,E17,0,1
 3,Línea C,False,209,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,True,A1,0,0
@@ -359,7 +359,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,True,E5,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,False,E7,1,1
-6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,True,E8,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,False,E8,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E9,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Salvaescalera P2  Tren Sarmiento - Hall Boletería,True,P 2,0,2
 6,Línea H,False,507,Once – 30 de Diciembre,1,Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento,True,S3,0,2
