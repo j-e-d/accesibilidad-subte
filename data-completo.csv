@@ -186,7 +186,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2023-07-10T06:05:55-03:00,,True,EI(EXT),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,2023-07-10T06:05:55-03:00,,True,E1(10),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,2023-07-10T06:05:55-03:00,,False,E2(9),0,1
-4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2023-07-10T06:05:55-03:00,,True,EI(EXT),0,1
+4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2023-07-10T08:23:46-03:00,,False,EI(EXT),0,1
 4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2023-07-10T06:05:55-03:00,,True,E1(12),0,1
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2023-07-10T06:05:55-03:00,,True,E2(11),0,1
 4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2023-07-10T06:05:55-03:00,,True,EI(1),0,1
@@ -297,7 +297,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,417,Retiro,1,Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C),2023-07-10T06:28:06-03:00,,True,E10,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),2023-07-10T06:28:06-03:00,,True,E2,0,1
 5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",2023-07-10T06:28:06-03:00,,True,E3,0,1
-5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",2023-07-10T06:28:06-03:00,,True,E4,1,1
+5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",2023-07-10T08:37:17-03:00,,True,E4,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,2023-07-10T07:48:43-03:00,,True,E5,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,2023-07-10T06:28:06-03:00,,True,E6,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2023-07-10T07:48:43-03:00,,True,E7,0,1
