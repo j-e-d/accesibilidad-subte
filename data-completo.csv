@@ -275,11 +275,11 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,2023-07-10T06:28:06-03:00,,True,A4,0,0
 5,Línea E,False,415,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,2023-07-10T06:28:06-03:00,,False,E1,0,1
 5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,2023-07-10T06:28:06-03:00,,True,E2,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,2023-07-10T06:28:06-03:00,,False,E3,0,1
+5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,2023-07-10T07:48:43-03:00,,True,E3,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,2023-07-10T06:28:06-03:00,,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,2023-07-10T06:28:06-03:00,,True,E5,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,2023-07-10T06:28:06-03:00,,True,E6,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-07-10T06:28:06-03:00,,False,E7,1,1
+5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-07-10T07:48:43-03:00,,True,E7,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,2023-07-10T06:28:06-03:00,,True,E8,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),2023-07-10T06:28:06-03:00,,True,E9,0,1
 5,Línea E,False,416,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,2023-07-10T06:28:06-03:00,,True,A1,0,0
@@ -298,9 +298,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,417,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),2023-07-10T06:28:06-03:00,,True,E2,0,1
 5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",2023-07-10T06:28:06-03:00,,True,E3,0,1
 5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",2023-07-10T06:28:06-03:00,,True,E4,1,1
-5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,2023-07-10T06:28:06-03:00,,False,E5,1,1
+5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,2023-07-10T07:48:43-03:00,,True,E5,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,2023-07-10T06:28:06-03:00,,True,E6,0,1
-5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2023-07-10T06:28:06-03:00,,False,E7,0,1
+5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2023-07-10T07:48:43-03:00,,True,E7,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,2023-07-10T06:28:06-03:00,,True,E8,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central,2023-07-10T06:28:06-03:00,,True,E9,1,1
 6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2023-07-10T06:07:13-03:00,,True,A1,0,0
