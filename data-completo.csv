@@ -240,7 +240,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,2023-07-11T06:00:50-03:00,,True,EI1(46),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,2023-07-11T06:00:50-03:00,,True,EI2(47),0,1
 5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,2023-07-11T05:53:30-03:00,,True,EA1(4),1,1
-5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,2023-07-11T05:53:30-03:00,,True,EA2 (1),0,1
+5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,2023-07-11T11:53:53-03:00,,False,EA2 (1),0,1
 5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,2023-07-11T05:53:30-03:00,,True,ED1(2),1,1
 5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2023-07-11T05:53:30-03:00,,True,ED2(3),0,1
 5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2023-07-11T05:53:30-03:00,,True,Ei(Ext),0,1
@@ -269,7 +269,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,413,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2023-07-11T05:53:30-03:00,,True,EA1(1),0,1
 5,Línea E,False,413,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2023-07-11T05:53:30-03:00,,True,EA2(2),0,1
 5,Línea E,False,414,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,2023-07-11T05:53:30-03:00,,False,EA1(26),0,1
-5,Línea E,False,415,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,2023-07-11T05:53:30-03:00,,False,A1,0,0
+5,Línea E,False,415,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,2023-07-11T11:53:53-03:00,,True,A1,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°2: Vestíbulo norte - hall boletería norte,2023-07-11T05:53:30-03:00,,True,A2,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),2023-07-11T05:53:30-03:00,,False,A3,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,2023-07-11T05:53:30-03:00,,True,A4,0,0
