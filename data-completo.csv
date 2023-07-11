@@ -306,7 +306,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2023-07-11T06:09:37-03:00,,True,A1,0,0
 6,Línea H,False,501,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,2023-07-11T06:09:37-03:00,,True,A2,0,0
 6,Línea H,False,501,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),2023-07-11T06:09:37-03:00,,True,A3,0,0
-6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,2023-07-11T06:09:37-03:00,,True,E1,0,1
+6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,2023-07-11T06:49:15-03:00,,False,E1,0,1
 6,Línea H,False,501,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,2023-07-11T06:09:37-03:00,,True,E2,0,1
 6,Línea H,False,501,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,2023-07-11T06:09:37-03:00,,True,E3,0,1
 6,Línea H,False,502,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,2023-07-11T06:09:37-03:00,,True,A1,0,0
