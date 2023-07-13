@@ -284,7 +284,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),True,E9,0,1
 5,Línea E,False,416,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,True,A1,0,0
 5,Línea E,False,416,Catalinas,1,Ascensor N°2: Vestíbulo - Salida 1 (Este) - Alem 900 (Plazoleta),False,A2,0,0
-5,Línea E,False,416,Catalinas,1,Escalera N°1: Vestíbulo - Salida 4 (Av. Leandro N. Alem 900),False,E1,0,1
+5,Línea E,False,416,Catalinas,1,Escalera N°1: Vestíbulo - Salida 4 (Av. Leandro N. Alem 900),True,E1,0,1
 5,Línea E,False,416,Catalinas,1,Escalera N°2: Vestíbulo - Entrepiso Salida 1,True,E2,0,1
 5,Línea E,False,416,Catalinas,1,Escalera N°3 : Andén Central- Vestíbulo,True,E3,0,1
 5,Línea E,False,416,Catalinas,1,Escalera N°4: Entrepiso -  Salida 1 (Av. Leandro N. Alem 900),True,E4,0,1
