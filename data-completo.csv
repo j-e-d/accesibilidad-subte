@@ -22,8 +22,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2023-07-13T04:53:31-03:00,,True,EXT(E2),0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,2023-07-13T04:53:31-03:00,,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2023-07-13T04:53:31-03:00,,False,EXT(E2),0,1
-1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,2023-07-13T04:53:31-03:00,,False,ASCENSOR NORTE A1,0,0
-1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2023-07-13T04:53:31-03:00,,False,ASCENSOR SUR A2,0,0
+1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,2023-07-13T12:12:16-03:00,,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2023-07-13T12:12:16-03:00,,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-07-13T04:53:31-03:00,,True,E1,0,1
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-07-13T04:53:31-03:00,,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-07-13T04:53:31-03:00,,True,ASCENSOR EXTERIOR,0,0
@@ -77,7 +77,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2023-07-13T10:42:15-03:00,,True,E15,0,1
 2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,2023-07-13T10:42:15-03:00,,True,E16,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,2023-07-13T10:42:15-03:00,,True,E10,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-07-13T10:42:15-03:00,,True,E11,1,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-07-13T11:58:21-03:00,,False,E11,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2023-07-13T10:42:15-03:00,,True,E12,0,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,2023-07-13T10:42:15-03:00,,True,E9,0,1
 2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-07-13T10:42:15-03:00,,True,E1,0,1
