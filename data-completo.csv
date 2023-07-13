@@ -152,7 +152,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,206,Diagonal Norte,1,Ascensor N°3: Hall Boletería – Sarmiento 861,2023-07-13T05:48:44-03:00,,True,A 3,0,0
 3,Línea C,False,206,Diagonal Norte,2,Ascensor N°1: Vestíbulo - Andén sentido Constitución,2023-07-13T05:48:44-03:00,,False,A5,0,0
 3,Línea C,False,206,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2023-07-13T05:48:44-03:00,,True,E 22,0,1
-3,Línea C,False,206,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,2023-07-13T05:48:44-03:00,,False,E 23,1,1
+3,Línea C,False,206,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,2023-07-13T09:01:44-03:00,,True,E 23,1,1
 3,Línea C,False,206,Diagonal Norte,2,Escalera N°11: Andén sentido Constitución- vestíbulo y combinación Líneas B y D (sentido a Catedral),2023-07-13T05:48:44-03:00,,True,E11,0,1
 3,Línea C,False,206,Diagonal Norte,2,Escalera N°13: Andén - vestíbulo y combinación Línea D (sentido a Congreso de Tucumán),2023-07-13T05:48:44-03:00,,True,E13,0,1
 3,Línea C,False,206,Diagonal Norte,1,Escalera N°20: Vestíbulo - Sarmiento 861,2023-07-13T05:48:44-03:00,,True,E20,0,1
@@ -248,7 +248,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-07-13T06:32:26-03:00,,True,EA2(6),0,1
 5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2023-07-13T06:32:26-03:00,,True,ED2(8),0,1
 5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-07-13T06:32:26-03:00,,True,EA1(10),0,1
-5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-07-13T06:32:26-03:00,,True,ED2(9),1,1
+5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-07-13T08:56:51-03:00,,False,ED2(9),1,1
 5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-07-13T06:32:26-03:00,,True,Ei(EXT),0,1
 5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-07-13T06:32:26-03:00,,True,EA1(11),0,1
 5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-07-13T06:32:26-03:00,,True,EA2(12),0,1
