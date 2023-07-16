@@ -254,7 +254,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-07-16T08:59:33-03:00,,True,EA2(12),0,1
 5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-07-16T08:59:33-03:00,,True,EA1(13),0,1
 5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-07-16T08:59:33-03:00,,True,EA2(14),0,1
-5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2023-07-16T08:59:33-03:00,,False,EA1(16),0,1
+5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2023-07-16T10:51:10-03:00,,True,EA1(16),0,1
 5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2023-07-16T08:59:33-03:00,,True,EA2(15),0,1
 5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,2023-07-16T08:59:33-03:00,,False,EA1(17),0,1
 5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,2023-07-16T08:59:33-03:00,,False,EA2(18),0,1
@@ -355,7 +355,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,2023-07-16T09:02:42-03:00,,True,E10,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,2023-07-16T09:02:42-03:00,,True,E2,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,2023-07-16T09:02:42-03:00,,True,E3,0,1
-6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,2023-07-16T09:02:42-03:00,,False,E4,0,1
+6,Línea H,False,507,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,2023-07-16T10:46:10-03:00,,True,E4,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,2023-07-16T09:02:42-03:00,,True,E5,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,2023-07-16T09:02:42-03:00,,True,E6,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,2023-07-16T09:02:42-03:00,,True,E7,1,1
