@@ -55,84 +55,84 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,2023-07-17T12:17:14-03:00,,True,Ext (E1),0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,2023-07-17T12:17:14-03:00,,True,Int (E2),0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,2023-07-17T12:17:14-03:00,,True,Int (E3),0,1
-2,Línea B,False,101,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,2023-07-17T10:31:35-03:00,,False,E2,0,1
-2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,2023-07-17T10:31:35-03:00,,True,E19,1,1
-2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E20,0,1
-2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E21,0,1
-2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,2023-07-17T10:31:35-03:00,,True,E22,1,1
-2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E17,0,1
-2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E18,0,1
-2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,2023-07-17T10:31:35-03:00,,False,A1,0,0
-2,Línea B,False,104,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A2,0,0
-2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A3,0,0
-2,Línea B,False,104,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,104,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,2023-07-17T10:31:35-03:00,,True,E2,0,1
-2,Línea B,False,105,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,2023-07-17T10:31:35-03:00,,True,A1,0,0
-2,Línea B,False,105,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2023-07-17T10:31:35-03:00,,False,A2,0,0
-2,Línea B,False,105,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A3,0,0
-2,Línea B,False,105,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,105,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,2023-07-17T10:31:35-03:00,,True,E13,0,1
-2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,2023-07-17T10:31:35-03:00,,True,E14,0,1
-2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2023-07-17T10:31:35-03:00,,True,E15,0,1
-2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,2023-07-17T10:31:35-03:00,,True,E16,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,2023-07-17T10:31:35-03:00,,True,E10,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-07-17T10:31:35-03:00,,True,E11,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E12,0,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,2023-07-17T10:31:35-03:00,,True,E9,0,1
-2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2023-07-17T10:31:35-03:00,,True,E5,1,1
-2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E6,0,1
-2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2023-07-17T10:31:35-03:00,,True,E7,0,1
-2,Línea B,False,107,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,2023-07-17T10:31:35-03:00,,True,E8,1,1
-2,Línea B,False,108,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2023-07-17T10:31:35-03:00,,True,E2,1,1
-2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,2023-07-17T10:31:35-03:00,,True,E3,1,1
-2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E4,0,1
-2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,2023-07-17T10:31:35-03:00,,True,E2,0,1
-2,Línea B,False,113,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,2023-07-17T10:31:35-03:00,,True,E3,1,1
-2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°1: Vestíbulo - Tronador 750,2023-07-17T10:31:35-03:00,,True,A1,0,0
-2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,2023-07-17T10:31:35-03:00,,True,A2,0,0
-2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°1: Andén central - Av.Triunvirato  3101,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°2: Andén Central - Av.Triunvirato 3174,2023-07-17T10:31:35-03:00,,True,E2,1,1
-2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E3,0,1
-2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°4: Andén central - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E4,1,1
-2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,2023-07-17T10:31:35-03:00,,True,A1,0,0
-2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A2,0,0
-2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,2023-07-17T10:31:35-03:00,,True,E1,1,1
-2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E2,0,1
-2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,2023-07-17T10:31:35-03:00,,True,E3,0,1
-2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,2023-07-17T10:31:35-03:00,,True,E4,0,1
-2,Línea B,False,116,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,2023-07-17T10:31:35-03:00,,True,A1,0,0
-2,Línea B,False,116,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A2,0,0
-2,Línea B,False,116,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A3,0,0
-2,Línea B,False,116,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,116,Echeverría,1,Escalera N°2: Entrepiso - vestbulo,2023-07-17T10:31:35-03:00,,True,E2,0,1
-2,Línea B,False,116,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,2023-07-17T10:31:35-03:00,,True,E3,0,1
-2,Línea B,False,116,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,2023-07-17T10:31:35-03:00,,True,E4,0,1
-2,Línea B,False,116,Echeverría,0,Escalera N°5: Andén sentido Alem - Entrepiso,2023-07-17T10:31:35-03:00,,True,E5,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,2023-07-17T10:31:35-03:00,,True,A1,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,2023-07-17T10:31:35-03:00,,True,A2,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A3,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,2023-07-17T10:31:35-03:00,,True,A4,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,2023-07-17T10:31:35-03:00,,True,A5,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,2023-07-17T10:31:35-03:00,,True,A6,0,0
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,2023-07-17T10:31:35-03:00,,True,E1,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,2023-07-17T10:31:35-03:00,,True,E10,1,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,2023-07-17T10:31:35-03:00,,True,E11,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,2023-07-17T10:31:35-03:00,,True,E2,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,2023-07-17T10:31:35-03:00,,True,E3,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E4,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,2023-07-17T10:31:35-03:00,,True,E5,1,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E6,1,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,2023-07-17T10:31:35-03:00,,True,E7,0,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,2023-07-17T10:31:35-03:00,,True,E8,1,1
-2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,2023-07-17T10:31:35-03:00,,True,E9,0,1
+2,Línea B,False,101,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,2023-07-17T15:02:38-03:00,,True,E2,0,1
+2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,2023-07-17T15:02:38-03:00,,True,E19,1,1
+2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E20,0,1
+2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E21,0,1
+2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,2023-07-17T15:02:38-03:00,,True,E22,1,1
+2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E17,0,1
+2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E18,0,1
+2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,2023-07-17T15:02:38-03:00,,False,A1,0,0
+2,Línea B,False,104,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A2,0,0
+2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A3,0,0
+2,Línea B,False,104,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,104,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,2023-07-17T15:02:38-03:00,,True,E2,0,1
+2,Línea B,False,105,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,2023-07-17T15:02:38-03:00,,True,A1,0,0
+2,Línea B,False,105,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2023-07-17T15:02:38-03:00,,False,A2,0,0
+2,Línea B,False,105,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A3,0,0
+2,Línea B,False,105,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,105,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,2023-07-17T15:02:38-03:00,,True,E13,0,1
+2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,2023-07-17T15:02:38-03:00,,True,E14,0,1
+2,Línea B,False,105,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2023-07-17T15:02:38-03:00,,True,E15,0,1
+2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,2023-07-17T15:02:38-03:00,,True,E16,1,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,2023-07-17T15:02:38-03:00,,True,E10,1,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-07-17T15:02:38-03:00,,True,E11,1,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E12,0,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,2023-07-17T15:02:38-03:00,,True,E9,0,1
+2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2023-07-17T15:02:38-03:00,,True,E5,1,1
+2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E6,0,1
+2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2023-07-17T15:02:38-03:00,,True,E7,0,1
+2,Línea B,False,107,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,2023-07-17T15:02:38-03:00,,True,E8,1,1
+2,Línea B,False,108,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2023-07-17T15:02:38-03:00,,True,E2,1,1
+2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,2023-07-17T15:02:38-03:00,,True,E3,1,1
+2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E4,0,1
+2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,2023-07-17T15:02:38-03:00,,True,E2,0,1
+2,Línea B,False,113,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,2023-07-17T15:02:38-03:00,,True,E3,1,1
+2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°1: Vestíbulo - Tronador 750,2023-07-17T15:02:38-03:00,,True,A1,0,0
+2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,2023-07-17T15:02:38-03:00,,True,A2,0,0
+2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°1: Andén central - Av.Triunvirato  3101,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°2: Andén Central - Av.Triunvirato 3174,2023-07-17T15:02:38-03:00,,True,E2,1,1
+2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E3,0,1
+2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°4: Andén central - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E4,1,1
+2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,2023-07-17T15:02:38-03:00,,True,A1,0,0
+2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A2,0,0
+2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,2023-07-17T15:02:38-03:00,,False,E1,1,1
+2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E2,0,1
+2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,2023-07-17T15:02:38-03:00,,True,E3,0,1
+2,Línea B,False,115,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,2023-07-17T15:02:38-03:00,,True,E4,0,1
+2,Línea B,False,116,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,2023-07-17T15:02:38-03:00,,True,A1,0,0
+2,Línea B,False,116,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A2,0,0
+2,Línea B,False,116,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A3,0,0
+2,Línea B,False,116,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,116,Echeverría,1,Escalera N°2: Entrepiso - vestbulo,2023-07-17T15:02:38-03:00,,True,E2,0,1
+2,Línea B,False,116,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,2023-07-17T15:02:38-03:00,,True,E3,0,1
+2,Línea B,False,116,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,2023-07-17T15:02:38-03:00,,True,E4,0,1
+2,Línea B,False,116,Echeverría,0,Escalera N°5: Andén sentido Alem - Entrepiso,2023-07-17T15:02:38-03:00,,True,E5,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,2023-07-17T15:02:38-03:00,,True,A1,0,0
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,2023-07-17T15:02:38-03:00,,True,A2,0,0
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A3,0,0
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,2023-07-17T15:02:38-03:00,,True,A4,0,0
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,2023-07-17T15:02:38-03:00,,True,A5,0,0
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,2023-07-17T15:02:38-03:00,,True,A6,0,0
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,2023-07-17T15:02:38-03:00,,True,E10,1,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,2023-07-17T15:02:38-03:00,,True,E11,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,2023-07-17T15:02:38-03:00,,True,E2,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,2023-07-17T15:02:38-03:00,,True,E3,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E4,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,2023-07-17T15:02:38-03:00,,True,E5,1,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E6,1,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E7,0,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,2023-07-17T15:02:38-03:00,,True,E8,1,1
+2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,2023-07-17T15:02:38-03:00,,True,E9,0,1
 3,Línea C,False,201,Constitución,2,Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2023-07-17T12:32:45-03:00,,True,A1,0,0
 3,Línea C,False,201,Constitución,2,Ascensor N°2: Andén 1 - Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2023-07-17T12:32:45-03:00,,True,A2,0,0
 3,Línea C,False,201,Constitución,1,Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso),2023-07-17T12:32:45-03:00,,True,A3,0,0
