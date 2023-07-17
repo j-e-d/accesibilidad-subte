@@ -1,63 +1,63 @@
 idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcion,fechaActualizacion,fechaNormalizacion,funcionando,nombre,sentido,tipo
-1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,2023-07-17T12:17:14-03:00,,True,ASCENSOR UNICO,0,0
-1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),2023-07-17T12:17:14-03:00,,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),2023-07-17T12:17:14-03:00,,True,ASCENSOR SUR A2,0,0
-1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,2023-07-17T12:17:14-03:00,,True,E1,0,1
-1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,2023-07-17T12:17:14-03:00,,True,E2,1,1
-1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,2023-07-17T12:17:14-03:00,,True,E1,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,2023-07-17T12:17:14-03:00,,True,E2,0,1
-1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,2023-07-17T12:17:14-03:00,,True,E1,0,1
-1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,2023-07-17T12:17:14-03:00,,True,E2,0,1
-1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,2023-07-17T12:17:14-03:00,,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),2023-07-17T12:17:14-03:00,,True,ASCENSOR SUR A2,0,0
-1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2023-07-17T12:17:14-03:00,,True,E1,0,1
-1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2023-07-17T12:17:14-03:00,,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2023-07-17T12:17:14-03:00,,True,E1,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2023-07-17T12:17:14-03:00,,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2023-07-17T12:17:14-03:00,,True,E3(EXT),0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,2023-07-17T12:17:14-03:00,,True,E4(EXT),0,1
-1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,2023-07-17T12:17:14-03:00,,True,S5,0,1
-1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,2023-07-17T12:17:14-03:00,,True,S6,1,1
-1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,2023-07-17T12:17:14-03:00,,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2023-07-17T12:17:14-03:00,,True,EXT(E2),0,1
-1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,2023-07-17T12:17:14-03:00,,True,ASCENSOR SUR A2,0,0
-1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2023-07-17T12:17:14-03:00,,True,EXT(E2),0,1
-1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,2023-07-17T12:17:14-03:00,,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2023-07-17T12:17:14-03:00,,False,ASCENSOR SUR A2,0,0
-1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-07-17T12:17:14-03:00,,True,E1,0,1
-1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-07-17T12:17:14-03:00,,True,E2,1,1
-1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-07-17T12:17:14-03:00,,True,ASCENSOR EXTERIOR,0,0
-1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-07-17T12:17:14-03:00,,True,Ext (E3),0,1
-1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,2023-07-17T12:17:14-03:00,,True,Norte (E2),1,1
-1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2023-07-17T12:17:14-03:00,,True,Sur(E1),0,1
-1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),2023-07-17T12:17:14-03:00,,True,ASCENSOR N1,0,0
-1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR N2,0,0
-1,Línea A,False,11,Puan,0,Ascensor N°3: Andén - vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR N3,0,0
-1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),2023-07-17T12:17:14-03:00,,True,E1(EXT),0,1
-1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,2023-07-17T12:17:14-03:00,,True,E2,0,1
-1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,2023-07-17T12:17:14-03:00,,True,E3,0,1
-1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,2023-07-17T12:17:14-03:00,,False,ASCENSOR N1,0,0
-1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR N2,0,0
-1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR N3,0,0
-1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,2023-07-17T12:17:14-03:00,,True,E2(EXT),0,1
-1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,2023-07-17T12:17:14-03:00,,True,E3,0,1
-1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,2023-07-17T12:17:14-03:00,,True,E4,0,1
-1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),2023-07-17T12:17:14-03:00,,True,ASCENSOR N1,0,0
-1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR N2,0,0
-1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR N3,0,0
-1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,2023-07-17T12:17:14-03:00,,True,E1(EXT),0,1
-1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,2023-07-17T12:17:14-03:00,,True,E4(Ext),0,1
-1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,2023-07-17T12:17:14-03:00,,True,Int(E2),0,1
-1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,2023-07-17T12:17:14-03:00,,True,Int(E3),0,1
-1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,2023-07-17T12:17:14-03:00,,True,ASCENSOR N1,0,0
-1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,2023-07-17T12:17:14-03:00,,True,ASCENSOR N2,0,0
-1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,2023-07-17T12:17:14-03:00,,True,Ext (E1),0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,2023-07-17T12:17:14-03:00,,True,Int (E2),0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,2023-07-17T12:17:14-03:00,,True,Int (E3),0,1
+1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,2023-07-17T16:56:39-03:00,,True,ASCENSOR UNICO,0,0
+1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),2023-07-17T16:56:39-03:00,,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),2023-07-17T16:56:39-03:00,,True,ASCENSOR SUR A2,0,0
+1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,2023-07-17T16:56:39-03:00,,True,E1,0,1
+1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,2023-07-17T16:56:39-03:00,,True,E2,1,1
+1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,2023-07-17T16:56:39-03:00,,True,E1,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,2023-07-17T16:56:39-03:00,,True,E2,0,1
+1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,2023-07-17T16:56:39-03:00,,True,E1,0,1
+1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,2023-07-17T16:56:39-03:00,,True,E2,0,1
+1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,2023-07-17T16:56:39-03:00,,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),2023-07-17T16:56:39-03:00,,True,ASCENSOR SUR A2,0,0
+1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2023-07-17T16:56:39-03:00,,True,E1,0,1
+1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2023-07-17T16:56:39-03:00,,True,E2,0,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2023-07-17T16:56:39-03:00,,True,E1,0,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2023-07-17T16:56:39-03:00,,True,E2,0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2023-07-17T16:56:39-03:00,,True,E3(EXT),0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,2023-07-17T16:56:39-03:00,,True,E4(EXT),0,1
+1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,2023-07-17T16:56:39-03:00,,True,S5,0,1
+1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,2023-07-17T16:56:39-03:00,,True,S6,1,1
+1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,2023-07-17T16:56:39-03:00,,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2023-07-17T16:56:39-03:00,,True,EXT(E2),0,1
+1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,2023-07-17T16:56:39-03:00,,True,ASCENSOR SUR A2,0,0
+1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2023-07-17T16:56:39-03:00,,True,EXT(E2),0,1
+1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,2023-07-17T16:56:39-03:00,,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2023-07-17T16:56:39-03:00,,False,ASCENSOR SUR A2,0,0
+1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-07-17T16:56:39-03:00,,True,E1,0,1
+1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-07-17T16:56:39-03:00,,True,E2,1,1
+1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-07-17T16:56:39-03:00,,True,ASCENSOR EXTERIOR,0,0
+1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,2023-07-17T16:56:39-03:00,,False,ASCENSOR NORTE A1,0,0
+1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-07-17T16:56:39-03:00,,False,Ext (E3),0,1
+1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,2023-07-17T16:56:39-03:00,,True,Norte (E2),1,1
+1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2023-07-17T16:56:39-03:00,,True,Sur(E1),0,1
+1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),2023-07-17T16:56:39-03:00,,True,ASCENSOR N1,0,0
+1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,2023-07-17T16:56:39-03:00,,True,ASCENSOR N2,0,0
+1,Línea A,False,11,Puan,0,Ascensor N°3: Andén - vestíbulo,2023-07-17T16:56:39-03:00,,True,ASCENSOR N3,0,0
+1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),2023-07-17T16:56:39-03:00,,True,E1(EXT),0,1
+1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,2023-07-17T16:56:39-03:00,,True,E2,0,1
+1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,2023-07-17T16:56:39-03:00,,True,E3,0,1
+1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,2023-07-17T16:56:39-03:00,,False,ASCENSOR N1,0,0
+1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,2023-07-17T16:56:39-03:00,,True,ASCENSOR N2,0,0
+1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,2023-07-17T16:56:39-03:00,,True,ASCENSOR N3,0,0
+1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,2023-07-17T16:56:39-03:00,,True,E2(EXT),0,1
+1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,2023-07-17T16:56:39-03:00,,True,E3,0,1
+1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,2023-07-17T16:56:39-03:00,,True,E4,0,1
+1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),2023-07-17T16:56:39-03:00,,True,ASCENSOR N1,0,0
+1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,2023-07-17T16:56:39-03:00,,True,ASCENSOR N2,0,0
+1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,2023-07-17T16:56:39-03:00,,True,ASCENSOR N3,0,0
+1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,2023-07-17T16:56:39-03:00,,True,E1(EXT),0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,2023-07-17T16:56:39-03:00,,True,E4(Ext),0,1
+1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,2023-07-17T16:56:39-03:00,,True,Int(E2),0,1
+1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,2023-07-17T16:56:39-03:00,,True,Int(E3),0,1
+1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,2023-07-17T16:56:39-03:00,,True,ASCENSOR N1,0,0
+1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,2023-07-17T16:56:39-03:00,,True,ASCENSOR N2,0,0
+1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,2023-07-17T16:56:39-03:00,,True,Ext (E1),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,2023-07-17T16:56:39-03:00,,True,Int (E2),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,2023-07-17T16:56:39-03:00,,True,Int (E3),0,1
 2,Línea B,False,101,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E1,0,1
 2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,2023-07-17T15:02:38-03:00,,True,E2,0,1
-2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,2023-07-17T15:02:38-03:00,,True,E19,1,1
+2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,2023-07-17T17:18:58-03:00,,False,E19,1,1
 2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E20,0,1
 2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E21,0,1
 2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,2023-07-17T15:02:38-03:00,,True,E22,1,1
@@ -89,7 +89,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2023-07-17T15:02:38-03:00,,True,E2,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,2023-07-17T15:02:38-03:00,,True,E3,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2023-07-17T15:02:38-03:00,,True,E4,0,1
-2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-07-17T15:02:38-03:00,,True,E1,0,1
+2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2023-07-17T17:18:58-03:00,,False,E1,0,1
 2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,2023-07-17T15:02:38-03:00,,True,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2023-07-17T15:02:38-03:00,,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2023-07-17T15:02:38-03:00,,True,E1,0,1
@@ -251,7 +251,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-07-17T11:48:17-03:00,,True,ED2(9),1,1
 5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-07-17T11:48:17-03:00,,True,Ei(EXT),0,1
 5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-07-17T11:48:17-03:00,,True,EA1(11),0,1
-5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-07-17T11:48:17-03:00,,True,EA2(12),0,1
+5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-07-17T17:19:11-03:00,,False,EA2(12),0,1
 5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-07-17T11:48:17-03:00,,True,EA1(13),0,1
 5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-07-17T11:48:17-03:00,,True,EA2(14),0,1
 5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2023-07-17T11:48:17-03:00,,True,EA1(16),0,1
@@ -383,7 +383,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,2023-07-17T12:16:30-03:00,,True,E9,0,1
 6,Línea H,False,509,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,2023-07-17T12:16:30-03:00,,True,A1,0,0
 6,Línea H,False,509,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,2023-07-17T12:16:30-03:00,,True,A2,0,0
-6,Línea H,False,509,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,2023-07-17T14:34:27-03:00,,False,A3,0,0
+6,Línea H,False,509,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,2023-07-17T17:02:03-03:00,,True,A3,0,0
 6,Línea H,False,509,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,2023-07-17T12:16:30-03:00,,True,E1,0,1
 6,Línea H,False,509,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,2023-07-17T12:16:30-03:00,,True,E2,0,1
 6,Línea H,False,509,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),2023-07-17T12:16:30-03:00,,True,E3,0,1
