@@ -5,7 +5,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,True,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E1,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E2,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E2,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,E1,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,E2,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,ASCENSOR NORTE A1,0,0
@@ -27,8 +27,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,True,E1,0,1
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),True,ASCENSOR EXTERIOR,0,0
-1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,False,ASCENSOR NORTE A1,0,0
-1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),False,Ext (E3),0,1
+1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),True,Ext (E3),0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,True,Norte (E2),1,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,True,Sur(E1),0,1
 1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),True,ASCENSOR N1,0,0
@@ -39,7 +39,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,True,E3,0,1
 1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,False,ASCENSOR N1,0,0
 1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,True,ASCENSOR N2,0,0
-1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,False,ASCENSOR N3,0,0
+1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,True,ASCENSOR N3,0,0
 1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,True,E2(EXT),0,1
 1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,True,E3,0,1
 1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,True,E4,0,1
@@ -394,7 +394,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A4,0,0
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,False,A5,0,0
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,True,A5,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,True,A7,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
