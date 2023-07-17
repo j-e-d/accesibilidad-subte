@@ -312,7 +312,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,502,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,2023-07-17T06:12:10-03:00,,True,A1,0,0
 6,Línea H,False,502,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,2023-07-17T06:12:10-03:00,,True,A2,0,0
 6,Línea H,False,502,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),2023-07-17T06:12:10-03:00,,True,A3,0,0
-6,Línea H,False,502,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,2023-07-17T06:12:10-03:00,,True,E1,0,1
+6,Línea H,False,502,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,2023-07-17T08:01:01-03:00,,False,E1,0,1
 6,Línea H,False,502,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,2023-07-17T06:12:10-03:00,,True,E2,1,1
 6,Línea H,False,502,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,2023-07-17T06:12:10-03:00,,True,E3,0,1
 6,Línea H,False,502,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,2023-07-17T06:12:10-03:00,,True,E4,0,1
