@@ -245,7 +245,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2023-07-18T05:55:02-03:00,,True,ED2(3),0,1
 5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2023-07-18T05:55:02-03:00,,False,Ei(Ext),0,1
 5,Línea E,False,402,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,2023-07-18T05:55:02-03:00,,True,E1(5),0,1
-5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-07-18T10:04:46-03:00,,False,EA2(6),0,1
+5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-07-18T10:07:12-03:00,,True,EA2(6),0,1
 5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2023-07-18T05:55:02-03:00,,True,ED2(8),0,1
 5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-07-18T05:55:02-03:00,,True,EA1(10),0,1
 5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-07-18T05:55:02-03:00,,True,ED2(9),1,1
