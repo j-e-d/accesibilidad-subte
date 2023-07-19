@@ -100,7 +100,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,True,A2,0,0
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°1: Andén central - Av.Triunvirato  3101,True,E1,0,1
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°2: Andén Central - Av.Triunvirato 3174,True,E2,1,1
-2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,True,E3,0,1
+2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,False,E3,0,1
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Escalera N°4: Andén central - Vestíbulo,True,E4,1,1
 2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,True,A1,0,0
 2,Línea B,False,115,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,True,A2,0,0
