@@ -114,7 +114,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,116,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,2023-07-18T19:57:34-03:00,,True,E1,0,1
 2,Línea B,False,116,Echeverría,1,Escalera N°2: Entrepiso - vestbulo,2023-07-18T19:57:34-03:00,,True,E2,0,1
 2,Línea B,False,116,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,2023-07-18T19:57:34-03:00,,True,E3,0,1
-2,Línea B,False,116,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,2023-07-18T19:57:34-03:00,,True,E4,0,1
+2,Línea B,False,116,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,2023-07-18T22:16:59-03:00,,True,E4,0,1
 2,Línea B,False,116,Echeverría,0,Escalera N°5: Andén sentido Alem - Entrepiso,2023-07-18T19:57:34-03:00,,True,E5,0,1
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,2023-07-18T19:57:34-03:00,,True,A1,0,0
 2,Línea B,False,117,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,2023-07-18T19:57:34-03:00,,True,A2,0,0
@@ -250,7 +250,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-07-18T18:45:24-03:00,,True,EA1(10),0,1
 5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-07-18T18:45:24-03:00,,True,ED2(9),1,1
 5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-07-18T18:45:24-03:00,,True,Ei(EXT),0,1
-5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-07-18T18:45:24-03:00,,True,EA1(11),0,1
+5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-07-18T21:29:46-03:00,,True,EA1(11),0,1
 5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-07-18T18:45:24-03:00,,True,EA2(12),0,1
 5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-07-18T18:45:24-03:00,,True,EA1(13),0,1
 5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-07-18T18:45:24-03:00,,True,EA2(14),0,1
