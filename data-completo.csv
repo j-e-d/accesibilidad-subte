@@ -80,7 +80,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2023-07-19T05:20:29-03:00,,True,E11,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2023-07-19T05:20:29-03:00,,True,E12,0,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,2023-07-19T05:20:29-03:00,,True,E9,0,1
-2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-07-19T05:20:29-03:00,,True,E1,0,1
+2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2023-07-19T05:23:23-03:00,,False,E1,0,1
 2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2023-07-19T05:20:29-03:00,,True,E5,1,1
 2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2023-07-19T05:20:29-03:00,,True,E6,0,1
 2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2023-07-19T05:20:29-03:00,,True,E7,0,1
