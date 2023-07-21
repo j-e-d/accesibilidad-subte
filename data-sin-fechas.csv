@@ -22,8 +22,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,EXT(E2),0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,True,EXT(E2),0,1
-1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,True,ASCENSOR SUR A2,0,0
+1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,False,ASCENSOR NORTE A1,0,0
+1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,False,ASCENSOR SUR A2,0,0
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,True,E1,0,1
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),True,ASCENSOR EXTERIOR,0,0
@@ -218,7 +218,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,313,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,False,E2(32),0,1
 4,Línea D,False,313,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,True,E2(34),0,1
 4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,True,E4(33),0,1
-4,Línea D,False,313,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617. Cerrada por mantenimiento integral.,True,Ei(35),0,1
+4,Línea D,False,313,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617. Cerrada por mantenimiento integral.,False,Ei(35),0,1
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,False,S36,0,2
 4,Línea D,False,313,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,True,S37,0,2
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°3:  Andén - vestíbulo,True,S38,0,2
