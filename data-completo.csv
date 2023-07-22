@@ -179,7 +179,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),2023-07-22T18:15:41-03:00,,True,Ei(ext),0,1
 4,Línea D,False,304,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,2023-07-22T18:15:41-03:00,,False,ASCENSOR N1,0,0
 4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,2023-07-22T18:15:41-03:00,,True,Ei(ext),0,1
-4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,2023-07-22T19:35:14-03:00,,False,ASCENSOR N1,0,0
+4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,2023-07-22T19:54:47-03:00,,True,ASCENSOR N1,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,2023-07-22T18:15:41-03:00,,False,ASCENSOR N2,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2023-07-22T18:15:41-03:00,,True,E1(8),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,2023-07-22T18:15:41-03:00,,True,E2(7),0,1
@@ -199,7 +199,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2023-07-22T18:15:41-03:00,,False,E1(18),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2023-07-22T18:15:41-03:00,,True,E2(17),0,1
 4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2023-07-22T18:15:41-03:00,,True,EI(EXT),0,1
-4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,2023-07-22T18:15:41-03:00,,True,E1(22),0,1
+4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,2023-07-22T19:54:47-03:00,,False,E1(22),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,2023-07-22T18:15:41-03:00,,True,E2(21),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,2023-07-22T18:15:41-03:00,,True,E3(24),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,2023-07-22T18:15:41-03:00,,True,E4(23),0,1
