@@ -12,7 +12,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),2023-07-21T16:29:54-03:00,,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2023-07-21T16:29:54-03:00,,True,E1,0,1
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2023-07-21T16:29:54-03:00,,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2023-07-21T20:41:54-03:00,,False,E1,0,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2023-07-21T22:37:29-03:00,,True,E1,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2023-07-21T16:29:54-03:00,,True,E2,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2023-07-21T16:29:54-03:00,,True,E3(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,2023-07-21T16:29:54-03:00,,True,E4(EXT),0,1
@@ -23,7 +23,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,2023-07-21T16:29:54-03:00,,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2023-07-21T16:29:54-03:00,,True,EXT(E2),0,1
 1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,2023-07-21T16:29:54-03:00,,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2023-07-21T16:29:54-03:00,,False,ASCENSOR SUR A2,0,0
+1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2023-07-21T21:45:54-03:00,,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-07-21T16:29:54-03:00,,False,E1,0,1
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-07-21T16:29:54-03:00,,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-07-21T16:29:54-03:00,,True,ASCENSOR EXTERIOR,0,0
@@ -279,7 +279,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,2023-07-21T18:28:33-03:00,,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,2023-07-21T18:28:33-03:00,,True,E5,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,2023-07-21T18:28:33-03:00,,True,E6,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-07-21T18:28:33-03:00,,True,E7,1,1
+5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-07-21T21:27:00-03:00,,False,E7,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,2023-07-21T18:28:33-03:00,,True,E8,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),2023-07-21T18:28:33-03:00,,True,E9,0,1
 5,Línea E,False,416,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,2023-07-21T18:28:33-03:00,,True,A1,0,0
