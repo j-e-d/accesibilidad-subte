@@ -18,7 +18,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,S5,0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,S6,1,1
-1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,False,ASCENSOR NORTE A1,0,0
+1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,EXT(E2),0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,True,EXT(E2),0,1
@@ -78,7 +78,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,105,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°10: Vestíbulo - Andén sentido Alem,True,E10,1,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,True,E11,1,1
-2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
+2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,False,E12,0,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
 2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,False,E1,0,1
 2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,True,E5,1,1
@@ -170,21 +170,21 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,301,Catedral,2,Ascensor N°1: Andén sur sentido Congreso de Tucumán  - Av. Roque Sáenz Peña 534 (sólo ingreso),True,ASCENSOR N1,0,0
 4,Línea D,False,301,Catedral,0,Ascensor N° 2 Andén Norte - Sólo hacia el exterior: Av. Roque Sáenz Peña 567,False,Ascensor N° 2: Andén de arribo de formaciones,0,0
 4,Línea D,False,301,Catedral,0,Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior),False,Ei (1),0,1
-4,Línea D,False,302,9 de Julio,2,Escalera N°2: Línea C - vestíbulo Línea D,False,Ei(2),0,1
-4,Línea D,False,303,Tribunales – Teatro Colón,1,Ascensor N°1: Andén central - Esquina Tucumán 1300 - Talcahuano 600,True,ASCENSOR N1,0,0
+4,Línea D,False,302,9 de Julio,2,Escalera N°2: Línea C - vestíbulo Línea D,True,Ei(2),0,1
+4,Línea D,False,303,Tribunales – Teatro Colón,1,Ascensor N°1: Andén central - Esquina Tucumán 1300 - Talcahuano 600,False,ASCENSOR N1,0,0
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),False,E1(4),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°3: Andén central - vestíbulo este    E2 (3),False,E2(3),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),True,E3(6),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),True,E4(5),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),True,Ei(ext),0,1
-4,Línea D,False,304,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,True,ASCENSOR N1,0,0
+4,Línea D,False,304,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,False,ASCENSOR N1,0,0
 4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,True,Ei(ext),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,True,ASCENSOR N1,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,False,ASCENSOR N2,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,True,E1(8),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,True,E2(7),0,1
 4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,False,EI(EXT),0,1
-4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,True,E1(10),0,1
+4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,False,E1(10),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E2(9),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EI(EXT),0,1
 4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E1(12),0,1
@@ -215,7 +215,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,312,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,True,S32,0,2
 4,Línea D,False,312,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,True,S33,0,2
 4,Línea D,False,313,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,True,E2(31),0,1
-4,Línea D,False,313,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,False,E2(32),0,1
+4,Línea D,False,313,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,True,E2(32),0,1
 4,Línea D,False,313,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,True,E2(34),0,1
 4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,True,E4(33),0,1
 4,Línea D,False,313,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617. Cerrada por mantenimiento integral.,True,Ei(35),0,1
@@ -227,7 +227,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,0,Ascensor N°3: Andén sentido Catedral - Vestíbulo.,True,ASCENSOR N3,0,0
 4,Línea D,False,314,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,False,E1(36),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,False,E1(38),0,1
-4,Línea D,False,314,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,True,E2(37),0,1
+4,Línea D,False,314,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,False,E2(37),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,True,E2(39),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E3(40),1,1
 4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E4(41),1,1
@@ -299,7 +299,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",True,E3,0,1
 5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",True,E4,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,True,E5,1,1
-5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,False,E6,0,1
+5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,True,E6,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),True,E7,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,True,E8,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central,True,E9,1,1
@@ -406,7 +406,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,True,E7,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,True,E9,0,1
-6,Línea H,False,511,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),False,A1,0,0
+6,Línea H,False,511,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),True,A1,0,0
 6,Línea H,False,511,Las Heras,2,Ascensor N°2: Entrepiso - Hall Boletería,True,A2,0,0
 6,Línea H,False,511,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,True,A3,0,0
 6,Línea H,False,511,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,True,A4,0,0
