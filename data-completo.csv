@@ -347,7 +347,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,506,Venezuela,0,Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina,2023-07-24T18:01:54-03:00,,True,E1,0,1
 6,Línea H,False,506,Venezuela,2,Escalera N°1: Vestíbulo - Av. Jujuy 425,2023-07-24T18:01:54-03:00,,True,E2,0,1
 6,Línea H,False,506,Venezuela,1,Escalera N°2: Vestíbulo - Jujuy 420. Cerrada por renovación de medio de elevación.,2023-07-24T18:01:54-03:00,,False,E3,0,1
-6,Línea H,False,506,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,2023-07-24T18:01:54-03:00,,True,E4,0,1
+6,Línea H,False,506,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,2023-07-24T19:09:54-03:00,,False,E4,0,1
 6,Línea H,False,507,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,2023-07-24T18:01:54-03:00,,True,A1,0,0
 6,Línea H,False,507,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,2023-07-24T18:01:54-03:00,,True,A2,0,0
 6,Línea H,False,507,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,2023-07-24T18:01:54-03:00,,True,A3,0,0
