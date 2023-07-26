@@ -17,7 +17,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,E3(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,S5,0,1
-1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,S6,1,1
+1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,False,S6,1,1
 1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,EXT(E2),0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,ASCENSOR SUR A2,0,0
@@ -94,7 +94,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,E1,0,1
-2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,True,E2,0,1
+2,Línea B,False,113,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,False,E2,0,1
 2,Línea B,False,113,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,True,E3,1,1
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°1: Vestíbulo - Tronador 750,True,A1,0,0
 2,Línea B,False,114,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,True,A2,0,0
