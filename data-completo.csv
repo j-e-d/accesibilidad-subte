@@ -370,7 +370,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,1,Ascensor N°5:Andén a Hospitales – Entrepiso combinación L/B sentido Alem,2023-07-27T06:26:23-03:00,,True,A5,0,0
 6,Línea H,False,508,Corrientes,1,Ascensor N°6: Hall  - Combinación con Línea B sentido a J.M. de Rosas,2023-07-27T06:26:23-03:00,,True,A6,0,0
 6,Línea H,False,508,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,2023-07-27T06:26:23-03:00,,False,Camino Rodante N°3,0,0
-6,Línea H,False,508,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,2023-07-27T06:26:23-03:00,,True,Camino rodante N°4,0,0
+6,Línea H,False,508,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,2023-07-27T14:14:06-03:00,,False,Camino rodante N°4,0,0
 6,Línea H,False,508,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,2023-07-27T06:26:23-03:00,,True,E1,0,1
 6,Línea H,False,508,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,2023-07-27T06:26:23-03:00,,True,E10,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,2023-07-27T06:26:23-03:00,,False,E2,0,1
