@@ -178,7 +178,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),2023-07-28T06:27:33-03:00,,True,E4(5),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),2023-07-28T06:27:33-03:00,,True,Ei(ext),0,1
 4,Línea D,False,304,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,2023-07-28T06:27:33-03:00,,False,ASCENSOR N1,0,0
-4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,2023-07-28T06:27:33-03:00,,True,Ei(ext),0,1
+4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,2023-07-28T09:20:47-03:00,,False,Ei(ext),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,2023-07-28T06:27:33-03:00,,True,ASCENSOR N1,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,2023-07-28T06:27:33-03:00,,False,ASCENSOR N2,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2023-07-28T06:27:33-03:00,,True,E1(8),0,1
@@ -279,7 +279,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,2023-07-28T07:03:55-03:00,,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,2023-07-28T07:03:55-03:00,,True,E5,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,2023-07-28T07:03:55-03:00,,True,E6,0,1
-5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-07-28T07:03:55-03:00,,True,E7,1,1
+5,Línea E,False,415,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2023-07-28T09:28:04-03:00,,False,E7,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,2023-07-28T07:03:55-03:00,,True,E8,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),2023-07-28T07:03:55-03:00,,True,E9,0,1
 5,Línea E,False,416,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,2023-07-28T07:03:55-03:00,,True,A1,0,0
