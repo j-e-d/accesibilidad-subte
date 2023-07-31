@@ -231,7 +231,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,True,E2(39),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E3(40),1,1
 4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E4(41),1,1
-4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,False,ASCENSOR N1,0,0
+4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,ASCENSOR N1,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,False,ASCENSOR N2,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E1(42),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,True,E2(43),0,1
@@ -259,8 +259,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,False,EA1(17),0,1
 5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,False,EA2(18),0,1
 5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,True,EA1(19),0,1
-5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,False,EA2(20),0,1
-5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,False,EA1(21),0,1
+5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,True,EA2(20),0,1
+5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,True,EA1(21),0,1
 5,Línea E,False,410,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,True,EA1(22),0,1
 5,Línea E,False,410,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,ED1(23),0,1
 5,Línea E,False,411,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,EA1(24),0,1
@@ -304,13 +304,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,417,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,True,E8,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central,True,E9,1,1
 6,Línea H,False,501,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
-6,Línea H,False,501,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,True,A2,0,0
+6,Línea H,False,501,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,False,A2,0,0
 6,Línea H,False,501,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
 6,Línea H,False,501,Hospitales,0,Escalera N°1: Andén - vestíbulo,True,E1,0,1
 6,Línea H,False,501,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,True,E2,0,1
 6,Línea H,False,501,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,True,E3,0,1
 6,Línea H,False,502,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,True,A1,0,0
-6,Línea H,False,502,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,False,A2,0,0
+6,Línea H,False,502,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,502,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),True,A3,0,0
 6,Línea H,False,502,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,True,E1,0,1
 6,Línea H,False,502,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,True,E2,1,1
