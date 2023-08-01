@@ -53,8 +53,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,True,ASCENSOR N1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,ASCENSOR N2,0,0
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,Ext (E1),0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,False,Int (E2),0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,False,Int (E3),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,Int (E2),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,True,Int (E3),0,1
 2,Línea B,False,101,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,E1,0,1
 2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,E2,0,1
 2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E19,1,1
