@@ -209,7 +209,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,True,E8(19),0,1
 4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E1(28),0,1
 4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E2(27),0,1
-4,Línea D,False,312,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,False,E3(30),0,1
+4,Línea D,False,312,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,True,E3(30),0,1
 4,Línea D,False,312,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E4(29),0,1
 4,Línea D,False,312,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,True,S31,0,2
 4,Línea D,False,312,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,True,S32,0,2
@@ -226,7 +226,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,2,Ascensor N°2: Andén sentido Congreso de Tucumán - Boletería.,True,ASCENSOR N2,0,0
 4,Línea D,False,314,Juramento,0,Ascensor N°3: Andén sentido Catedral - Vestíbulo.,True,ASCENSOR N3,0,0
 4,Línea D,False,314,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,True,E1(36),0,1
-4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,True,E1(38),0,1
+4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,False,E1(38),0,1
 4,Línea D,False,314,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,False,E2(37),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,True,E2(39),0,1
 4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E3(40),1,1
