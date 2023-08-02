@@ -2,59 +2,59 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,2023-08-01T16:01:14-03:00,,True,ASCENSOR UNICO,0,0
 1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),2023-08-01T16:01:14-03:00,,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),2023-08-01T16:01:14-03:00,,True,ASCENSOR SUR A2,0,0
-1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,2023-08-02T01:52:01-03:00,,True,E1,0,1
-1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,2023-08-02T01:52:01-03:00,,False,E2,1,1
-1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,2023-08-02T01:52:01-03:00,,False,E1,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,2023-08-02T01:52:01-03:00,,True,E2,0,1
-1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,2023-08-02T01:52:01-03:00,,True,E1,0,1
-1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,2023-08-02T01:52:01-03:00,,True,E2,0,1
+1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,2023-08-02T02:14:16-03:00,,True,E1,0,1
+1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,2023-08-02T02:14:16-03:00,,False,E2,1,1
+1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,2023-08-02T02:14:16-03:00,,False,E1,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,2023-08-02T02:14:16-03:00,,False,E2,0,1
+1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,2023-08-02T02:14:16-03:00,,True,E1,0,1
+1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,2023-08-02T02:14:16-03:00,,True,E2,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,2023-08-01T16:01:14-03:00,,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),2023-08-01T16:01:14-03:00,,True,ASCENSOR SUR A2,0,0
-1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2023-08-02T01:52:01-03:00,,True,E1,0,1
-1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2023-08-02T01:52:01-03:00,,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2023-08-02T01:52:01-03:00,,True,E1,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2023-08-02T01:52:01-03:00,,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2023-08-02T01:52:01-03:00,,False,E3(EXT),0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,2023-08-02T01:52:01-03:00,,True,E4(EXT),0,1
+1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2023-08-02T02:14:16-03:00,,True,E1,0,1
+1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2023-08-02T02:14:16-03:00,,True,E2,0,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2023-08-02T02:14:16-03:00,,True,E1,0,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2023-08-02T02:14:16-03:00,,True,E2,0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2023-08-02T02:14:16-03:00,,False,E3(EXT),0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,2023-08-02T02:14:16-03:00,,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,2023-08-01T16:01:14-03:00,,True,S5,0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,2023-08-01T16:01:14-03:00,,True,S6,1,1
 1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,2023-08-01T16:01:14-03:00,,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2023-08-02T01:52:01-03:00,,False,EXT(E2),0,1
+1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2023-08-02T02:14:16-03:00,,False,EXT(E2),0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,2023-08-01T16:01:14-03:00,,True,ASCENSOR SUR A2,0,0
-1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2023-08-02T01:52:01-03:00,,False,EXT(E2),0,1
+1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2023-08-02T02:14:16-03:00,,False,EXT(E2),0,1
 1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,2023-08-01T16:01:14-03:00,,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2023-08-01T16:01:14-03:00,,False,ASCENSOR SUR A2,0,0
-1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-08-02T01:52:01-03:00,,False,E1,0,1
-1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-08-02T01:52:01-03:00,,False,E2,1,1
+1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2023-08-02T02:14:16-03:00,,False,E1,0,1
+1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2023-08-02T02:14:16-03:00,,False,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°2 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-08-01T16:01:14-03:00,,True,ASCENSOR EXTERIOR,0,0
 1,Línea A,False,10,Primera Junta,2,Ascensor N°1: Andén sentido Plaza de Mayo- vestíbulo,2023-08-01T16:01:14-03:00,,False,ASCENSOR NORTE A1,0,0
-1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-08-02T01:52:01-03:00,,False,Ext (E3),0,1
-1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,2023-08-02T01:52:01-03:00,,True,Norte (E2),1,1
-1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2023-08-02T01:52:01-03:00,,True,Sur(E1),0,1
+1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),2023-08-02T02:14:16-03:00,,False,Ext (E3),0,1
+1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,2023-08-02T02:14:16-03:00,,True,Norte (E2),1,1
+1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2023-08-02T02:14:16-03:00,,False,Sur(E1),0,1
 1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),2023-08-01T16:01:14-03:00,,True,ASCENSOR N1,0,0
 1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,2023-08-01T16:01:14-03:00,,True,ASCENSOR N2,0,0
 1,Línea A,False,11,Puan,0,Ascensor N°3: Andén - vestíbulo,2023-08-01T16:01:14-03:00,,True,ASCENSOR N3,0,0
-1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),2023-08-02T01:52:01-03:00,,True,E1(EXT),0,1
-1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,2023-08-02T01:52:01-03:00,,True,E2,0,1
-1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,2023-08-02T01:52:01-03:00,,False,E3,0,1
+1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),2023-08-02T02:14:16-03:00,,True,E1(EXT),0,1
+1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,2023-08-02T02:14:16-03:00,,True,E2,0,1
+1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,2023-08-02T02:14:16-03:00,,False,E3,0,1
 1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,2023-08-01T16:01:14-03:00,,False,ASCENSOR N1,0,0
 1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,2023-08-01T16:01:14-03:00,,True,ASCENSOR N2,0,0
 1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,2023-08-01T16:01:14-03:00,,True,ASCENSOR N3,0,0
-1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,2023-08-02T01:52:01-03:00,,False,E2(EXT),0,1
-1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,2023-08-02T01:52:01-03:00,,True,E3,0,1
-1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,2023-08-02T01:52:01-03:00,,True,E4,0,1
+1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,2023-08-02T02:14:16-03:00,,False,E2(EXT),0,1
+1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,2023-08-02T02:14:16-03:00,,True,E3,0,1
+1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,2023-08-02T02:14:16-03:00,,True,E4,0,1
 1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),2023-08-01T16:01:14-03:00,,True,ASCENSOR N1,0,0
 1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,2023-08-01T16:01:14-03:00,,True,ASCENSOR N2,0,0
 1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,2023-08-01T16:01:14-03:00,,True,ASCENSOR N3,0,0
-1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,2023-08-02T01:52:01-03:00,,False,E1(EXT),0,1
-1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,2023-08-02T01:52:01-03:00,,False,E4(Ext),0,1
-1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,2023-08-02T01:52:01-03:00,,True,Int(E2),0,1
-1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,2023-08-02T01:52:01-03:00,,False,Int(E3),0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,2023-08-02T02:14:16-03:00,,False,E1(EXT),0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,2023-08-02T02:14:16-03:00,,False,E4(Ext),0,1
+1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,2023-08-02T02:14:16-03:00,,True,Int(E2),0,1
+1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,2023-08-02T02:14:16-03:00,,False,Int(E3),0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,2023-08-01T16:01:14-03:00,,True,ASCENSOR N1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,2023-08-01T16:01:14-03:00,,True,ASCENSOR N2,0,0
-1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,2023-08-02T01:52:01-03:00,,True,Ext (E1),0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,2023-08-02T01:52:01-03:00,,True,Int (E2),0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,2023-08-02T01:52:01-03:00,,True,Int (E3),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,2023-08-02T02:14:16-03:00,,True,Ext (E1),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,2023-08-02T02:14:16-03:00,,True,Int (E2),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,2023-08-02T02:14:16-03:00,,True,Int (E3),0,1
 2,Línea B,False,101,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,2023-08-01T18:45:26-03:00,,True,E1,0,1
 2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,2023-08-01T18:45:26-03:00,,True,E2,0,1
 2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,2023-08-01T18:45:26-03:00,,True,E19,1,1
@@ -169,56 +169,56 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,209,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,2023-08-01T18:43:38-03:00,,True,E19,1,1
 4,Línea D,False,301,Catedral,2,Ascensor N°1: Andén sur sentido Congreso de Tucumán  - Av. Roque Sáenz Peña 534 (sólo ingreso),2023-08-01T18:56:29-03:00,,True,ASCENSOR N1,0,0
 4,Línea D,False,301,Catedral,0,Ascensor N° 2 Andén Norte - Sólo hacia el exterior: Av. Roque Sáenz Peña 567,2023-08-01T18:56:29-03:00,,False,Ascensor N° 2: Andén de arribo de formaciones,0,0
-4,Línea D,False,301,Catedral,0,Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior),2023-08-02T01:52:01-03:00,,False,Ei (1),0,1
-4,Línea D,False,302,9 de Julio,2,Escalera N°2: Línea C - vestíbulo Línea D,2023-08-02T01:52:01-03:00,,False,Ei(2),0,1
+4,Línea D,False,301,Catedral,0,Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior),2023-08-02T02:14:16-03:00,,False,Ei (1),0,1
+4,Línea D,False,302,9 de Julio,2,Escalera N°2: Línea C - vestíbulo Línea D,2023-08-02T02:14:16-03:00,,False,Ei(2),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Ascensor N°1: Andén central - Esquina Tucumán 1300 - Talcahuano 600,2023-08-01T18:56:29-03:00,,False,ASCENSOR N1,0,0
-4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),2023-08-02T01:52:01-03:00,,False,E1(4),0,1
+4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),2023-08-02T02:14:16-03:00,,True,E1(4),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°3: Andén central - vestíbulo este    E2 (3),2023-08-01T18:56:29-03:00,,True,E2(3),0,1
-4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),2023-08-02T01:52:01-03:00,,True,E3(6),0,1
-4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),2023-08-02T01:52:01-03:00,,True,E4(5),0,1
-4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),2023-08-02T01:52:01-03:00,,False,Ei(ext),0,1
+4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),2023-08-02T02:14:16-03:00,,True,E3(6),0,1
+4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),2023-08-02T02:14:16-03:00,,True,E4(5),0,1
+4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),2023-08-02T02:14:16-03:00,,False,Ei(ext),0,1
 4,Línea D,False,304,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,2023-08-01T18:56:29-03:00,,False,ASCENSOR N1,0,0
-4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,2023-08-02T01:52:01-03:00,,False,Ei(ext),0,1
+4,Línea D,False,304,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,2023-08-02T02:14:16-03:00,,False,Ei(ext),0,1
 4,Línea D,False,305,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,2023-08-01T18:56:29-03:00,,True,ASCENSOR N1,0,0
 4,Línea D,False,305,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,2023-08-01T18:56:29-03:00,,False,ASCENSOR N2,0,0
-4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2023-08-02T01:52:01-03:00,,False,E1(8),0,1
-4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,2023-08-02T01:52:01-03:00,,False,E2(7),0,1
-4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2023-08-02T01:52:01-03:00,,False,EI(EXT),0,1
-4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,2023-08-02T01:52:01-03:00,,True,E1(10),0,1
-4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,2023-08-02T01:52:01-03:00,,False,E2(9),0,1
-4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2023-08-02T01:52:01-03:00,,False,EI(EXT),0,1
-4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2023-08-02T01:52:01-03:00,,False,E1(12),0,1
-4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2023-08-02T01:52:01-03:00,,False,E2(11),0,1
-4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2023-08-02T01:52:01-03:00,,False,EI(1),0,1
-4,Línea D,False,308,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,2023-08-02T01:52:01-03:00,,False,EI(EXT),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2023-08-02T01:52:01-03:00,,False,E1(14),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,2023-08-02T01:52:01-03:00,,False,E2(13),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2023-08-02T01:52:01-03:00,,False,E3(16),0,1
-4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2023-08-02T01:52:01-03:00,,False,E4(15),0,1
+4,Línea D,False,305,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2023-08-02T02:14:16-03:00,,False,E1(8),0,1
+4,Línea D,False,305,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,2023-08-02T02:14:16-03:00,,False,E2(7),0,1
+4,Línea D,False,305,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2023-08-02T02:14:16-03:00,,False,EI(EXT),0,1
+4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,2023-08-02T02:14:16-03:00,,True,E1(10),0,1
+4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,2023-08-02T02:14:16-03:00,,False,E2(9),0,1
+4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2023-08-02T02:14:16-03:00,,False,EI(EXT),0,1
+4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2023-08-02T02:14:16-03:00,,False,E1(12),0,1
+4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2023-08-02T02:14:16-03:00,,False,E2(11),0,1
+4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2023-08-02T02:14:16-03:00,,False,EI(1),0,1
+4,Línea D,False,308,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,2023-08-02T02:14:16-03:00,,False,EI(EXT),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2023-08-02T02:14:16-03:00,,False,E1(14),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,2023-08-02T02:14:16-03:00,,False,E2(13),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2023-08-02T02:14:16-03:00,,False,E3(16),0,1
+4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2023-08-02T02:14:16-03:00,,False,E4(15),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2023-08-01T18:56:29-03:00,,False,EI(EXT),0,1
-4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2023-08-02T01:52:01-03:00,,False,E1(18),0,1
-4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2023-08-02T01:52:01-03:00,,False,E2(17),0,1
-4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2023-08-02T01:52:01-03:00,,False,EI(EXT),0,1
-4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,2023-08-02T01:52:01-03:00,,False,E1(22),0,1
-4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,2023-08-02T01:52:01-03:00,,False,E2(21),0,1
-4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,2023-08-02T01:52:01-03:00,,False,E3(24),0,1
-4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,2023-08-02T01:52:01-03:00,,False,E4(23),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,2023-08-02T01:52:01-03:00,,False,E5(25),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),2023-08-02T01:52:01-03:00,,False,E6(26),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,2023-08-02T01:52:01-03:00,,False,E7(20),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,2023-08-02T01:52:01-03:00,,False,E8(19),0,1
-4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,2023-08-02T01:52:01-03:00,,False,E1(28),0,1
-4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,2023-08-02T01:52:01-03:00,,True,E2(27),0,1
-4,Línea D,False,312,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,2023-08-02T01:52:01-03:00,,False,E3(30),0,1
-4,Línea D,False,312,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,2023-08-02T01:52:01-03:00,,False,E4(29),0,1
+4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2023-08-02T02:14:16-03:00,,False,E1(18),0,1
+4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2023-08-02T02:14:16-03:00,,False,E2(17),0,1
+4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2023-08-02T02:14:16-03:00,,False,EI(EXT),0,1
+4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,2023-08-02T02:14:16-03:00,,False,E1(22),0,1
+4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,2023-08-02T02:14:16-03:00,,False,E2(21),0,1
+4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,2023-08-02T02:14:16-03:00,,False,E3(24),0,1
+4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,2023-08-02T02:14:16-03:00,,False,E4(23),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,2023-08-02T02:14:16-03:00,,False,E5(25),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),2023-08-02T02:14:16-03:00,,True,E6(26),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,2023-08-02T02:14:16-03:00,,False,E7(20),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,2023-08-02T02:14:16-03:00,,False,E8(19),0,1
+4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,2023-08-02T02:14:16-03:00,,False,E1(28),0,1
+4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,2023-08-02T02:14:16-03:00,,True,E2(27),0,1
+4,Línea D,False,312,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,2023-08-02T02:14:16-03:00,,False,E3(30),0,1
+4,Línea D,False,312,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,2023-08-02T02:14:16-03:00,,False,E4(29),0,1
 4,Línea D,False,312,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,2023-08-01T18:56:29-03:00,,True,S31,0,2
 4,Línea D,False,312,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,2023-08-01T18:56:29-03:00,,True,S32,0,2
 4,Línea D,False,312,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,2023-08-01T18:56:29-03:00,,True,S33,0,2
-4,Línea D,False,313,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,2023-08-02T01:52:01-03:00,,False,E2(31),0,1
-4,Línea D,False,313,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,2023-08-02T01:52:01-03:00,,False,E2(32),0,1
-4,Línea D,False,313,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,2023-08-02T01:52:01-03:00,,True,E2(34),0,1
-4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,2023-08-02T01:52:01-03:00,,True,E4(33),0,1
-4,Línea D,False,313,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617. Cerrada por mantenimiento integral.,2023-08-02T01:52:01-03:00,,False,Ei(35),0,1
+4,Línea D,False,313,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,2023-08-02T02:14:16-03:00,,False,E2(31),0,1
+4,Línea D,False,313,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,2023-08-02T02:14:16-03:00,,False,E2(32),0,1
+4,Línea D,False,313,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,2023-08-02T02:14:16-03:00,,True,E2(34),0,1
+4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,2023-08-02T02:14:16-03:00,,True,E4(33),0,1
+4,Línea D,False,313,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617. Cerrada por mantenimiento integral.,2023-08-02T02:14:16-03:00,,False,Ei(35),0,1
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,2023-08-01T18:56:29-03:00,,False,S36,0,2
 4,Línea D,False,313,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,2023-08-01T18:56:29-03:00,,True,S37,0,2
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°3:  Andén - vestíbulo,2023-08-01T18:56:29-03:00,,True,S38,0,2
@@ -226,49 +226,49 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,314,Juramento,2,Ascensor N°2: Andén sentido Congreso de Tucumán - Boletería.,2023-08-01T18:56:29-03:00,,True,ASCENSOR N2,0,0
 4,Línea D,False,314,Juramento,0,Ascensor N°3: Andén sentido Catedral - Vestíbulo.,2023-08-01T18:56:29-03:00,,True,ASCENSOR N3,0,0
 4,Línea D,False,314,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,2023-08-01T18:56:29-03:00,,False,E1(36),0,1
-4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,2023-08-02T01:52:01-03:00,,False,E1(38),0,1
+4,Línea D,False,314,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,2023-08-02T02:14:16-03:00,,False,E1(38),0,1
 4,Línea D,False,314,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,2023-08-01T18:56:29-03:00,,False,E2(37),0,1
-4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,2023-08-02T01:52:01-03:00,,True,E2(39),0,1
-4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,2023-08-02T01:52:01-03:00,,False,E3(40),1,1
-4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,2023-08-02T01:52:01-03:00,,False,E4(41),1,1
+4,Línea D,False,314,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,2023-08-02T02:14:16-03:00,,True,E2(39),0,1
+4,Línea D,False,314,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,2023-08-02T02:14:16-03:00,,False,E3(40),1,1
+4,Línea D,False,314,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,2023-08-02T02:14:16-03:00,,False,E4(41),1,1
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,2023-08-01T18:56:29-03:00,,True,ASCENSOR N1,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,2023-08-01T18:56:29-03:00,,True,ASCENSOR N2,0,0
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,2023-08-02T01:52:01-03:00,,False,E1(42),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,2023-08-02T01:52:01-03:00,,False,E2(43),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,2023-08-02T01:52:01-03:00,,False,E3(44),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,2023-08-02T01:52:01-03:00,,False,E4(45),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,2023-08-02T01:52:01-03:00,,False,EI1(46),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,2023-08-02T01:52:01-03:00,,False,EI2(47),0,1
-5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,2023-08-02T01:52:01-03:00,,False,EA1(4),1,1
-5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,2023-08-02T01:52:01-03:00,,False,EA2 (1),0,1
-5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,2023-08-02T01:52:01-03:00,,False,ED1(2),1,1
-5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2023-08-02T01:52:01-03:00,,False,ED2(3),0,1
-5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2023-08-02T01:52:01-03:00,,False,Ei(Ext),0,1
-5,Línea E,False,402,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,2023-08-02T01:52:01-03:00,,False,E1(5),0,1
-5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-08-02T01:52:01-03:00,,False,EA2(6),0,1
-5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2023-08-02T01:52:01-03:00,,True,ED2(8),0,1
-5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-08-02T01:52:01-03:00,,False,EA1(10),0,1
-5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-08-02T01:52:01-03:00,,False,ED2(9),1,1
-5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-08-02T01:52:01-03:00,,False,Ei(EXT),0,1
-5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-08-02T01:52:01-03:00,,False,EA1(11),0,1
-5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-08-02T01:52:01-03:00,,False,EA2(12),0,1
-5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-08-02T01:52:01-03:00,,False,EA1(13),0,1
-5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-08-02T01:52:01-03:00,,False,EA2(14),0,1
-5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2023-08-02T01:52:01-03:00,,False,EA1(16),0,1
-5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2023-08-02T01:52:01-03:00,,False,EA2(15),0,1
-5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,2023-08-02T01:52:01-03:00,,False,EA1(17),0,1
-5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,2023-08-02T01:52:01-03:00,,False,EA2(18),0,1
-5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2023-08-02T01:52:01-03:00,,False,EA1(19),0,1
-5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,2023-08-02T01:52:01-03:00,,False,EA2(20),0,1
-5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,2023-08-02T01:52:01-03:00,,False,EA1(21),0,1
-5,Línea E,False,410,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,2023-08-02T01:52:01-03:00,,True,EA1(22),0,1
-5,Línea E,False,410,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,2023-08-02T01:52:01-03:00,,True,ED1(23),0,1
-5,Línea E,False,411,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,2023-08-02T01:52:01-03:00,,True,EA1(24),0,1
-5,Línea E,False,411,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2023-08-02T01:52:01-03:00,,True,EA2(25),0,1
-5,Línea E,False,412,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,2023-08-02T01:52:01-03:00,,False,EA1(7),0,1
-5,Línea E,False,413,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2023-08-02T01:52:01-03:00,,True,EA1(1),0,1
-5,Línea E,False,413,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2023-08-02T01:52:01-03:00,,True,EA2(2),0,1
-5,Línea E,False,414,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,2023-08-02T01:52:01-03:00,,False,EA1(26),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,2023-08-02T02:14:16-03:00,,False,E1(42),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,2023-08-02T02:14:16-03:00,,False,E2(43),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,2023-08-02T02:14:16-03:00,,True,E3(44),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,2023-08-02T02:14:16-03:00,,False,E4(45),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,2023-08-02T02:14:16-03:00,,False,EI1(46),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,2023-08-02T02:14:16-03:00,,False,EI2(47),0,1
+5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,2023-08-02T02:14:16-03:00,,False,EA1(4),1,1
+5,Línea E,False,401,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,2023-08-02T02:14:16-03:00,,False,EA2 (1),0,1
+5,Línea E,False,401,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,2023-08-02T02:14:16-03:00,,False,ED1(2),1,1
+5,Línea E,False,401,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2023-08-02T02:14:16-03:00,,False,ED2(3),0,1
+5,Línea E,False,401,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2023-08-02T02:14:16-03:00,,False,Ei(Ext),0,1
+5,Línea E,False,402,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,2023-08-02T02:14:16-03:00,,False,E1(5),0,1
+5,Línea E,False,402,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2023-08-02T02:14:16-03:00,,False,EA2(6),0,1
+5,Línea E,False,402,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2023-08-02T02:14:16-03:00,,True,ED2(8),0,1
+5,Línea E,False,403,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2023-08-02T02:14:16-03:00,,False,EA1(10),0,1
+5,Línea E,False,403,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2023-08-02T02:14:16-03:00,,False,ED2(9),1,1
+5,Línea E,False,403,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2023-08-02T02:14:16-03:00,,False,Ei(EXT),0,1
+5,Línea E,False,404,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2023-08-02T02:14:16-03:00,,False,EA1(11),0,1
+5,Línea E,False,404,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2023-08-02T02:14:16-03:00,,False,EA2(12),0,1
+5,Línea E,False,405,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2023-08-02T02:14:16-03:00,,False,EA1(13),0,1
+5,Línea E,False,405,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2023-08-02T02:14:16-03:00,,False,EA2(14),0,1
+5,Línea E,False,406,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2023-08-02T02:14:16-03:00,,False,EA1(16),0,1
+5,Línea E,False,406,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2023-08-02T02:14:16-03:00,,False,EA2(15),0,1
+5,Línea E,False,407,Jujuy,0,Escalera N°17: Estación cerrada por obras de renovación integral. Andén sentido Retiro - Boletería,2023-08-02T02:14:16-03:00,,False,EA1(17),0,1
+5,Línea E,False,407,Jujuy,2,Escalera N°18: Estación cerrada por obras de renovación integral. Andén sentido Virreyes - Boletería,2023-08-02T02:14:16-03:00,,False,EA2(18),0,1
+5,Línea E,False,408,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2023-08-02T02:14:16-03:00,,False,EA1(19),0,1
+5,Línea E,False,408,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,2023-08-02T02:14:16-03:00,,False,EA2(20),0,1
+5,Línea E,False,409,Boedo,1,Escalera N°21: Andén Central - Boletería,2023-08-02T02:14:16-03:00,,False,EA1(21),0,1
+5,Línea E,False,410,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,2023-08-02T02:14:16-03:00,,True,EA1(22),0,1
+5,Línea E,False,410,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,2023-08-02T02:14:16-03:00,,True,ED1(23),0,1
+5,Línea E,False,411,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,2023-08-02T02:14:16-03:00,,True,EA1(24),0,1
+5,Línea E,False,411,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2023-08-02T02:14:16-03:00,,True,EA2(25),0,1
+5,Línea E,False,412,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,2023-08-02T02:14:16-03:00,,False,EA1(7),0,1
+5,Línea E,False,413,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2023-08-02T02:14:16-03:00,,False,EA1(1),0,1
+5,Línea E,False,413,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2023-08-02T02:14:16-03:00,,False,EA2(2),0,1
+5,Línea E,False,414,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,2023-08-02T02:14:16-03:00,,False,EA1(26),0,1
 5,Línea E,False,415,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,2023-08-01T18:49:58-03:00,,True,A1,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°2: Vestíbulo norte - hall boletería norte,2023-08-01T18:49:58-03:00,,True,A2,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),2023-08-01T18:49:58-03:00,,False,A3,0,0
