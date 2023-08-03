@@ -198,7 +198,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,309,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,True,EI(EXT),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,False,E1(18),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,False,E2(17),0,1
-4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,True,EI(EXT),0,1
+4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,False,EI(EXT),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,False,E1(22),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,False,E2(21),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,False,E3(24),0,1
@@ -235,8 +235,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,True,ASCENSOR N2,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E1(42),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,True,E2(43),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,False,E3(44),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,False,E4(45),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,True,E3(44),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,True,E4(45),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,False,EI1(46),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,False,EI2(47),0,1
 5,Línea E,False,401,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,False,EA1(4),1,1
