@@ -235,7 +235,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,315,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,True,ASCENSOR N2,0,0
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E1(42),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,True,E2(43),0,1
-4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,False,E3(44),0,1
+4,Línea D,False,315,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,True,E3(44),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,True,E4(45),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,True,EI1(46),0,1
 4,Línea D,False,315,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,True,EI2(47),0,1
@@ -397,8 +397,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,True,A5,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,True,A7,0,0
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,False,E1,0,1
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,False,E2,0,1
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,True,E2,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,True,E3,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
