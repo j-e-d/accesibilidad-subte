@@ -63,7 +63,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E22,1,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
-2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,True,A1,0,0
+2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,104,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,104,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,True,E1,0,1
@@ -89,7 +89,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,108,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,True,E2,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
-2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,E1,0,1
+2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,False,E1,0,1
 2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,E1,0,1
@@ -205,8 +205,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E4(23),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,True,E5(25),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E6(26),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,True,E7(20),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,True,E8(19),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,False,E7(20),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,False,E8(19),0,1
 4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E1(28),0,1
 4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E2(27),0,1
 4,Línea D,False,312,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,True,E3(30),0,1
@@ -411,13 +411,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,511,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,True,A3,0,0
 6,Línea H,False,511,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,True,A4,0,0
 6,Línea H,False,511,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,True,E1,0,1
-6,Línea H,False,511,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,False,E2,1,1
+6,Línea H,False,511,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,True,E2,1,1
 6,Línea H,False,511,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,True,E3,0,1
 6,Línea H,False,511,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,False,E4,1,1
 6,Línea H,False,511,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
 6,Línea H,False,511,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),True,E6,0,1
 6,Línea H,False,512,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,True,A1,0,0
-6,Línea H,False,512,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
+6,Línea H,False,512,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,False,A2,0,0
 6,Línea H,False,512,Facultad de Derecho,1,Ascensor N°3: Vestíbulo - Facultad de Derecho Av. Figueroa Alcorta 2201,True,A3,0,0
 6,Línea H,False,512,Facultad de Derecho,0,Escalera N°1: Andén no operativo - vestíbulo,True,E1,0,1
 6,Línea H,False,512,Facultad de Derecho,2,Escalera N°2: Andén - vestíbulo,True,E2,0,1
