@@ -59,18 +59,18 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,101,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,E2,0,1
 2,Línea B,False,102,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E19,1,1
 2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E20,0,1
-2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E21,0,1
+2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,False,E21,0,1
 2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E22,1,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
 2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,104,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,104,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
-2,Línea B,False,104,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,True,E1,0,1
+2,Línea B,False,104,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,False,E1,0,1
 2,Línea B,False,104,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,True,E2,0,1
-2,Línea B,False,105,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,True,A1,0,0
+2,Línea B,False,105,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,False,A1,0,0
 2,Línea B,False,105,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
-2,Línea B,False,105,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
+2,Línea B,False,105,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,False,A3,0,0
 2,Línea B,False,105,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,E1,0,1
 2,Línea B,False,105,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
 2,Línea B,False,105,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
@@ -81,7 +81,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
 2,Línea B,False,106,Pasteur AMIA,0,Escalera N°9: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
 2,Línea B,False,107,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,False,E1,0,1
-2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,True,E5,1,1
+2,Línea B,False,107,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,False,E5,1,1
 2,Línea B,False,107,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,True,E6,0,1
 2,Línea B,False,107,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,True,E7,0,1
 2,Línea B,False,107,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,True,E8,1,1
@@ -196,9 +196,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,309,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E3(16),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,True,E4(15),0,1
 4,Línea D,False,309,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,True,EI(EXT),0,1
-4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,False,E1(18),0,1
+4,Línea D,False,310,Palermo,1,Escalera N°18:  Andén central - vestíbulo,True,E1(18),0,1
 4,Línea D,False,310,Palermo,1,Escalera N°17:  Vestíbulo - andén central,True,E2(17),0,1
-4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,False,EI(EXT),0,1
+4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,True,EI(EXT),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,True,E1(22),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,True,E2(21),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,True,E3(24),0,1
@@ -394,7 +394,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A4,0,0
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,False,A5,0,0
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,True,A5,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,True,A7,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
