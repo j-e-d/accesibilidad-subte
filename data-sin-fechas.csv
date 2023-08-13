@@ -61,7 +61,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,102,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E20,0,1
 2,Línea B,False,102,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E21,0,1
 2,Línea B,False,102,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E22,1,1
-2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
+2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,False,E17,0,1
 2,Línea B,False,103,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
 2,Línea B,False,104,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,104,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
