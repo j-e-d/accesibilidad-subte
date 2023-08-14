@@ -274,7 +274,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,415,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),False,A3,0,0
 5,Línea E,False,415,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,True,A4,0,0
 5,Línea E,False,415,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,True,E1,0,1
-5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,False,E2,0,1
+5,Línea E,False,415,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,True,E2,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,True,E3,0,1
 5,Línea E,False,415,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E4,1,1
 5,Línea E,False,415,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E5,0,1
