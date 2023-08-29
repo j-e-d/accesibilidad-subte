@@ -201,11 +201,11 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,310,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,False,EI(EXT),0,1
 4,Línea D,False,311,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,True,E1(22),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,True,E2(21),0,1
-4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,False,E3(24),0,1
+4,Línea D,False,311,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,True,E3(24),0,1
 4,Línea D,False,311,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E4(23),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,True,E5(25),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E6(26),0,1
-4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,True,E7(20),0,1
+4,Línea D,False,311,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,False,E7(20),0,1
 4,Línea D,False,311,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,False,E8(19),0,1
 4,Línea D,False,312,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E1(28),0,1
 4,Línea D,False,312,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E2(27),0,1
@@ -403,7 +403,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,True,E6,0,1
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,True,E7,0,1
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,False,E7,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,True,E9,0,1
 6,Línea H,False,511,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),True,A1,0,0
@@ -417,7 +417,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,511,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
 6,Línea H,False,511,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),False,E6,0,1
 6,Línea H,False,512,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,True,A1,0,0
-6,Línea H,False,512,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,False,A2,0,0
+6,Línea H,False,512,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
 6,Línea H,False,512,Facultad de Derecho,1,Ascensor N°3: Vestíbulo - Facultad de Derecho Av. Figueroa Alcorta 2201,True,A3,0,0
 6,Línea H,False,512,Facultad de Derecho,0,Escalera N°1: Andén no operativo - vestíbulo,True,E1,0,1
 6,Línea H,False,512,Facultad de Derecho,2,Escalera N°2: Andén - vestíbulo,True,E2,0,1
