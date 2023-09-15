@@ -3,7 +3,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),True,ASCENSOR SUR A2,0,0
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
-1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,True,E2,1,1
+1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,False,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E1,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E2,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,E1,0,1
@@ -14,7 +14,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,False,E2,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E1,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E2,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,E3(EXT),0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,False,E3(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,E4(EXT),0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,S5,0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,S6,1,1
@@ -22,13 +22,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,EXT(E2),0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,True,EXT(E2),0,1
-1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,True,ASCENSOR NORTE A1,0,0
+1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte): Andén destino Plaza de Mayo - Av. Rivadavia 4963,False,ASCENSOR NORTE A1,0,0
 1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,False,ASCENSOR SUR A2,0,0
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,True,E1,0,1
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°1 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),False,ASCENSOR EXTERIOR,0,0
 1,Línea A,False,10,Primera Junta,2,Ascensor N°2: Andén sentido Plaza de Mayo- vestíbulo,True,ASCENSOR NORTE A1,0,0
-1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),True,Ext (E3),0,1
+1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),False,Ext (E3),0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,True,Norte (E2),1,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,True,Sur(E1),0,1
 1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),True,ASCENSOR N1,0,0
@@ -52,7 +52,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,Int(E3),0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,True,ASCENSOR N1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,ASCENSOR N2,0,0
-1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,False,Ext (E1),0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,Ext (E1),0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,Int (E2),0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,True,Int (E3),0,1
 2,Línea B,False,101,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,E1,0,1
@@ -172,7 +172,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,301,Catedral,0,Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior),True,Ei (1),0,1
 4,Línea D,False,302,9 de Julio,2,Escalera N°2: Línea C - vestíbulo Línea D,False,Ei(2),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Ascensor N°1: Andén central - Esquina Tucumán 1300 - Talcahuano 600,False,ASCENSOR N1,0,0
-4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),False,E1(4),0,1
+4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),True,E1(4),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°3: Andén central - vestíbulo este    E2 (3),True,E2(3),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),True,E3(6),0,1
 4,Línea D,False,303,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),True,E4(5),0,1
@@ -296,8 +296,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,417,Retiro,1,Escalera N°1: Pasillo - Juncal 601,True,E1,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C),True,E10,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),True,E2,0,1
-5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",False,E3,0,1
-5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",True,E4,1,1
+5,Línea E,False,417,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",True,E3,0,1
+5,Línea E,False,417,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",False,E4,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,True,E5,1,1
 5,Línea E,False,417,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,True,E6,0,1
 5,Línea E,False,417,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),True,E7,0,1
