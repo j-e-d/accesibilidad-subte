@@ -40,7 +40,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,False,ASCENSOR N1,0,0
 1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,True,ASCENSOR N2,0,0
 1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,True,ASCENSOR N3,0,0
-1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,True,E2(EXT),0,1
+1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,False,E2(EXT),0,1
 1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,True,E3,0,1
 1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,True,E4,0,1
 1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),True,ASCENSOR N1,0,0
@@ -187,7 +187,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,306,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,True,E1(10),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E2(9),0,1
 4,Línea D,False,306,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EI(EXT),0,1
-4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,False,E1(12),0,1
+4,Línea D,False,307,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E1(12),0,1
 4,Línea D,False,307,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E2(11),0,1
 4,Línea D,False,307,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EI(1),0,1
 4,Línea D,False,308,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,True,EI(EXT),0,1
