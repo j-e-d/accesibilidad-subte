@@ -336,7 +336,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,505,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,False,A4,0,2
 6,Línea H,False,505,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,True,E1,0,1
 6,Línea H,False,505,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,True,E2,0,1
-6,Línea H,False,505,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,False,E3,0,1
+6,Línea H,False,505,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,True,E3,0,1
 6,Línea H,False,505,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,True,E4,0,1
 6,Línea H,False,505,Humberto 1°,1,Escalera N°5: Boletería que da a la calle Humberto 1° a Av. Jujuy 1148,True,E5,0,1
 6,Línea H,False,505,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
@@ -376,7 +376,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,508,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,False,E2,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
 6,Línea H,False,508,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,True,E4,1,1
-6,Línea H,False,508,Corrientes,1,Escalera N°5: Vestíbulo - Entrepiso,False,E5,1,1
+6,Línea H,False,508,Corrientes,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
 6,Línea H,False,508,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
 6,Línea H,False,508,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,True,E7,0,1
 6,Línea H,False,508,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,True,E8,0,1
