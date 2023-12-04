@@ -265,7 +265,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,410,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,ED1(23),0,1
 5,Línea E,False,411,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,EA1(24),0,1
 5,Línea E,False,411,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,False,EA2(25),0,1
-5,Línea E,False,412,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,EA1(7),0,1
+5,Línea E,False,412,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,EA1(7),0,1
 5,Línea E,False,413,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,True,EA1(1),0,1
 5,Línea E,False,413,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,True,EA2(2),0,1
 5,Línea E,False,414,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,False,EA1(26),0,1
@@ -398,7 +398,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,False,A7,0,0
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
-6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,True,E2,0,1
+6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,False,E2,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,True,E3,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
 6,Línea H,False,510,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
