@@ -25,7 +25,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte) Cerrado por reparación integral,False,ASCENSOR NORTE A1,0,0
 1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,True,ASCENSOR SUR A2,0,0
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,True,E1,0,1
-1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,False,E2,1,1
+1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,True,E2,1,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°1 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),False,ASCENSOR EXTERIOR,0,0
 1,Línea A,False,10,Primera Junta,2,Ascensor N°2: Andén sentido Plaza de Mayo- vestíbulo,True,ASCENSOR NORTE A1,0,0
 1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),False,Ext (E3),0,1
@@ -90,7 +90,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,108,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
 2,Línea B,False,109,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,E1,0,1
-2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,E1,0,1
+2,Línea B,False,110,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,False,E1,0,1
 2,Línea B,False,111,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,E1,0,1
 2,Línea B,False,112,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,E1,0,1
 2,Línea B,False,113,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,E1,0,1
@@ -217,7 +217,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,313,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,True,E2(31),0,1
 4,Línea D,False,313,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,False,E2(32),0,1
 4,Línea D,False,313,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,True,E2(34),0,1
-4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,True,E4(33),0,1
+4,Línea D,False,313,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,False,E4(33),0,1
 4,Línea D,False,313,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617.,True,Ei(35),0,1
 4,Línea D,False,313,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,False,S36,0,2
 4,Línea D,False,313,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,True,S37,0,2
@@ -341,7 +341,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,505,Humberto 1°,1,Escalera N°5: Boletería que da a la calle Humberto 1° a Av. Jujuy 1148,True,E5,0,1
 6,Línea H,False,505,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
 6,Línea H,False,505,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,True,S2,0,0
-6,Línea H,False,506,Venezuela,0,Ascensor N°1:  Vestíbulo - Av. Jujuy 451,True,A1,0,0
+6,Línea H,False,506,Venezuela,0,Ascensor N°1:  Vestíbulo - Av. Jujuy 451,False,A1,0,0
 6,Línea H,False,506,Venezuela,2,Ascensor N°2: Andén Sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,506,Venezuela,1,Ascensor N°3: Andén Sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,506,Venezuela,0,Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina,True,E1,0,1
