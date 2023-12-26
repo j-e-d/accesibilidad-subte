@@ -136,7 +136,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,300,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,True,A1,0,0
 3,Línea C,False,300,Retiro,1,Escalera N°18: Vestíbulo - Línea Mitre,True,E18,0,1
 3,Línea C,False,300,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,True,E19,1,1
-3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,True,E1,0,1
+3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,False,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,True,E16,0,1
 3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,True,E17,0,1
 3,Línea C,False,302,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,True,E14,0,1
@@ -317,7 +317,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,601,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,True,E3,0,1
 6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,True,E4,1,1
 6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
-6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),True,E6,0,1
+6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),False,E6,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
