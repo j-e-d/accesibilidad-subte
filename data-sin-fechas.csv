@@ -27,7 +27,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,True,E4,1,1
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,True,E5,0,1
 1,Línea A,False,10,Primera Junta,1,Ascensor N°1 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),False,A1,0,0
-1,Línea A,False,10,Primera Junta,2,Ascensor N°2: Andén sentido Plaza de Mayo- vestíbulo,True,A2,0,0
+1,Línea A,False,10,Primera Junta,2,Ascensor N°2: Andén sentido Plaza de Mayo- vestíbulo,False,A2,0,0
 1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),True,E1,0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,True,E2,0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,False,E3,1,1
@@ -47,9 +47,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,False,A2,0,0
 1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,True,A3,0,0
 1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,False,E1,0,1
-1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E2,0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,False,E2,0,1
 1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,E3,0,1
-1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,False,E4,0,1
+1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,E4,0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,False,A1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,A2,0,0
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,False,E1,0,1
@@ -68,12 +68,12 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,203,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,203,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,True,EExt,0,1
 2,Línea B,False,203,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,True,EInt,0,1
-2,Línea B,False,204,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,False,A1,0,0
+2,Línea B,False,204,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,True,A1,0,0
 2,Línea B,False,204,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
 2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
 2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
-2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,False,E15,0,1
+2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
 2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,EExt,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,True,E10,1,1
@@ -119,7 +119,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,True,A1,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,True,A2,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,True,A3,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,False,A4,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,True,A6,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,True,E1,0,1
@@ -127,9 +127,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,True,E3,0,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,False,E4,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,True,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,1,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,True,E7,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,True,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,True,E9,0,1
@@ -193,7 +193,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,407,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,True,EExt,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,True,E13,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,True,E14,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,False,E15,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,True,E15,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E16,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,True,EExt,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,True,E17,0,1
