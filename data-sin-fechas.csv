@@ -17,7 +17,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,E8,1,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,E9,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,EQE,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,False,EQO,0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,EQO,0,1
 1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,True,AN,0,0
 1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,E1,0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,AS,0,0
@@ -57,7 +57,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,True,E3,0,1
 2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,EExt,0,1
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,EInt,0,1
-2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E19,1,1
+2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,False,E19,1,1
 2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E20,0,1
 2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E21,0,1
 2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E22,1,1
@@ -287,7 +287,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,E11,0,1
 5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,True,E12,0,1
 5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,True,E13,0,1
-5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,False,E14,0,1
+5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,True,E14,0,1
 5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,E15,0,1
 5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,E16,0,1
 5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,True,E17,0,1
