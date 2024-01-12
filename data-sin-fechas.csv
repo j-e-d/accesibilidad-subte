@@ -135,7 +135,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,True,E9,0,1
 3,Línea C,False,300,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,False,A1,0,0
 3,Línea C,False,300,Retiro,1,Escalera N°18: Vestíbulo - Línea Mitre,True,E18,0,1
-3,Línea C,False,300,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,True,E19,1,1
+3,Línea C,False,300,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,False,E19,1,1
 3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,True,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,True,E16,0,1
 3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,True,E17,0,1
@@ -247,7 +247,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,500,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),True,E2,0,1
 5,Línea E,False,500,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",True,E3,0,1
 5,Línea E,False,500,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",True,E4,1,1
-5,Línea E,False,500,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,False,E5,1,1
+5,Línea E,False,500,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,True,E5,1,1
 5,Línea E,False,500,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,True,E6,0,1
 5,Línea E,False,500,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),True,E7,0,1
 5,Línea E,False,500,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,True,E8,1,1
