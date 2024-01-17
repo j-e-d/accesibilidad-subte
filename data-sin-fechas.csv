@@ -84,7 +84,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,True,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,False,E7,1,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,True,E8,0,1
-2,Línea B,False,206,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,False,EExt,0,1
+2,Línea B,False,206,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,True,EExt,0,1
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,True,E1,0,1
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,True,E2,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
@@ -129,7 +129,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,True,E3,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,True,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,1,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,True,E7,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,True,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,True,E9,0,1
