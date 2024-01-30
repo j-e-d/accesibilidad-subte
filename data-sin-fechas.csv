@@ -129,13 +129,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,True,E3,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,True,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,1,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,False,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,True,E7,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,True,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,True,E9,0,1
 3,Línea C,False,300,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,True,A1,0,0
 3,Línea C,False,300,Retiro,1,Escalera N°18: Vestíbulo - Línea Mitre,True,E18,0,1
-3,Línea C,False,300,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,False,E19,1,1
+3,Línea C,False,300,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,True,E19,1,1
 3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,True,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,True,E16,0,1
 3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,True,E17,0,1
@@ -339,7 +339,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,True,A3,0,0
 6,Línea H,False,603,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
 6,Línea H,False,603,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,True,E2,0,1
-6,Línea H,False,603,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),True,E3,0,1
+6,Línea H,False,603,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),False,E3,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),True,E4,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),True,E5,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),True,E6,0,1
