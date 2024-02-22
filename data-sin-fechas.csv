@@ -73,7 +73,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,False,A3,0,0
 2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
 2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
-2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
+2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,False,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
 2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,False,EExt,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,True,E10,1,1
@@ -280,7 +280,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,EExt,0,1
 5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E5,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,E6,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,False,E8,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,True,E10,1,1
 5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,True,E9,0,1
 5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,True,EExt,0,1
