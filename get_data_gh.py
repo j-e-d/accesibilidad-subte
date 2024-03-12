@@ -1,7 +1,7 @@
 import csv
 import operator
 from copy import deepcopy
-from datetime import datetime 
+from datetime import datetime
 from zoneinfo import ZoneInfo
 
 import requests
