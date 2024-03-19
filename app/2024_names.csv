@@ -1,0 +1,427 @@
+linea,estacion,oldName,newName,nombre
+Línea C,Diagonal Norte,A 2,A2,A2
+Línea C,Diagonal Norte,A 3,A3,A3
+Línea B,Callao,A1,,A1
+Línea B,De Los Incas Parque Chas,A1,,A1
+Línea B,Echeverría,A1,,A1
+Línea B,Juan Manuel de Rosas Villa Urquiza,A1,,A1
+Línea B,Tronador Villa Ortúzar,A1,,A1
+Línea B,Uruguay,A1,,A1
+Línea C,Constitución,A1,,A1
+Línea C,Retiro,A1,,A1
+Línea E,Catalinas,A1,,A1
+Línea E,Correo Central,A1,,A1
+Línea E,Retiro,A1,,A1
+Línea H,Caseros,A1,,A1
+Línea H,Córdoba,A1,,A1
+Línea H,Corrientes,A1,,A1
+Línea H,Facultad de Derecho,A1,,A1
+Línea H,Hospitales,A1,,A1
+Línea H,Humberto 1°,A1,,A1
+Línea H,Inclán Mezquita Al Ahmad,A1,,A1
+Línea H,Las Heras,A1,,A1
+Línea H,Once – 30 de Diciembre,A1,,A1
+Línea H,Parque Patricios,A1,,A1
+Línea H,Santa Fe - Carlos Jáuregui,A1,,A1
+Línea H,Venezuela,A1,,A1
+Línea B,Callao,A2,,A2
+Línea B,De Los Incas Parque Chas,A2,,A2
+Línea B,Echeverría,A2,,A2
+Línea B,Juan Manuel de Rosas Villa Urquiza,A2,,A2
+Línea B,Tronador Villa Ortúzar,A2,,A2
+Línea B,Uruguay,A2,,A2
+Línea C,Constitución,A2,,A2
+Línea E,Catalinas,A2,,A2
+Línea E,Correo Central,A2,,A2
+Línea E,Retiro,A2,,A2
+Línea H,Caseros,A2,,A2
+Línea H,Córdoba,A2,,A2
+Línea H,Corrientes,A2,,A2
+Línea H,Facultad de Derecho,A2,,A2
+Línea H,Hospitales,A2,,A2
+Línea H,Humberto 1°,A2,,A2
+Línea H,Inclán Mezquita Al Ahmad,A2,,A2
+Línea H,Las Heras,A2,,A2
+Línea H,Once – 30 de Diciembre,A2,,A2
+Línea H,Parque Patricios,A2,,A2
+Línea H,Santa Fe - Carlos Jáuregui,A2,,A2
+Línea H,Venezuela,A2,,A2
+Línea B,Callao,A3,,A3
+Línea B,Echeverría,A3,,A3
+Línea B,Juan Manuel de Rosas Villa Urquiza,A3,,A3
+Línea B,Uruguay,A3,,A3
+Línea C,Constitución,A3,,A3
+Línea E,Correo Central,A3,,A3
+Línea E,Retiro,A3,,A3
+Línea H,Caseros,A3,,A3
+Línea H,Córdoba,A3,,A3
+Línea H,Corrientes,A3,,A3
+Línea H,Facultad de Derecho,A3,,A3
+Línea H,Hospitales,A3,,A3
+Línea H,Humberto 1°,A3,,A3
+Línea H,Inclán Mezquita Al Ahmad,A3,,A3
+Línea H,Las Heras,A3,,A3
+Línea H,Once – 30 de Diciembre,A3,,A3
+Línea H,Parque Patricios,A3,,A3
+Línea H,Santa Fe - Carlos Jáuregui,A3,,A3
+Línea H,Venezuela,A3,,A3
+Línea B,Juan Manuel de Rosas Villa Urquiza,A4,,A4
+Línea C,Constitución,A4,,A4
+Línea E,Correo Central,A4,,A4
+Línea H,Corrientes,A4,,A4
+Línea H,Humberto 1°,A4,,A4
+Línea H,Las Heras,A4,,A4
+Línea H,Santa Fe - Carlos Jáuregui,A4,,A4
+Línea C,Diagonal Norte,A5,A1,A1
+Línea B,Juan Manuel de Rosas Villa Urquiza,A5,,A5
+Línea H,Corrientes,A5,,A5
+Línea H,Santa Fe - Carlos Jáuregui,A5,,A5
+Línea B,Juan Manuel de Rosas Villa Urquiza,A6,,A6
+Línea H,Corrientes,A6,,A6
+Línea H,Santa Fe - Carlos Jáuregui,A6,,A6
+Línea H,Santa Fe - Carlos Jáuregui,A7,,A7
+Línea A,Primera Junta,ASCENSOR EXTERIOR,A2,A2
+Línea D,Catedral,Ascensor N° 2: Andén de arribo de formaciones,A2,A2
+Línea A,Carabobo,ASCENSOR N1,A1,A1
+Línea A,Puan,ASCENSOR N1,A1,A1
+Línea A,San José de Flores,ASCENSOR N1,A1,A1
+Línea A,San Pedrito,ASCENSOR N1,A1,A1
+Línea D,Callao,ASCENSOR N1,A1,A1
+Línea D,Catedral,ASCENSOR N1,A1,A1
+Línea D,Congreso Tucumán,ASCENSOR N1,A1,A1
+Línea D,Facultad de Medicina,ASCENSOR N1,A1,A1
+Línea D,Juramento,ASCENSOR N1,A1,A1
+Línea D,Tribunales – Teatro Colón,ASCENSOR N1,A1,A1
+Línea A,Carabobo,ASCENSOR N2,A2,A2
+Línea A,Puan,ASCENSOR N2,A2,A2
+Línea A,San José de Flores,ASCENSOR N2,A2,A2
+Línea A,San Pedrito,ASCENSOR N2,A2,A2
+Línea D,Congreso Tucumán,ASCENSOR N2,A2,A2
+Línea D,Facultad de Medicina,ASCENSOR N2,A2,A2
+Línea D,Juramento,ASCENSOR N2,A2,A2
+Línea A,Carabobo,ASCENSOR N3,A3,A3
+Línea A,Puan,ASCENSOR N3,A3,A3
+Línea A,San José de Flores,ASCENSOR N3,A3,A3
+Línea D,Juramento,ASCENSOR N3,A3,A3
+Línea A,Acoyte,ASCENSOR NORTE A1,A1,A1
+Línea A,Primera Junta,ASCENSOR NORTE A1,A1,A1
+Línea A,Congreso,ASCENSOR NORTE A1,AN,AN
+Línea A,Loria,ASCENSOR NORTE A1,AN,AN
+Línea A,Perú,ASCENSOR NORTE A1,AN,AN
+Línea A,Acoyte,ASCENSOR SUR A2,A2,A2
+Línea A,Castro Barros,ASCENSOR SUR A2,AS,AS
+Línea A,Congreso,ASCENSOR SUR A2,AS,AS
+Línea A,Perú,ASCENSOR SUR A2,AS,AS
+Línea A,Plaza de Mayo,ASCENSOR UNICO,A1,A1
+Línea H,Corrientes,Camino Rodante N°3,C3,C3
+Línea H,Corrientes,Camino rodante N°4,C4,C4
+Línea C,Diagonal Norte,E 22,E22,E22
+Línea C,Diagonal Norte,E 23,E23,E23
+Línea A,Piedras,E1,E2,E2
+Línea A,Congreso,E1,E3,E3
+Línea A,Plaza Miserere,E1,E6,E6
+Línea B,Ángel Gallardo,E1,EExt,EExt
+Línea B,Callao,E1,EExt,EExt
+Línea B,Dorrego,E1,EExt,EExt
+Línea B,Leandro N. Alem,E1,EExt,EExt
+Línea B,Malabia O. Pugliese,E1,EExt,EExt
+Línea B,Medrano Almagro,E1,EExt,EExt
+Línea B,Pueyrredón,E1,EExt,EExt
+Línea B,Uruguay,E1,EExt,EExt
+Línea C,Avenida de Mayo,E1,EExt,EExt
+Línea C,Lavalle,E1,EExt,EExt
+Línea B,Federico Lacroze,E1,EHall,EHall
+Línea A,Saenz Peña,E1,EN,EN
+Línea A,Acoyte,E1,,E1
+Línea A,Perú,E1,,E1
+Línea B,Carlos Gardel,E1,,E1
+Línea B,De Los Incas Parque Chas,E1,,E1
+Línea B,Echeverría,E1,,E1
+Línea B,Juan Manuel de Rosas Villa Urquiza,E1,,E1
+Línea B,Tronador Villa Ortúzar,E1,,E1
+Línea C,Constitución,E1,,E1
+Línea C,Gral. San Martín,E1,,E1
+Línea E,Catalinas,E1,,E1
+Línea E,Correo Central,E1,,E1
+Línea E,Retiro,E1,,E1
+Línea H,Caseros,E1,,E1
+Línea H,Córdoba,E1,,E1
+Línea H,Corrientes,E1,,E1
+Línea H,Facultad de Derecho,E1,,E1
+Línea H,Hospitales,E1,,E1
+Línea H,Humberto 1°,E1,,E1
+Línea H,Inclán Mezquita Al Ahmad,E1,,E1
+Línea H,Las Heras,E1,,E1
+Línea H,Once – 30 de Diciembre,E1,,E1
+Línea H,Parque Patricios,E1,,E1
+Línea H,Santa Fe - Carlos Jáuregui,E1,,E1
+Línea H,Venezuela,E1,,E1
+Línea D,Pueyrredón,E1(10),E10,E10
+Línea D,Agüero,E1(12),E12,E12
+Línea D,Plaza Italia,E1(14),E14,E14
+Línea D,Palermo,E1(18),E17,E17
+Línea D,Ministro Carranza,E1(22),E22,E22
+Línea D,Olleros,E1(28),E28,E28
+Línea D,Juramento,E1(36),E36,E36
+Línea D,Juramento,E1(38),E38,E38
+Línea D,Tribunales – Teatro Colón,E1(4),E4,E4
+Línea D,Congreso Tucumán,E1(42),E42,E42
+Línea E,Belgrano,E1(5),E5,E5
+Línea D,Facultad de Medicina,E1(8),E8,E8
+Línea A,Puan,E1(EXT),E1,E1
+Línea A,San José de Flores,E1(EXT),E1,E1
+Línea B,Juan Manuel de Rosas Villa Urquiza,E10,,E10
+Línea B,Pasteur AMIA,E10,,E10
+Línea C,Avenida de Mayo,E10,,E10
+Línea E,Retiro,E10,,E10
+Línea H,Corrientes,E10,,E10
+Línea H,Once – 30 de Diciembre,E10,,E10
+Línea B,Juan Manuel de Rosas Villa Urquiza,E11,,E11
+Línea B,Pasteur AMIA,E11,,E11
+Línea C,Diagonal Norte,E11,,E11
+Línea B,Pasteur AMIA,E12,,E12
+Línea B,Callao,E13,,E13
+Línea C,Diagonal Norte,E13,,E13
+Línea B,Callao,E14,,E14
+Línea C,Lavalle,E14,,E14
+Línea B,Callao,E15,,E15
+Línea C,Lavalle,E15,,E15
+Línea B,Callao,E16,,E16
+Línea C,Gral. San Martín,E16,,E16
+Línea B,Carlos Pellegrini,E17,,E17
+Línea C,Gral. San Martín,E17,,E17
+Línea B,Carlos Pellegrini,E18,,E18
+Línea C,Retiro,E18,,E18
+Línea B,Florida,E19,,E19
+Línea C,Retiro,E19,,E19
+Línea A,Lima,E2,E1,E1
+Línea A,Plaza Miserere,E2,E7,E7
+Línea C,Lavalle,E2,EHall,EHall
+Línea B,Leandro N. Alem,E2,EInt,EInt
+Línea B,Uruguay,E2,EInt,EInt
+Línea A,Congreso,E2,ES,ES
+Línea A,Saenz Peña,E2,ES,ES
+Línea B,Federico Lacroze,E2,ESE,ESE
+Línea A,Acoyte,E2,,E2
+Línea A,Perú,E2,,E2
+Línea A,Puan,E2,,E2
+Línea B,Carlos Gardel,E2,,E2
+Línea B,De Los Incas Parque Chas,E2,,E2
+Línea B,Echeverría,E2,,E2
+Línea B,Juan Manuel de Rosas Villa Urquiza,E2,,E2
+Línea B,Tronador Villa Ortúzar,E2,,E2
+Línea C,Constitución,E2,,E2
+Línea E,Catalinas,E2,,E2
+Línea E,Correo Central,E2,,E2
+Línea E,Retiro,E2,,E2
+Línea H,Caseros,E2,,E2
+Línea H,Córdoba,E2,,E2
+Línea H,Corrientes,E2,,E2
+Línea H,Facultad de Derecho,E2,,E2
+Línea H,Hospitales,E2,,E2
+Línea H,Humberto 1°,E2,,E2
+Línea H,Inclán Mezquita Al Ahmad,E2,,E2
+Línea H,Las Heras,E2,,E2
+Línea H,Once – 30 de Diciembre,E2,,E2
+Línea H,Parque Patricios,E2,,E2
+Línea H,Santa Fe - Carlos Jáuregui,E2,,E2
+Línea H,Venezuela,E2,,E2
+Línea D,Agüero,E2(11),E11,E11
+Línea D,Plaza Italia,E2(13),E13,E13
+Línea D,Palermo,E2(17),E18,E18
+Línea D,Ministro Carranza,E2(21),E21,E21
+Línea D,Olleros,E2(27),E27,E27
+Línea D,Tribunales – Teatro Colón,E2(3),E3,E3
+Línea D,José Hernández,E2(31),E31,E31
+Línea D,José Hernández,E2(32),E32,E32
+Línea D,José Hernández,E2(34),E33,E33
+Línea D,Juramento,E2(37),E37,E37
+Línea D,Juramento,E2(39),E39,E39
+Línea D,Congreso Tucumán,E2(43),E43,E43
+Línea D,Facultad de Medicina,E2(7),E7,E7
+Línea D,Pueyrredón,E2(9),E9,E9
+Línea A,Carabobo,E2(EXT),E2,E2
+Línea B,Florida,E20,,E20
+Línea C,Diagonal Norte,E20,,E20
+Línea B,Florida,E21,,E21
+Línea C,Diagonal Norte,E21,,E21
+Línea B,Florida,E22,,E22
+Línea B,Federico Lacroze,E3,ESO,ESO
+Línea A,Carabobo,E3,,E3
+Línea A,Puan,E3,,E3
+Línea B,Carlos Gardel,E3,,E3
+Línea B,De Los Incas Parque Chas,E3,,E3
+Línea B,Echeverría,E3,,E3
+Línea B,Juan Manuel de Rosas Villa Urquiza,E3,,E3
+Línea B,Tronador Villa Ortúzar,E3,,E3
+Línea C,San Juan,E3,,E3
+Línea E,Catalinas,E3,,E3
+Línea E,Correo Central,E3,,E3
+Línea E,Retiro,E3,,E3
+Línea H,Caseros,E3,,E3
+Línea H,Córdoba,E3,,E3
+Línea H,Corrientes,E3,,E3
+Línea H,Hospitales,E3,,E3
+Línea H,Humberto 1°,E3,,E3
+Línea H,Inclán Mezquita Al Ahmad,E3,,E3
+Línea H,Las Heras,E3,,E3
+Línea H,Once – 30 de Diciembre,E3,,E3
+Línea H,Parque Patricios,E3,,E3
+Línea H,Santa Fe - Carlos Jáuregui,E3,,E3
+Línea H,Venezuela,E3,,E3
+Línea D,Plaza Italia,E3(16),E16,E16
+Línea D,Ministro Carranza,E3(24),E24,E24
+Línea D,Olleros,E3(30),E30,E30
+Línea D,Juramento,E3(40),E40,E40
+Línea D,Congreso Tucumán,E3(44),E44,E44
+Línea D,Tribunales – Teatro Colón,E3(6),E6,E6
+Línea A,Plaza Miserere,E3(EXT),E8,E8
+Línea A,Carabobo,E4,,E4
+Línea B,Carlos Gardel,E4,,E4
+Línea B,De Los Incas Parque Chas,E4,,E4
+Línea B,Echeverría,E4,,E4
+Línea B,Juan Manuel de Rosas Villa Urquiza,E4,,E4
+Línea B,Tronador Villa Ortúzar,E4,,E4
+Línea C,San Juan,E4,,E4
+Línea E,Catalinas,E4,,E4
+Línea E,Correo Central,E4,,E4
+Línea E,Retiro,E4,,E4
+Línea H,Caseros,E4,,E4
+Línea H,Córdoba,E4,,E4
+Línea H,Corrientes,E4,,E4
+Línea H,Humberto 1°,E4,,E4
+Línea H,Inclán Mezquita Al Ahmad,E4,,E4
+Línea H,Las Heras,E4,,E4
+Línea H,Once – 30 de Diciembre,E4,,E4
+Línea H,Parque Patricios,E4,,E4
+Línea H,Santa Fe - Carlos Jáuregui,E4,,E4
+Línea H,Venezuela,E4,,E4
+Línea D,Plaza Italia,E4(15),E15,E15
+Línea D,Ministro Carranza,E4(23),E23,E23
+Línea D,Olleros,E4(29),E29,E29
+Línea D,José Hernández,E4(33),E34,E34
+Línea D,Juramento,E4(41),E41,E41
+Línea D,Congreso Tucumán,E4(45),E45,E45
+Línea D,Tribunales – Teatro Colón,E4(5),E5,E5
+Línea A,San José de Flores,E4(Ext),E4,E4
+Línea A,Plaza Miserere,E4(EXT),E9,E9
+Línea B,Echeverría,E5,,E5
+Línea B,Juan Manuel de Rosas Villa Urquiza,E5,,E5
+Línea B,Pueyrredón,E5,,E5
+Línea C,Independencia,E5,,E5
+Línea E,Catalinas,E5,,E5
+Línea E,Correo Central,E5,,E5
+Línea E,Retiro,E5,,E5
+Línea H,Córdoba,E5,,E5
+Línea H,Corrientes,E5,,E5
+Línea H,Humberto 1°,E5,,E5
+Línea H,Las Heras,E5,,E5
+Línea H,Once – 30 de Diciembre,E5,,E5
+Línea H,Santa Fe - Carlos Jáuregui,E5,,E5
+Línea D,Ministro Carranza,E5(25),E25,E25
+Línea B,Juan Manuel de Rosas Villa Urquiza,E6,,E6
+Línea B,Pueyrredón,E6,,E6
+Línea C,Independencia,E6,,E6
+Línea E,Catalinas,E6,,E6
+Línea E,Correo Central,E6,,E6
+Línea E,Retiro,E6,,E6
+Línea H,Córdoba,E6,,E6
+Línea H,Corrientes,E6,,E6
+Línea H,Las Heras,E6,,E6
+Línea H,Once – 30 de Diciembre,E6,,E6
+Línea H,Santa Fe - Carlos Jáuregui,E6,,E6
+Línea D,Ministro Carranza,E6(26),E26,E26
+Línea B,Juan Manuel de Rosas Villa Urquiza,E7,,E7
+Línea B,Pueyrredón,E7,,E7
+Línea C,Mariano Moreno,E7,,E7
+Línea E,Correo Central,E7,,E7
+Línea E,Retiro,E7,,E7
+Línea H,Corrientes,E7,,E7
+Línea H,Once – 30 de Diciembre,E7,,E7
+Línea H,Santa Fe - Carlos Jáuregui,E7,,E7
+Línea D,Ministro Carranza,E7(20),E20,E20
+Línea B,Juan Manuel de Rosas Villa Urquiza,E8,,E8
+Línea B,Pueyrredón,E8,,E8
+Línea C,Mariano Moreno,E8,,E8
+Línea E,Correo Central,E8,,E8
+Línea E,Retiro,E8,,E8
+Línea H,Corrientes,E8,,E8
+Línea H,Once – 30 de Diciembre,E8,,E8
+Línea H,Santa Fe - Carlos Jáuregui,E8,,E8
+Línea D,Ministro Carranza,E8(19),E19,E19
+Línea B,Juan Manuel de Rosas Villa Urquiza,E9,,E9
+Línea B,Pasteur AMIA,E9,,E9
+Línea C,Avenida de Mayo,E9,,E9
+Línea E,Correo Central,E9,,E9
+Línea E,Retiro,E9,,E9
+Línea H,Corrientes,E9,,E9
+Línea H,Once – 30 de Diciembre,E9,,E9
+Línea H,Santa Fe - Carlos Jáuregui,E9,,E9
+Línea E,Medalla Milagrosa,EA1(1),E1,E1
+Línea E,Independencia,EA1(10),E10,E10
+Línea E,San José,EA1(11),E11,E11
+Línea E,Entre Ríos,EA1(13),E13,E13
+Línea E,Pichincha,EA1(16),E15,E15
+Línea E,Jujuy,EA1(17),E17,E17
+Línea E,Gral. Urquiza,EA1(19),E19,E19
+Línea E,Boedo,EA1(21),E21,E21
+Línea E,Av. La Plata,EA1(22),E22,E22
+Línea E,Moreno,EA1(24),E24,E24
+Línea E,Varela,EA1(26),E26,E26
+Línea E,Bolívar,EA1(4),E4,E4
+Línea E,Emilio Mitre,EA1(7),E7,E7
+Línea E,Bolívar,EA2 (1),E1,E1
+Línea E,San José,EA2(12),E12,E12
+Línea E,Entre Ríos,EA2(14),E14,E14
+Línea E,Pichincha,EA2(15),E16,E16
+Línea E,Jujuy,EA2(18),E18,E18
+Línea E,Medalla Milagrosa,EA2(2),E2,E2
+Línea E,Gral. Urquiza,EA2(20),E20,E20
+Línea E,Moreno,EA2(25),E25,E25
+Línea E,Belgrano,EA2(6),E6,E6
+Línea E,Bolívar,ED1(2),E2,E2
+Línea E,Av. La Plata,ED1(23),E23,E23
+Línea E,Bolívar,ED2(3),E3,E3
+Línea E,Belgrano,ED2(8),E8,E8
+Línea E,Independencia,ED2(9),E9,E9
+Línea D,Catedral,Ei (1),E1,E1
+Línea D,Agüero,EI(1),EExt,EExt
+Línea D,9 de Julio,Ei(2),E2,E2
+Línea D,José Hernández,Ei(35),E35,E35
+Línea D,Bulnes,EI(EXT),EExt,EExt
+Línea D,Callao,Ei(ext),EExt,EExt
+Línea D,Facultad de Medicina,EI(EXT),EExt,EExt
+Línea D,Palermo,EI(EXT),EExt,EExt
+Línea D,Plaza Italia,EI(EXT),EExt,EExt
+Línea D,Pueyrredón,EI(EXT),EExt,EExt
+Línea D,Tribunales – Teatro Colón,Ei(ext),EExt,EExt
+Línea E,Bolívar,Ei(Ext),EExt,EExt
+Línea E,Independencia,Ei(EXT),EExt,EExt
+Línea D,9 de Julio,Ei(ext),,Ei(ext)
+Línea D,Congreso Tucumán,EI1(46),E46,E46
+Línea D,Congreso Tucumán,EI2(47),E47,E47
+Línea A,San Pedrito,Ext (E1),E1,E1
+Línea A,Primera Junta,Ext (E3),E3,E3
+Línea A,Castro Barros,EXT(E2),E1,E1
+Línea A,Loria,EXT(E2),E1,E1
+Línea A,San Pedrito,Int (E2),E2,E2
+Línea A,San Pedrito,Int (E3),E3,E3
+Línea A,San José de Flores,Int(E2),E2,E2
+Línea A,San José de Flores,Int(E3),E3,E3
+Línea A,Primera Junta,Norte (E2),E2,E2
+Línea H,Once – 30 de Diciembre,P 2,,P 2
+Línea H,Humberto 1°,S1,,S1
+Línea H,Humberto 1°,S2,,S2
+Línea H,Once – 30 de Diciembre,S3,,S3
+Línea D,Olleros,S31,,S31
+Línea D,Olleros,S32,,S32
+Línea D,Olleros,S33,,S33
+Línea D,José Hernández,S36,,S36
+Línea D,José Hernández,S37,,S37
+Línea D,José Hernández,S38,,S38
+Línea A,Plaza Miserere,S5,EQE,EQE
+Línea A,Plaza Miserere,S6,EQO,EQO
+Línea A,Primera Junta,Sur(E1),E1,E1
+Línea A,Carabobo,,E1,E1
+Línea A,Acoyte,,E4,E4
+Línea A,Acoyte,,E5,E5
