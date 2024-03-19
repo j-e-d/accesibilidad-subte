@@ -14,7 +14,10 @@ def get_git_files(filename, skip_shas):
     # add tqdm to show progress
     print("Getting files from git")
     for commit in tqdm(
-        commits, smoothing=0.6, total=len(list(repo.iter_commits(ref))), desc="Getting commits"
+        commits,
+        smoothing=0.6,
+        total=len(list(repo.iter_commits(ref))),
+        desc="Getting commits",
     ):
         if commit.hexsha not in skip_shas:
             for b in commit.tree.blobs:

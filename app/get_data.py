@@ -91,10 +91,15 @@ db = Database("accesibilidad.sqlite")
 
 commit_datetime = datetime.now(timezone.utc).isoformat()
 for result in results:
-    last_state = next(iter(db["status"].rows_where(
-            "idEstacion = :idEstacion AND nombre = :nombre ORDER BY `commit-datetime` DESC LIMIT 1",
-            {"idEstacion": result["idEstacion"], "nombre": result["nombre"]},
-        )), None)
+    last_state = next(
+        iter(
+            db["status"].rows_where(
+                "idEstacion = :idEstacion AND nombre = :nombre ORDER BY `commit-datetime` DESC LIMIT 1",
+                {"idEstacion": result["idEstacion"], "nombre": result["nombre"]},
+            )
+        ),
+        None,
+    )
     if last_state is None:
         continue
     if commit_datetime > last_state["commit-datetime"]:

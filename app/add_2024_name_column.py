@@ -37,13 +37,14 @@ for dict in tqdm(data_dicts, desc="Updating db", smoothing=0.6):
             AND nombreLinea = :line
             AND nombreEstacion = :station
             """
-        cursor.execute(query, 
-                            {
-                                "new_name": dict["nombre"], 
-                                "old_name": dict["oldName"], 
-                                "line": dict["linea"], 
-                                "station": dict["estacion"]
-                            }
-                            )
+        cursor.execute(
+            query,
+            {
+                "new_name": dict["nombre"],
+                "old_name": dict["oldName"],
+                "line": dict["linea"],
+                "station": dict["estacion"],
+            },
+        )
 conn.commit()
 conn.close()
