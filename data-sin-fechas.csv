@@ -201,7 +201,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,False,EExt,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,True,E19,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,False,E20,0,1
-4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,True,E21,0,1
+4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,False,E21,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,True,E22,0,1
 4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E23,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,True,E24,0,1
@@ -273,7 +273,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,502,Correo Central,1,Escalera N°7: Vestíbulo - Andén,True,E7,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,True,E8,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),True,E9,0,1
-5,Línea E,False,503,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,True,E1,0,1
+5,Línea E,False,503,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,False,E1,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,False,E2,1,1
 5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,False,E3,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,False,E4,1,1
