@@ -197,7 +197,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E16,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,True,EExt,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,True,E17,0,1
-4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,True,E18,0,1
+4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,False,E18,0,1
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,False,EExt,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,True,E19,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,True,E20,0,1
@@ -321,7 +321,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A4,0,0
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,False,A4,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,False,A5,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,False,A7,0,0
@@ -331,12 +331,12 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,True,E6,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,False,E7,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,True,E7,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,False,E9,0,1
 6,Línea H,False,603,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,True,A1,0,0
 6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,True,A2,0,0
-6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,True,A3,0,0
+6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,False,A3,0,0
 6,Línea H,False,603,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
 6,Línea H,False,603,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,True,E2,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),True,E3,0,1
