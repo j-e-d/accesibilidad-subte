@@ -231,7 +231,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,413,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,2024-05-21T18:54:12-03:00,,True,E39,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,2024-05-21T18:54:12-03:00,,True,E40,1,1
 4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,2024-05-21T18:54:12-03:00,,True,E41,1,1
-4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,2024-05-21T18:54:12-03:00,,True,A1,0,0
+4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,2024-05-21T19:45:29-03:00,,False,A1,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,2024-05-21T18:54:12-03:00,,True,A2,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,2024-05-21T18:54:12-03:00,,True,E42,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,2024-05-21T18:54:12-03:00,,True,E43,0,1
