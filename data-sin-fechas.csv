@@ -46,7 +46,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),True,A1,0,0
 1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,True,A2,0,0
 1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,True,A3,0,0
-1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,False,E1,0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,True,E1,0,1
 1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E2,0,1
 1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,E3,0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,E4,0,1
@@ -336,12 +336,12 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,True,E9,0,1
 6,Línea H,False,603,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,True,A1,0,0
 6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,True,A2,0,0
-6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,True,A3,0,0
+6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,False,A3,0,0
 6,Línea H,False,603,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
 6,Línea H,False,603,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,True,E2,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),True,E3,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),True,E4,0,1
-6,Línea H,False,603,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),False,E5,0,1
+6,Línea H,False,603,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),True,E5,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),True,E6,0,1
 6,Línea H,False,604,Corrientes,0,Ascensor N°2: Andén - vestíbulo,True,A1,0,0
 6,Línea H,False,604,Corrientes,2,Ascensor N°4: Andén a Facultad – Entrepiso combinación L/B sentido Alem,False,A2,0,0
