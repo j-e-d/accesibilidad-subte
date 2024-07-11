@@ -71,9 +71,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,False,A1,0,0
 2,Línea B,False,204,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
 2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
-2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,False,E13,0,1
-2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,False,E14,0,1
-2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,False,E15,0,1
+2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
+2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
+2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
 2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,EExt,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,False,E10,1,1
@@ -244,7 +244,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,500,Retiro,1,Ascensor N°3: Pasillo de combinación con Línea C - Andén Central Línea C,False,A3,0,0
 5,Línea E,False,500,Retiro,1,Escalera N°1: Pasillo - Juncal 601,True,E1,0,1
 5,Línea E,False,500,Retiro,1,Escalera N°9:  Vestíbulo (Lado combinación con Línea C) - Andén Central,True,E10,1,1
-5,Línea E,False,500,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),False,E2,0,1
+5,Línea E,False,500,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),True,E2,0,1
 5,Línea E,False,500,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",True,E3,0,1
 5,Línea E,False,500,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",True,E4,1,1
 5,Línea E,False,500,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,True,E5,1,1
@@ -260,13 +260,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,501,Catalinas,1,Escalera N°4: Entrepiso -  Salida 1 (Av. Leandro N. Alem 900),False,E4,0,1
 5,Línea E,False,501,Catalinas,1,Escalera N°5: Andén Central - Vestíbulo,True,E5,0,1
 5,Línea E,False,501,Catalinas,1,Escalera N°6: Vestíbulo - Andén Central,True,E6,1,1
-5,Línea E,False,502,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,False,A1,0,0
+5,Línea E,False,502,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,True,A1,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°2: Vestíbulo norte - hall boletería norte,True,A2,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),True,A3,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,True,A4,0,0
-5,Línea E,False,502,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,True,E1,0,1
-5,Línea E,False,502,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,True,E2,0,1
-5,Línea E,False,502,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,True,E3,0,1
+5,Línea E,False,502,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,False,E1,0,1
+5,Línea E,False,502,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,False,E2,0,1
+5,Línea E,False,502,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,False,E3,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E4,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E5,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,True,E6,0,1
@@ -296,7 +296,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,510,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,False,E20,0,1
 5,Línea E,False,511,Boedo,1,Escalera N°21: Andén Central - Boletería,True,E21,0,1
 5,Línea E,False,512,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,True,E22,0,1
-5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
+5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,False,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
 5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
@@ -312,7 +312,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,601,Las Heras,2,Ascensor N°2: Entrepiso - Hall Boletería,True,A2,0,0
 6,Línea H,False,601,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,True,A3,0,0
 6,Línea H,False,601,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,True,A4,0,0
-6,Línea H,False,601,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,False,E1,0,1
+6,Línea H,False,601,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,True,E1,0,1
 6,Línea H,False,601,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,True,E2,1,1
 6,Línea H,False,601,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,True,E3,0,1
 6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,True,E4,1,1
@@ -328,8 +328,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,False,E2,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,True,E3,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,False,E4,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),False,E5,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,True,E6,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,True,E7,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
