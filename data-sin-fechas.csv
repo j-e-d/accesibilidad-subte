@@ -197,7 +197,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,True,E16,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,True,EExt,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,True,E17,0,1
-4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,True,E18,0,1
+4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,False,E18,0,1
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,True,EExt,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,True,E19,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,True,E20,0,1
@@ -351,7 +351,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,1,Ascensor N°6: Hall  - Combinación con Línea B sentido a J.M. de Rosas,True,A6,0,0
 6,Línea H,False,604,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,True,C3,0,0
 6,Línea H,False,604,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,True,C4,0,0
-6,Línea H,False,604,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,True,E1,0,1
+6,Línea H,False,604,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,False,E1,0,1
 6,Línea H,False,604,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,False,E10,0,1
 6,Línea H,False,604,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,True,E2,0,1
 6,Línea H,False,604,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
