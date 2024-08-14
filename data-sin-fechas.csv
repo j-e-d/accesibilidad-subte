@@ -71,7 +71,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,True,A1,0,0
 2,Línea B,False,204,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
 2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
-2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
+2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,False,E13,0,1
 2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,False,E14,0,1
 2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
@@ -79,7 +79,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,True,E10,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,True,E11,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,False,E12,0,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,False,E9,0,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,True,E5,1,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,True,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,True,E7,1,1
@@ -92,7 +92,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,EExt,0,1
 2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,False,EExt,0,1
 2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,EExt,0,1
-2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),False,EExt,0,1
+2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,EExt,0,1
 2,Línea B,False,212,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,False,EHall,1,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,True,ESE,0,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,ESO,0,1
@@ -176,7 +176,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),True,E4,0,1
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),True,E5,0,1
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),True,E6,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),True,EExt,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),False,EExt,0,1
 4,Línea D,False,403,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,True,A1,0,0
 4,Línea D,False,403,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,False,EExt,0,1
 4,Línea D,False,404,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,True,A1,0,0
@@ -290,7 +290,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,False,E14,0,1
 5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,E15,0,1
 5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,E16,0,1
-5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,True,E17,0,1
+5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,False,E17,0,1
 5,Línea E,False,509,Jujuy,2,Escalera N°18: Andén sentido Virreyes - Boletería,False,E18,0,1
 5,Línea E,False,510,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,False,E19,0,1
 5,Línea E,False,510,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,True,E20,0,1
