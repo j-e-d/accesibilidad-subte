@@ -11,7 +11,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,False,AN,0,0
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),True,AS,0,0
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,False,E3,0,1
-1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,ES,0,1
+1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,False,ES,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E6,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E7,1,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,E8,1,1
@@ -85,7 +85,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,True,E7,1,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,True,E8,0,1
 2,Línea B,False,206,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,True,EExt,0,1
-2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,True,E1,0,1
+2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,False,E1,0,1
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,True,E2,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
@@ -325,7 +325,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,False,A5,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,True,A7,0,0
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,False,E1,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,True,E2,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,False,E3,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,False,E4,0,1
