@@ -4,7 +4,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),True,AS,0,0
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av. de Mayo 556 - andén,False,E2,1,1
-1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,False,E2,0,1
+1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E2,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E1,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,EN,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,ES,0,1
@@ -55,7 +55,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,E1,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,E2,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,True,E3,0,1
-2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,EExt,0,1
+2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,False,EExt,0,1
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,EInt,0,1
 2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E19,1,1
 2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E20,0,1
@@ -72,10 +72,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,True,E13,0,1
-2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
+2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,False,E14,0,1
 2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,False,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
-2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,EExt,0,1
+2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,False,EExt,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,True,E10,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,True,E11,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
@@ -92,7 +92,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,False,EExt,0,1
 2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,False,EExt,0,1
 2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,False,EExt,0,1
-2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,EExt,0,1
+2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),False,EExt,0,1
 2,Línea B,False,212,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,True,EHall,1,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,True,ESE,0,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,ESO,0,1
@@ -197,8 +197,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,False,E16,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,False,EExt,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,True,E17,0,1
-4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,True,E18,0,1
-4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,False,EExt,0,1
+4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,False,E18,0,1
+4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,True,EExt,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,False,E19,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,False,E20,0,1
 4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,False,E21,0,1
@@ -280,7 +280,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),False,EExt,0,1
 5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,False,E5,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,E6,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,False,E8,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,True,E10,1,1
 5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,False,E9,0,1
 5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,False,EExt,0,1
