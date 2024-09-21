@@ -39,7 +39,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,True,E3,0,1
 1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,False,A1,0,0
 1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
-1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,True,A3,0,0
+1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,False,A3,0,0
 1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,True,E1,0,1
 1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,True,E2,0,1
 1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,True,E3,0,1
@@ -81,7 +81,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,True,E5,1,1
-2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,True,E6,0,1
+2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,False,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,True,E7,1,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,True,E8,0,1
 2,Línea B,False,206,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,True,EExt,0,1
@@ -90,7 +90,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
 2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,EExt,0,1
-2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,EExt,0,1
+2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,False,EExt,0,1
 2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,False,EExt,0,1
 2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,EExt,0,1
 2,Línea B,False,212,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,True,EHall,1,1
@@ -141,7 +141,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,True,E17,0,1
 3,Línea C,False,302,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,True,E14,0,1
 3,Línea C,False,302,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,True,E15,0,1
-3,Línea C,False,302,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,False,EExt,0,1
+3,Línea C,False,302,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,True,EExt,0,1
 3,Línea C,False,302,Lavalle,1,Escalera N°2 Hall: Vestíbulo -  Pasillo de salida,True,EHall,0,1
 3,Línea C,False,303,Diagonal Norte,2,Ascensor N°1: Vestíbulo - Andén sentido Constitución,False,A1,0,0
 3,Línea C,False,303,Diagonal Norte,0,Ascensor N°2: Vestíbulo - Andén sentido Retiro,True,A2,0,0
@@ -208,9 +208,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,True,E25,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E26,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E27,0,1
-4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,False,E28,0,1
+4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E28,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E29,0,1
-4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,False,E30,0,1
+4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,True,E30,0,1
 4,Línea D,False,411,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,True,S31,0,2
 4,Línea D,False,411,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,True,S32,0,2
 4,Línea D,False,411,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,True,S33,0,2
@@ -406,16 +406,16 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,609,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,609,Caseros,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
 6,Línea H,False,609,Caseros,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,True,E2,0,1
-6,Línea H,False,609,Caseros,1,Escalera N°4: Vestíbulo - Av. Jujuy 2180,False,E3,0,1
+6,Línea H,False,609,Caseros,1,Escalera N°4: Vestíbulo - Av. Jujuy 2180,True,E3,0,1
 6,Línea H,False,609,Caseros,1,Escalera N°3: Vestíbulo - Av. Jujuy 2110,False,E4,0,1
-6,Línea H,False,610,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),False,A1,0,0
+6,Línea H,False,610,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),True,A1,0,0
 6,Línea H,False,610,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,610,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,610,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,True,E1,0,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,True,E2,1,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,True,E3,0,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,True,E4,0,1
-6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
+6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,False,A1,0,0
 6,Línea H,False,611,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,True,A2,0,0
 6,Línea H,False,611,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
 6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,True,E1,0,1
