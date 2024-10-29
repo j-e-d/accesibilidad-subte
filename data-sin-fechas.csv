@@ -253,7 +253,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,500,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,True,E8,1,1
 5,Línea E,False,500,Retiro,1,Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C),True,E9,0,1
 5,Línea E,False,501,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,True,A1,0,0
-5,Línea E,False,501,Catalinas,1,Ascensor N°2: Vestíbulo - Salida 1 (Este) - Alem 900 (Plazoleta),False,A2,0,0
+5,Línea E,False,501,Catalinas,1,Ascensor N°2: Vestíbulo - Salida 1 (Este) - Alem 900 (Plazoleta),True,A2,0,0
 5,Línea E,False,501,Catalinas,1,Escalera N°1: Vestíbulo - Salida 4 (Av. Leandro N. Alem 900),False,E1,0,1
 5,Línea E,False,501,Catalinas,1,Escalera N°2: Vestíbulo - Entrepiso Salida 1,False,E2,0,1
 5,Línea E,False,501,Catalinas,1,Escalera N°3 : Andén Central- Vestíbulo,True,E3,0,1
@@ -316,9 +316,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,601,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,True,E2,1,1
 6,Línea H,False,601,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,True,E3,0,1
 6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,True,E4,1,1
-6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
+6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,False,E5,0,1
 6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),False,E6,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,False,A1,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A4,0,0
@@ -335,7 +335,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,True,E9,0,1
 6,Línea H,False,603,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,True,A1,0,0
-6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,True,A2,0,0
+6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,False,A2,0,0
 6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,True,A3,0,0
 6,Línea H,False,603,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
 6,Línea H,False,603,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,True,E2,0,1
@@ -361,7 +361,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,True,E7,0,1
 6,Línea H,False,604,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,True,E8,0,1
 6,Línea H,False,604,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,True,E9,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,True,A1,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,False,A1,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,True,A3,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,True,E1,0,1
