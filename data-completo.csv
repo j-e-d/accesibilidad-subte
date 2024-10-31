@@ -80,7 +80,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2024-10-31T05:13:29-03:00,,False,E11,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2024-10-31T05:15:05-03:00,,False,E12,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,2024-10-31T05:15:05-03:00,,False,E9,0,1
-2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2024-10-31T05:15:05-03:00,,False,E5,1,1
+2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2024-10-31T09:51:22-03:00,,True,E5,1,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2024-10-31T05:13:29-03:00,,True,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,2024-10-31T05:13:29-03:00,,True,E7,1,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2024-10-31T05:15:05-03:00,,False,E8,0,1
