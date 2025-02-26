@@ -150,14 +150,14 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,303,Diagonal Norte,2,Escalera N°13: Andén - vestíbulo y combinación Línea D (sentido a Congreso de Tucumán),2025-02-26T18:07:53-03:00,,True,E13,0,1
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°20: Vestíbulo - Sarmiento 861,2025-02-26T18:07:53-03:00,,True,E20,0,1
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,2025-02-26T18:07:53-03:00,,True,E21,1,1
-3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2025-02-26T18:07:53-03:00,,True,E22,0,1
+3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2025-02-26T19:08:20-03:00,,False,E22,0,1
 3,Línea C,False,303,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,2025-02-26T18:07:53-03:00,,True,E23,1,1
 3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2025-02-26T18:07:53-03:00,,False,E10,0,1
 3,Línea C,False,304,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2025-02-26T18:07:53-03:00,,True,E9,0,1
 3,Línea C,False,304,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,2025-02-26T18:07:53-03:00,,True,EExt,0,1
 3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,2025-02-26T18:07:53-03:00,,True,E7,0,1
 3,Línea C,False,305,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,2025-02-26T18:07:53-03:00,,True,E8,0,1
-3,Línea C,False,306,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,2025-02-26T18:07:53-03:00,,True,E5,0,1
+3,Línea C,False,306,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,2025-02-26T19:08:20-03:00,,False,E5,0,1
 3,Línea C,False,306,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,2025-02-26T18:07:53-03:00,,True,E6,0,1
 3,Línea C,False,307,San Juan,2,Escalera N°3: Andén sentido Constitución - Vestíbulo,2025-02-26T18:07:53-03:00,,True,E3,0,1
 3,Línea C,False,307,San Juan,0,Escalera N°4: Andén sentido Retiro.  Cerrada por renovación de medio de elevación.,2025-02-26T18:07:53-03:00,,False,E4,0,1
