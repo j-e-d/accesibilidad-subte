@@ -2,7 +2,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,False,A1,0,0
 1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),True,AN,0,0
 1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),True,AS,0,0
-1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,False,E1,0,1
+1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,False,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,False,E2,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E1,0,1
@@ -127,7 +127,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,False,E2,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,True,E3,0,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,True,E4,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,False,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,True,E7,0,1
@@ -155,7 +155,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,True,E10,0,1
 3,Línea C,False,304,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,True,E9,0,1
 3,Línea C,False,304,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,False,EExt,0,1
-3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,True,E7,0,1
+3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,False,E7,0,1
 3,Línea C,False,305,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,True,E8,0,1
 3,Línea C,False,306,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,True,E5,0,1
 3,Línea C,False,306,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,True,E6,0,1
@@ -183,13 +183,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,404,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,True,A2,0,0
 4,Línea D,False,404,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,False,E7,0,1
 4,Línea D,False,404,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,False,E8,0,1
-4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,True,EExt,0,1
+4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,False,EExt,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,True,E10,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E9,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EExt,0,1
 4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E11,0,1
 4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E12,0,1
-4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EExt,0,1
+4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,False,EExt,0,1
 4,Línea D,False,407,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,False,EExt,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,False,E13,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,False,E14,0,1
@@ -201,13 +201,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,False,EExt,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,True,E19,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,True,E20,0,1
-4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,False,E21,0,1
+4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,True,E21,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,False,E22,0,1
 4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E23,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,False,E24,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,False,E25,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),False,E26,0,1
-4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E27,0,1
+4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,False,E27,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,False,E28,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E29,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,False,E30,0,1
@@ -280,7 +280,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),False,EExt,0,1
 5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E5,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,E6,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,False,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,False,E10,1,1
 5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,False,E9,0,1
 5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,False,EExt,0,1
@@ -297,8 +297,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,511,Boedo,1,Escalera N°21: Andén Central - Boletería,True,E21,0,1
 5,Línea E,False,512,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,True,E22,0,1
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
-5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
-5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
+5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,False,E24,0,1
+5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,False,E25,0,1
 5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,True,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,True,E2,0,1
@@ -308,8 +308,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,600,Facultad de Derecho,1,Ascensor N°3: Vestíbulo - Facultad de Derecho Av. Figueroa Alcorta 2201,True,A3,0,0
 6,Línea H,False,600,Facultad de Derecho,0,Escalera N°1: Andén no operativo - vestíbulo,True,E1,0,1
 6,Línea H,False,600,Facultad de Derecho,2,Escalera N°2: Andén - vestíbulo,True,E2,0,1
-6,Línea H,False,601,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),True,A1,0,0
-6,Línea H,False,601,Las Heras,2,Ascensor N°2: Entrepiso - Hall Boletería,False,A2,0,0
+6,Línea H,False,601,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),False,A1,0,0
+6,Línea H,False,601,Las Heras,2,Ascensor N°2: Entrepiso - Hall Boletería,True,A2,0,0
 6,Línea H,False,601,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,False,A3,0,0
 6,Línea H,False,601,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,False,A4,0,0
 6,Línea H,False,601,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,True,E1,0,1
@@ -331,8 +331,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,True,E6,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,True,E7,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,False,E8,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,False,E7,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,True,E9,0,1
 6,Línea H,False,603,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,True,A1,0,0
 6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,False,A2,0,0
