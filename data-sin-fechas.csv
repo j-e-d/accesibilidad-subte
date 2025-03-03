@@ -76,10 +76,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
 2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,EExt,0,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,True,E10,1,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,False,E10,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,True,E11,1,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,False,E12,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,False,E9,0,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,False,E5,1,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,False,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,False,E7,1,1
@@ -214,7 +214,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,411,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,True,S31,0,2
 4,Línea D,False,411,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,True,S32,0,2
 4,Línea D,False,411,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,True,S33,0,2
-4,Línea D,False,412,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,True,E31,0,1
+4,Línea D,False,412,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,False,E31,0,1
 4,Línea D,False,412,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,False,E32,0,1
 4,Línea D,False,412,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,True,E33,0,1
 4,Línea D,False,412,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,True,E34,0,1
@@ -230,7 +230,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,413,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,False,E38,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,False,E39,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E40,1,1
-4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E41,1,1
+4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,False,E41,1,1
 4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,A1,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,True,A2,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E42,0,1
@@ -299,9 +299,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,True,E1,0,1
-5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,True,E2,0,1
+5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,False,E2,0,1
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
 6,Línea H,False,600,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,True,A1,0,0
 6,Línea H,False,600,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
