@@ -79,7 +79,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,True,E10,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,True,E11,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,False,E9,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,False,E5,1,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,False,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,False,E7,1,1
@@ -273,8 +273,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,502,Correo Central,1,Escalera N°7: Vestíbulo - Andén,True,E7,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,True,E8,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),True,E9,0,1
-5,Línea E,False,503,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,False,E1,0,1
-5,Línea E,False,503,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,False,E2,1,1
+5,Línea E,False,503,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,True,E1,0,1
+5,Línea E,False,503,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,True,E2,1,1
 5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,False,E3,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,False,E4,1,1
 5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,EExt,0,1
@@ -283,14 +283,14 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,True,E10,1,1
 5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,True,E9,0,1
-5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,False,EExt,0,1
+5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,True,EExt,0,1
 5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,E11,0,1
 5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,True,E12,0,1
 5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,True,E13,0,1
 5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,True,E14,0,1
 5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,E15,0,1
 5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,E16,0,1
-5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,False,E17,0,1
+5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,True,E17,0,1
 5,Línea E,False,509,Jujuy,2,Escalera N°18: Andén sentido Virreyes - Boletería,True,E18,0,1
 5,Línea E,False,510,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,False,E19,0,1
 5,Línea E,False,510,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,True,E20,0,1
@@ -299,7 +299,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,True,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,True,E2,0,1
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
