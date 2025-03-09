@@ -59,7 +59,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,EInt,0,1
 2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E19,1,1
 2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E20,0,1
-2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E21,0,1
+2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,False,E21,0,1
 2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,False,E22,1,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
@@ -152,7 +152,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,False,E21,1,1
 3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,False,E22,0,1
 3,Línea C,False,303,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,False,E23,1,1
-3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,False,E10,0,1
+3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,True,E10,0,1
 3,Línea C,False,304,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,False,E9,0,1
 3,Línea C,False,304,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,True,EExt,0,1
 3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,True,E7,0,1
