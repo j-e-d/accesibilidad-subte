@@ -122,7 +122,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,True,A6,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,True,E1,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,False,E1,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,True,E10,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
@@ -326,7 +326,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,True,A7,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,False,E1,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,True,E2,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,False,E2,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,False,E3,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),True,E5,0,1
@@ -367,7 +367,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,True,E1,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E10,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,True,E2,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,True,E3,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,False,E3,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,True,E4,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,True,E5,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,True,E6,0,1
