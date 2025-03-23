@@ -47,7 +47,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,True,A2,0,0
 1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,True,A3,0,0
 1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,True,E1,0,1
-1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E2,0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,False,E2,0,1
 1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,E3,0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,E4,0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,True,A1,0,0
@@ -388,7 +388,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,607,Humberto 1°,0,Ascensor N°2: Andén sentido Facultad a Boletería del lado combinación con Línea E,True,A2,0,0
 6,Línea H,False,607,Humberto 1°,2,Ascensor N°3: Andén sentido Hospitales a Boletería del lado combinación con Línea E,True,A3,0,0
 6,Línea H,False,607,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,True,A4,0,2
-6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,True,E1,0,1
+6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,False,E1,0,1
 6,Línea H,False,607,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,True,E2,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,True,E3,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,False,E4,0,1
