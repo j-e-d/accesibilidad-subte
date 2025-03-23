@@ -89,7 +89,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,True,E2,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
-2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,EExt,0,1
+2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,False,EExt,0,1
 2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,EExt,0,1
 2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,EExt,0,1
 2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),False,EExt,0,1
@@ -306,7 +306,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
 6,Línea H,False,600,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,True,A1,0,0
 6,Línea H,False,600,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
-6,Línea H,False,600,Facultad de Derecho,1,Ascensor N°3: Vestíbulo - Facultad de Derecho Av. Figueroa Alcorta 2201,True,A3,0,0
+6,Línea H,False,600,Facultad de Derecho,1,Ascensor N°3: Vestíbulo - Facultad de Derecho Av. Figueroa Alcorta 2201,False,A3,0,0
 6,Línea H,False,600,Facultad de Derecho,0,Escalera N°1: Andén no operativo - vestíbulo,True,E1,0,1
 6,Línea H,False,600,Facultad de Derecho,2,Escalera N°2: Andén - vestíbulo,True,E2,0,1
 6,Línea H,False,601,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),True,A1,0,0
@@ -363,7 +363,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,True,E8,0,1
 6,Línea H,False,604,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,True,E9,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,True,A1,0,0
-6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,False,A2,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,True,A3,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,True,E1,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E10,0,1
