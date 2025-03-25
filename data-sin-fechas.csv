@@ -89,7 +89,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,True,E2,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,True,E3,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,True,E4,0,1
-2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,True,EExt,0,1
+2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,False,EExt,0,1
 2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,False,EExt,0,1
 2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,EExt,0,1
 2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),False,EExt,0,1
@@ -416,7 +416,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,False,E2,1,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,False,E3,0,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,True,E4,0,1
-6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,False,A1,0,0
+6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
 6,Línea H,False,611,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,True,A2,0,0
 6,Línea H,False,611,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
 6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,True,E1,0,1
