@@ -354,7 +354,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,False,C4,0,0
 6,Línea H,False,604,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,True,E1,0,1
 6,Línea H,False,604,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,True,E10,0,1
-6,Línea H,False,604,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,False,E2,0,1
+6,Línea H,False,604,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,True,E2,0,1
 6,Línea H,False,604,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,True,E3,0,1
 6,Línea H,False,604,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,True,E4,1,1
 6,Línea H,False,604,Corrientes,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
