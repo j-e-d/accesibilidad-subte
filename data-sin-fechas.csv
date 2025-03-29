@@ -63,7 +63,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,False,E22,1,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
-2,Línea B,False,203,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,True,A1,0,0
+2,Línea B,False,203,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,203,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,203,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
 2,Línea B,False,203,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,True,EExt,0,1
@@ -105,9 +105,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,True,A1,0,0
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,True,A2,0,0
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,True,E1,0,1
-2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,False,E2,0,1
-2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,True,E3,0,1
-2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,True,E4,1,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,True,E2,0,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,False,E3,0,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,False,E4,1,1
 2,Línea B,False,215,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,True,A1,0,0
 2,Línea B,False,215,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,215,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
@@ -117,7 +117,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,215,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,True,E4,0,1
 2,Línea B,False,215,Echeverría,0,Escalera N°5: Andén sentido Alem - Entrepiso,True,E5,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,True,A1,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,True,A2,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,False,A2,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,False,A3,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
@@ -175,9 +175,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Ascensor N°1: Andén central - Esquina Tucumán 1300 - Talcahuano 600,False,A1,0,0
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°3: Andén central - vestíbulo este    E2 (3),False,E3,0,1
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),False,E4,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),False,E5,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),True,E5,0,1
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),True,E6,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),False,EExt,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),True,EExt,0,1
 4,Línea D,False,403,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,True,A1,0,0
 4,Línea D,False,403,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,True,EExt,0,1
 4,Línea D,False,404,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,True,A1,0,0
