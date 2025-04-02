@@ -19,10 +19,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,EQE,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,EQO,0,1
 1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,True,AN,0,0
-1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,E1,0,1
+1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,False,E1,0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,AS,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,False,E1,0,1
-1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte) :Andén sentido Plaza de Mayo - Av.Rivadavia 4963,True,A1,0,0
+1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte) :Andén sentido Plaza de Mayo - Av.Rivadavia 4963,False,A1,0,0
 1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,True,A2,0,0
 1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,True,E4,1,1
 1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,True,E5,0,1
@@ -51,7 +51,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,E3,0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,E4,0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,True,A1,0,0
-1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,A2,0,0
+1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,False,A2,0,0
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,E1,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,E2,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,True,E3,0,1
