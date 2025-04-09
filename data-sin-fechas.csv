@@ -32,7 +32,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,True,E2,0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,False,E3,1,1
 1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),True,A1,0,0
-1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,False,A2,0,0
+1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
 1,Línea A,False,11,Puan,0,Ascensor N°3: Andén - vestíbulo,True,A3,0,0
 1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),True,E1,0,1
 1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,True,E2,0,1
@@ -44,7 +44,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,True,E2,0,1
 1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,True,E3,0,1
 1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),True,A1,0,0
-1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,False,A2,0,0
+1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,True,A2,0,0
 1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,True,A3,0,0
 1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,True,E1,0,1
 1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E2,0,1
@@ -53,7 +53,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,True,A1,0,0
 1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,True,A2,0,0
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,E1,0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,False,E2,0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,E2,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,False,E3,0,1
 2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,EExt,0,1
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,EInt,0,1
@@ -300,7 +300,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,True,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,True,E2,0,1
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
