@@ -6,12 +6,12 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,True,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E2,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E1,0,1
-1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,EN,0,1
+1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,False,EN,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,ES,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,AN,0,0
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),True,AS,0,0
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,True,E3,0,1
-1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,ES,0,1
+1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,False,ES,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E6,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E7,1,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,E8,1,1
@@ -61,7 +61,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E20,0,1
 2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E21,0,1
 2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E22,1,1
-2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
+2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,False,E17,0,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
 2,Línea B,False,203,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,203,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
@@ -92,7 +92,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,False,EExt,0,1
 2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,EExt,0,1
 2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,EExt,0,1
-2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,EExt,0,1
+2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),False,EExt,0,1
 2,Línea B,False,212,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,True,EHall,1,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,False,ESE,0,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,ESO,0,1
@@ -177,13 +177,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),True,E4,0,1
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),True,E5,0,1
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),True,E6,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),True,EExt,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),False,EExt,0,1
 4,Línea D,False,403,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,False,A1,0,0
 4,Línea D,False,403,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,True,EExt,0,1
 4,Línea D,False,404,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,True,A1,0,0
 4,Línea D,False,404,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,True,A2,0,0
 4,Línea D,False,404,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,True,E7,0,1
-4,Línea D,False,404,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,True,E8,0,1
+4,Línea D,False,404,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,False,E8,0,1
 4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,True,EExt,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,True,E10,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E9,0,1
@@ -279,7 +279,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,True,E3,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,True,E4,1,1
 5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,EExt,0,1
-5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E5,0,1
+5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,False,E5,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,E6,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,False,E10,1,1
@@ -300,7 +300,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,True,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,True,E2,0,1
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
