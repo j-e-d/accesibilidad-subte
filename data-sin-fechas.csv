@@ -207,7 +207,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,False,E23,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,False,E24,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,False,E25,0,1
-4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),False,E26,0,1
+4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E26,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,False,E27,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,False,E28,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,False,E29,0,1
