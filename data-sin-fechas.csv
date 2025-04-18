@@ -55,7 +55,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,True,E1,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,True,E2,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,True,E3,0,1
-2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,False,EExt,0,1
+2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,EExt,0,1
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,EInt,0,1
 2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E19,1,1
 2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E20,0,1
@@ -75,7 +75,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,False,E14,0,1
 2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,True,E16,1,1
-2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,False,EExt,0,1
+2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,EExt,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,True,E10,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,True,E11,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
