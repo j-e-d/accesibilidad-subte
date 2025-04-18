@@ -1,135 +1,135 @@
 idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcion,fechaActualizacion,fechaNormalizacion,funcionando,nombre,sentido,tipo
-1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,2025-04-18T04:05:22-03:00,,False,A1,0,0
-1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),2025-04-18T04:05:22-03:00,,True,AN,0,0
+1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,2025-04-18T04:35:04-03:00,,False,A1,0,0
+1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),2025-04-18T04:35:04-03:00,,True,AN,0,0
 1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),2025-04-17T16:35:21-03:00,,True,AS,0,0
-1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,2025-04-18T04:05:22-03:00,,False,E1,0,1
-1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,2025-04-18T04:05:22-03:00,,False,E2,1,1
-1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,2025-04-18T04:05:22-03:00,,False,E2,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,2025-04-18T04:05:22-03:00,,True,E1,0,1
-1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,2025-04-18T04:05:22-03:00,,False,EN,0,1
-1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,2025-04-18T04:05:22-03:00,,False,ES,0,1
-1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,2025-04-18T04:05:22-03:00,,True,AN,0,0
-1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),2025-04-18T04:05:22-03:00,,True,AS,0,0
-1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2025-04-18T04:05:22-03:00,,False,E3,0,1
-1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2025-04-18T04:05:22-03:00,,False,ES,0,1
+1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,2025-04-18T04:35:04-03:00,,False,E1,0,1
+1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,2025-04-18T04:35:04-03:00,,False,E2,1,1
+1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,2025-04-18T04:35:04-03:00,,False,E2,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,2025-04-18T04:35:04-03:00,,False,E1,0,1
+1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,2025-04-18T04:35:04-03:00,,False,EN,0,1
+1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,2025-04-18T04:35:04-03:00,,False,ES,0,1
+1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,2025-04-18T04:35:04-03:00,,True,AN,0,0
+1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),2025-04-18T04:35:04-03:00,,True,AS,0,0
+1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2025-04-18T04:35:04-03:00,,False,E3,0,1
+1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2025-04-18T04:35:04-03:00,,False,ES,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2025-04-17T16:35:21-03:00,,True,E6,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2025-04-17T16:35:21-03:00,,False,E7,1,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,2025-04-17T16:35:21-03:00,,True,E8,1,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,2025-04-17T16:35:21-03:00,,True,E9,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2025-04-18T04:05:22-03:00,,True,EQE,0,1
-1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,2025-04-18T04:05:22-03:00,,True,EQO,0,1
-1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,2025-04-18T04:05:22-03:00,,True,AN,0,0
-1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2025-04-18T04:05:22-03:00,,False,E1,0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2025-04-18T04:35:04-03:00,,True,EQE,0,1
+1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,2025-04-18T04:35:04-03:00,,True,EQO,0,1
+1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,2025-04-18T04:35:04-03:00,,True,AN,0,0
+1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2025-04-18T04:35:04-03:00,,False,E1,0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,2025-04-17T16:35:21-03:00,,True,AS,0,0
-1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2025-04-18T04:05:22-03:00,,False,E1,0,1
+1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2025-04-18T04:35:04-03:00,,False,E1,0,1
 1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte) :Andén sentido Plaza de Mayo - Av.Rivadavia 4963,2025-04-17T16:35:21-03:00,,True,A1,0,0
 1,Línea A,False,9,Acoyte,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 4970,2025-04-17T16:35:21-03:00,,True,A2,0,0
-1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2025-04-18T04:05:22-03:00,,False,E4,1,1
-1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2025-04-18T04:05:22-03:00,,False,E5,0,1
-1,Línea A,False,10,Primera Junta,1,Ascensor N°1 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2025-04-18T04:05:22-03:00,,False,A1,0,0
-1,Línea A,False,10,Primera Junta,2,Ascensor N°2: Andén sentido Plaza de Mayo- vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
+1,Línea A,False,9,Acoyte,2,Escalera N°4: Av. Rivadavia 4994 - Hall boletería Andén sentido San Pedrito,2025-04-18T04:35:04-03:00,,False,E4,1,1
+1,Línea A,False,9,Acoyte,2,Escalera N° 5: Andén sentido San Pedrito -  Av. Rivadavia 4994,2025-04-18T04:35:04-03:00,,False,E5,0,1
+1,Línea A,False,10,Primera Junta,1,Ascensor N°1 (ext.): Vestíbulo - Plazoleta Primera Junta (Av. Rivadavia 5400),2025-04-18T04:35:04-03:00,,False,A1,0,0
+1,Línea A,False,10,Primera Junta,2,Ascensor N°2: Andén sentido Plaza de Mayo- vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
 1,Línea A,False,10,Primera Junta,1,Escalera N°1 (ext.): Vestíbulo  - Plazoleta Primera Junta (Av. Rivadavia 5400),2025-04-17T16:35:21-03:00,,True,E1,0,1
-1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2025-04-18T04:05:22-03:00,,True,E2,0,1
+1,Línea A,False,10,Primera Junta,1,Escalera N°2 (sur) Andén sureste - vestíbulos,2025-04-18T04:35:04-03:00,,True,E2,0,1
 1,Línea A,False,10,Primera Junta,1,Escalera N°3 (norte): Vestíbulos - andén noreste,2025-04-17T16:35:21-03:00,,True,E3,1,1
-1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),2025-04-18T04:05:22-03:00,,True,A1,0,0
-1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,False,A2,0,0
-1,Línea A,False,11,Puan,0,Ascensor N°3: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,False,A3,0,0
+1,Línea A,False,11,Puan,1,Ascensor N°1: Hall Boletería – Superficie (Av. Rivadavia 5951),2025-04-18T04:35:04-03:00,,True,A1,0,0
+1,Línea A,False,11,Puan,2,Ascensor N°2: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,False,A2,0,0
+1,Línea A,False,11,Puan,0,Ascensor N°3: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,False,A3,0,0
 1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),2025-04-17T16:35:21-03:00,,True,E1,0,1
-1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,E2,0,1
-1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,2025-04-18T04:05:22-03:00,,True,A1,0,0
+1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,E2,0,1
+1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,2025-04-18T04:35:04-03:00,,True,A1,0,0
 1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,2025-04-17T16:35:21-03:00,,True,A2,0,0
-1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,A3,0,0
+1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,A3,0,0
 1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,2025-04-17T16:35:21-03:00,,True,E1,0,1
 1,Línea A,False,12,Carabobo,2,Escalera N°2: Andén  - vestíbulo,2025-04-17T16:35:21-03:00,,True,E2,0,1
-1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),2025-04-18T04:05:22-03:00,,False,A1,0,0
+1,Línea A,False,12,Carabobo,0,Escalera N°3: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),2025-04-18T04:35:04-03:00,,False,A1,0,0
 1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,2025-04-17T16:35:21-03:00,,True,A2,0,0
-1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A3,0,0
-1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,2025-04-18T04:05:22-03:00,,True,E1,0,1
-1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,2025-04-18T04:05:22-03:00,,True,E2,0,1
-1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
+1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A3,0,0
+1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,2025-04-18T04:35:04-03:00,,True,E1,0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,2025-04-18T04:35:04-03:00,,True,E2,0,1
+1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,2025-04-17T16:35:21-03:00,,True,E4,0,1
-1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,2025-04-18T04:05:22-03:00,,False,A1,0,0
-1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
-1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,2025-04-18T04:05:22-03:00,,True,E1,0,1
+1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,2025-04-18T04:35:04-03:00,,False,A1,0,0
+1,Línea A,False,14,San Pedrito,1,Ascensor N°2: Andén central -  Vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
+1,Línea A,False,14,San Pedrito,1,Escalera N°1: Vestíbulo - Av. Rivadavia 7425,2025-04-18T04:35:04-03:00,,True,E1,0,1
 1,Línea A,False,14,San Pedrito,1,Escalera N°2: Andén central lado este - vestíbulo,2025-04-17T16:35:21-03:00,,True,E2,0,1
-1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,2025-04-18T04:05:22-03:00,,False,EExt,0,1
+1,Línea A,False,14,San Pedrito,1,Escalera N°3: Andén central lado oeste  - vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,2025-04-18T04:35:04-03:00,,False,EExt,0,1
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,2025-04-17T16:03:34-03:00,,True,EInt,0,1
-2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E19,1,1
-2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,2025-04-18T04:05:22-03:00,,True,E20,0,1
+2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E19,1,1
+2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,2025-04-18T04:35:04-03:00,,True,E20,0,1
 2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,2025-04-17T16:03:34-03:00,,True,E21,0,1
 2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,2025-04-17T16:03:34-03:00,,True,E22,1,1
-2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E17,0,1
-2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E18,0,1
+2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E17,0,1
+2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E18,0,1
 2,Línea B,False,203,Uruguay,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1401,2025-04-17T16:03:34-03:00,,False,A1,0,0
 2,Línea B,False,203,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2025-04-17T16:03:34-03:00,,False,A2,0,0
 2,Línea B,False,203,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2025-04-17T16:03:34-03:00,,False,A3,0,0
 2,Línea B,False,203,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,2025-04-17T16:03:34-03:00,,True,EExt,0,1
-2,Línea B,False,203,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,2025-04-18T04:05:22-03:00,,True,EInt,0,1
-2,Línea B,False,204,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,2025-04-18T04:05:22-03:00,,True,A1,0,0
+2,Línea B,False,203,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,2025-04-18T04:35:04-03:00,,True,EInt,0,1
+2,Línea B,False,204,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,2025-04-18T04:35:04-03:00,,True,A1,0,0
 2,Línea B,False,204,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2025-04-17T16:03:34-03:00,,False,A2,0,0
 2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2025-04-17T16:03:34-03:00,,True,A3,0,0
 2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Av. Corrientes 1832,2025-04-17T16:03:34-03:00,,True,E13,0,1
 2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,2025-04-17T16:03:34-03:00,,False,E14,0,1
-2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2025-04-18T04:05:22-03:00,,True,E15,0,1
+2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,2025-04-18T04:35:04-03:00,,True,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Vestíbulo - Av. Corrientes 1792,2025-04-17T16:03:34-03:00,,True,E16,1,1
-2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,2025-04-18T04:05:22-03:00,,False,EExt,0,1
+2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,2025-04-18T04:35:04-03:00,,False,EExt,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,2025-04-17T16:03:34-03:00,,True,E10,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,2025-04-17T16:03:34-03:00,,True,E11,1,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,2025-04-17T16:03:34-03:00,,True,E12,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,2025-04-17T16:03:34-03:00,,True,E9,0,1
-2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2025-04-18T04:05:22-03:00,,False,E5,1,1
-2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E6,0,1
-2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,2025-04-18T04:05:22-03:00,,False,E7,1,1
-2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2025-04-18T04:05:22-03:00,,False,E8,0,1
-2,Línea B,False,206,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,2025-04-18T04:05:22-03:00,,True,E1,0,1
-2,Línea B,False,207,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2025-04-18T04:05:22-03:00,,True,E2,1,1
+2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,2025-04-18T04:35:04-03:00,,False,E5,1,1
+2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,2025-04-18T04:35:04-03:00,,False,E6,0,1
+2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,2025-04-18T04:35:04-03:00,,False,E7,1,1
+2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2025-04-18T04:35:04-03:00,,False,E8,0,1
+2,Línea B,False,206,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2025-04-18T04:35:04-03:00,,False,EExt,0,1
+2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,2025-04-18T04:35:04-03:00,,True,E1,0,1
+2,Línea B,False,207,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2025-04-18T04:35:04-03:00,,True,E2,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,2025-04-17T16:03:34-03:00,,True,E3,1,1
-2,Línea B,False,207,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E4,0,1
+2,Línea B,False,207,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E4,0,1
 2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,2025-04-17T16:03:34-03:00,,True,EExt,0,1
 2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,2025-04-17T16:03:34-03:00,,True,EExt,0,1
-2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2025-04-18T04:05:22-03:00,,True,EExt,0,1
-2,Línea B,False,212,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,2025-04-18T04:05:22-03:00,,True,EHall,1,1
+2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,2025-04-18T04:35:04-03:00,,False,EExt,0,1
+2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),2025-04-18T04:35:04-03:00,,True,EExt,0,1
+2,Línea B,False,212,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,2025-04-18T04:35:04-03:00,,True,EHall,1,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,2025-04-17T16:03:34-03:00,,False,ESE,0,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,2025-04-17T16:03:34-03:00,,True,ESO,0,1
-2,Línea B,False,213,Tronador Villa Ortúzar,1,Ascensor N°1: Vestíbulo - Tronador 750,2025-04-18T04:05:22-03:00,,True,A1,0,0
-2,Línea B,False,213,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
-2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°1: Andén central - Av.Triunvirato  3101,2025-04-18T04:05:22-03:00,,True,E1,0,1
+2,Línea B,False,213,Tronador Villa Ortúzar,1,Ascensor N°1: Vestíbulo - Tronador 750,2025-04-18T04:35:04-03:00,,True,A1,0,0
+2,Línea B,False,213,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
+2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°1: Andén central - Av.Triunvirato  3101,2025-04-18T04:35:04-03:00,,True,E1,0,1
 2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°2: Andén Central - Av.Triunvirato 3174,2025-04-17T16:03:34-03:00,,False,E2,1,1
-2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°4: Andén central - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E4,1,1
-2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,2025-04-18T04:05:22-03:00,,True,A1,0,0
-2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
+2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°4: Andén central - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E4,1,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,2025-04-18T04:35:04-03:00,,True,A1,0,0
+2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,2025-04-17T16:03:34-03:00,,True,E1,0,1
-2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,2025-04-18T04:05:22-03:00,,False,E2,0,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,2025-04-18T04:35:04-03:00,,False,E2,0,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,2025-04-17T16:03:34-03:00,,True,E3,0,1
-2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,2025-04-18T04:05:22-03:00,,True,E4,1,1
-2,Línea B,False,215,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,2025-04-18T04:05:22-03:00,,True,A1,0,0
-2,Línea B,False,215,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
-2,Línea B,False,215,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A3,0,0
-2,Línea B,False,215,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,2025-04-18T04:05:22-03:00,,True,E1,0,1
-2,Línea B,False,215,Echeverría,1,Escalera N°2: Entrepiso - vestbulo,2025-04-18T04:05:22-03:00,,True,E2,0,1
-2,Línea B,False,215,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-2,Línea B,False,215,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,2025-04-18T04:05:22-03:00,,True,E4,0,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,2025-04-18T04:35:04-03:00,,True,E4,1,1
+2,Línea B,False,215,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,2025-04-18T04:35:04-03:00,,True,A1,0,0
+2,Línea B,False,215,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
+2,Línea B,False,215,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A3,0,0
+2,Línea B,False,215,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,2025-04-18T04:35:04-03:00,,True,E1,0,1
+2,Línea B,False,215,Echeverría,1,Escalera N°2: Entrepiso - vestbulo,2025-04-18T04:35:04-03:00,,True,E2,0,1
+2,Línea B,False,215,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+2,Línea B,False,215,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,2025-04-18T04:35:04-03:00,,True,E4,0,1
 2,Línea B,False,215,Echeverría,0,Escalera N°5: Andén sentido Alem - Entrepiso,2025-04-17T16:03:34-03:00,,True,E5,0,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,2025-04-18T04:05:22-03:00,,True,A1,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,2025-04-18T04:05:22-03:00,,True,A2,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,2025-04-18T04:35:04-03:00,,True,A1,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,2025-04-18T04:35:04-03:00,,True,A2,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,2025-04-17T16:03:34-03:00,,True,A3,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A4,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A4,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,2025-04-17T16:03:34-03:00,,True,A5,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,2025-04-18T04:05:22-03:00,,True,A6,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,2025-04-18T04:05:22-03:00,,True,E1,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,2025-04-18T04:35:04-03:00,,True,A6,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Vestíbulo - Av. Monroe 5125,2025-04-18T04:35:04-03:00,,True,E1,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Entrepiso - Andén Central,2025-04-17T16:03:34-03:00,,True,E10,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,2025-04-17T16:03:34-03:00,,True,E11,0,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,2025-04-18T04:05:22-03:00,,False,E2,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,2025-04-18T04:35:04-03:00,,False,E2,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,2025-04-17T16:03:34-03:00,,True,E3,0,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E4,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,2025-04-17T16:03:34-03:00,,True,E5,1,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E6,1,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,2025-04-17T16:03:34-03:00,,True,E7,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,2025-04-17T16:03:34-03:00,,True,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,2025-04-17T16:03:34-03:00,,True,E9,0,1
@@ -139,9 +139,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,2025-04-17T18:12:03-03:00,,True,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,2025-04-17T18:12:03-03:00,,True,E16,0,1
 3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,2025-04-17T18:12:03-03:00,,False,E17,0,1
-3,Línea C,False,302,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E14,0,1
-3,Línea C,False,302,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E15,0,1
-3,Línea C,False,302,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,2025-04-18T04:05:22-03:00,,False,EExt,0,1
+3,Línea C,False,302,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E14,0,1
+3,Línea C,False,302,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E15,0,1
+3,Línea C,False,302,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,2025-04-18T04:35:04-03:00,,False,EExt,0,1
 3,Línea C,False,302,Lavalle,1,Escalera N°2 Hall: Vestíbulo -  Pasillo de salida,2025-04-17T18:12:03-03:00,,True,EHall,0,1
 3,Línea C,False,303,Diagonal Norte,2,Ascensor N°1: Vestíbulo - Andén sentido Constitución,2025-04-17T18:12:03-03:00,,False,A1,0,0
 3,Línea C,False,303,Diagonal Norte,0,Ascensor N°2: Vestíbulo - Andén sentido Retiro,2025-04-17T18:12:03-03:00,,False,A2,0,0
@@ -152,95 +152,95 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,2025-04-17T18:12:03-03:00,,True,E21,1,1
 3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2025-04-17T18:12:03-03:00,,True,E22,0,1
 3,Línea C,False,303,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,2025-04-17T18:12:03-03:00,,True,E23,1,1
-3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2025-04-18T04:05:22-03:00,,True,E10,0,1
+3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2025-04-18T04:35:04-03:00,,True,E10,0,1
 3,Línea C,False,304,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2025-04-17T18:12:03-03:00,,True,E9,0,1
-3,Línea C,False,304,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E7,0,1
-3,Línea C,False,305,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,2025-04-18T04:05:22-03:00,,False,E8,0,1
+3,Línea C,False,304,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,2025-04-18T04:35:04-03:00,,False,EExt,0,1
+3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,2025-04-18T04:35:04-03:00,,False,E7,0,1
+3,Línea C,False,305,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,2025-04-18T04:35:04-03:00,,False,E8,0,1
 3,Línea C,False,306,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,2025-04-17T18:12:03-03:00,,True,E5,0,1
-3,Línea C,False,306,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E6,0,1
-3,Línea C,False,307,San Juan,2,Escalera N°3: Andén sentido Constitución - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-3,Línea C,False,307,San Juan,0,Escalera N°4: Andén sentido Retiro.  Cerrada por renovación de medio de elevación.,2025-04-18T04:05:22-03:00,,False,E4,0,1
+3,Línea C,False,306,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E6,0,1
+3,Línea C,False,307,San Juan,2,Escalera N°3: Andén sentido Constitución - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+3,Línea C,False,307,San Juan,0,Escalera N°4: Andén sentido Retiro.  Cerrada por renovación de medio de elevación.,2025-04-18T04:35:04-03:00,,False,E4,0,1
 3,Línea C,False,308,Constitución,2,Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2025-04-17T18:12:03-03:00,,False,A1,0,0
 3,Línea C,False,308,Constitución,2,Ascensor N°2: Andén 1 - Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),2025-04-17T18:12:03-03:00,,True,A2,0,0
 3,Línea C,False,308,Constitución,1,Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso),2025-04-17T18:12:03-03:00,,True,A3,0,0
 3,Línea C,False,308,Constitución,2,Ascensor N°4: Andén 2 -  Centro de Trasbordo superficie Av. Garay 1150 (sólo salida),2025-04-17T18:12:03-03:00,,True,A4,0,0
-3,Línea C,False,308,Constitución,2,Escalera N°1:  Andén - Hall Centro de Trasbordo,2025-04-18T04:05:22-03:00,,True,E1,0,1
+3,Línea C,False,308,Constitución,2,Escalera N°1:  Andén - Hall Centro de Trasbordo,2025-04-18T04:35:04-03:00,,True,E1,0,1
 3,Línea C,False,308,Constitución,2,Escalera N°2: Andén - Hall Centro de Trasbordo,2025-04-17T18:12:03-03:00,,True,E2,0,1
 4,Línea D,False,400,Catedral,2,Ascensor N°1: Andén sur sentido Congreso de Tucumán  - Av. Roque Sáenz Peña 534 (sólo ingreso),2025-04-17T18:26:05-03:00,,True,A1,0,0
 4,Línea D,False,400,Catedral,0,Ascensor N° 2 Andén Norte - Sólo hacia el exterior: Av. Roque Sáenz Peña 567,2025-04-17T18:26:05-03:00,,False,A2,0,0
 4,Línea D,False,400,Catedral,0,Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior),2025-04-17T18:26:05-03:00,,False,E1,0,1
 4,Línea D,False,401,9 de Julio,2,Ascensor 1: Andén sentido C. de Tucumán. Av. Pres. Roque Sáenz Peña y Carabelas.,2025-04-17T18:26:05-03:00,,True,A Ext,0,0
-4,Línea D,False,401,9 de Julio,2,Escalera N°2: Línea C - vestíbulo Línea D,2025-04-18T04:05:22-03:00,,False,E2,0,1
+4,Línea D,False,401,9 de Julio,2,Escalera N°2: Línea C - vestíbulo Línea D,2025-04-18T04:35:04-03:00,,True,E2,0,1
 4,Línea D,False,402,Tribunales – Teatro Colón,1,Ascensor N°1: Andén central - Esquina Tucumán 1300 - Talcahuano 600,2025-04-17T18:26:05-03:00,,False,A1,0,0
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°3: Andén central - vestíbulo este    E2 (3),2025-04-18T04:05:22-03:00,,False,E3,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),2025-04-18T04:05:22-03:00,,False,E4,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),2025-04-18T04:05:22-03:00,,False,E5,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),2025-04-18T04:05:22-03:00,,False,E6,0,1
-4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),2025-04-18T04:05:22-03:00,,False,EExt,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°3: Andén central - vestíbulo este    E2 (3),2025-04-18T04:35:04-03:00,,False,E3,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°4: Vestíbulo este - andén central    E1(4),2025-04-18T04:35:04-03:00,,False,E4,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°5: Vestíbulo oeste - andén central E4(5),2025-04-18T04:35:04-03:00,,True,E5,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera N°6: Andén central - vestíbulo oeste  E3(6),2025-04-18T04:35:04-03:00,,False,E6,0,1
+4,Línea D,False,402,Tribunales – Teatro Colón,1,Escalera ext: Vestíbulo  oeste - Plaza Lavalle   Ei(ext),2025-04-18T04:35:04-03:00,,False,EExt,0,1
 4,Línea D,False,403,Callao,2,Ascensor N°1: Andén sentido C. de Tucumán (-2) - Vestíbulo (-1) y Av. Córdoba 1710,2025-04-17T18:26:05-03:00,,False,A1,0,0
 4,Línea D,False,403,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,2025-04-17T18:26:05-03:00,,True,EExt,0,1
 4,Línea D,False,404,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,2025-04-17T18:26:05-03:00,,False,A1,0,0
 4,Línea D,False,404,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,2025-04-17T18:26:05-03:00,,True,A2,0,0
-4,Línea D,False,404,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E7,0,1
-4,Línea D,False,404,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E8,0,1
-4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-4,Línea D,False,405,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E10,0,1
-4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,2025-04-18T04:05:22-03:00,,False,E9,0,1
-4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2025-04-18T04:05:22-03:00,,False,E11,0,1
-4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2025-04-18T04:05:22-03:00,,False,E12,0,1
-4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-4,Línea D,False,407,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,2025-04-18T04:05:22-03:00,,False,E13,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2025-04-18T04:05:22-03:00,,False,E14,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2025-04-18T04:05:22-03:00,,False,E15,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2025-04-18T04:05:22-03:00,,False,E16,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2025-04-18T04:05:22-03:00,,False,EExt,0,1
+4,Línea D,False,404,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,2025-04-18T04:35:04-03:00,,False,E7,0,1
+4,Línea D,False,404,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,2025-04-18T04:35:04-03:00,,False,E8,0,1
+4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2025-04-18T04:35:04-03:00,,False,EExt,0,1
+4,Línea D,False,405,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E10,0,1
+4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,2025-04-18T04:35:04-03:00,,False,E9,0,1
+4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2025-04-18T04:35:04-03:00,,True,EExt,0,1
+4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2025-04-18T04:35:04-03:00,,False,E11,0,1
+4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2025-04-18T04:35:04-03:00,,False,E12,0,1
+4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2025-04-18T04:35:04-03:00,,False,EExt,0,1
+4,Línea D,False,407,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,2025-04-18T04:35:04-03:00,,False,EExt,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,2025-04-18T04:35:04-03:00,,False,E13,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2025-04-18T04:35:04-03:00,,False,E14,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2025-04-18T04:35:04-03:00,,False,E15,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2025-04-18T04:35:04-03:00,,False,E16,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2025-04-18T04:35:04-03:00,,False,EExt,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2025-04-17T18:26:05-03:00,,True,E17,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2025-04-17T18:26:05-03:00,,True,E18,0,1
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2025-04-17T18:26:05-03:00,,True,EExt,0,1
-4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,2025-04-18T04:05:22-03:00,,False,E19,0,1
-4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,2025-04-18T04:05:22-03:00,,False,E20,0,1
-4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,2025-04-18T04:05:22-03:00,,False,E21,0,1
-4,Línea D,False,410,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,2025-04-18T04:05:22-03:00,,False,E22,0,1
-4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,2025-04-18T04:05:22-03:00,,False,E23,0,1
-4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E24,0,1
-4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,2025-04-18T04:05:22-03:00,,False,E25,0,1
-4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),2025-04-18T04:05:22-03:00,,False,E26,0,1
-4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,2025-04-18T04:05:22-03:00,,False,E27,0,1
-4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,2025-04-18T04:05:22-03:00,,False,E28,0,1
-4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E29,0,1
-4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E30,0,1
+4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,2025-04-18T04:35:04-03:00,,False,E19,0,1
+4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,2025-04-18T04:35:04-03:00,,False,E20,0,1
+4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,2025-04-18T04:35:04-03:00,,False,E21,0,1
+4,Línea D,False,410,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,2025-04-18T04:35:04-03:00,,True,E22,0,1
+4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,2025-04-18T04:35:04-03:00,,False,E23,0,1
+4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E24,0,1
+4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,2025-04-18T04:35:04-03:00,,False,E25,0,1
+4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),2025-04-18T04:35:04-03:00,,False,E26,0,1
+4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,2025-04-18T04:35:04-03:00,,True,E27,0,1
+4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,2025-04-18T04:35:04-03:00,,True,E28,0,1
+4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E29,0,1
+4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E30,0,1
 4,Línea D,False,411,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,2025-04-17T18:26:05-03:00,,True,S31,0,2
 4,Línea D,False,411,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,2025-04-17T18:26:05-03:00,,True,S32,0,2
 4,Línea D,False,411,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,2025-04-17T18:26:05-03:00,,True,S33,0,2
-4,Línea D,False,412,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,2025-04-18T04:05:22-03:00,,False,E31,0,1
-4,Línea D,False,412,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,2025-04-18T04:05:22-03:00,,False,E32,0,1
+4,Línea D,False,412,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,2025-04-18T04:35:04-03:00,,True,E31,0,1
+4,Línea D,False,412,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,2025-04-18T04:35:04-03:00,,False,E32,0,1
 4,Línea D,False,412,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,2025-04-17T18:26:05-03:00,,True,E33,0,1
-4,Línea D,False,412,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,2025-04-18T04:05:22-03:00,,False,E34,0,1
-4,Línea D,False,412,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617.,2025-04-18T04:05:22-03:00,,False,E35,0,1
+4,Línea D,False,412,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,2025-04-18T04:35:04-03:00,,True,E34,0,1
+4,Línea D,False,412,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617.,2025-04-18T04:35:04-03:00,,False,E35,0,1
 4,Línea D,False,412,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,2025-04-17T18:26:05-03:00,,False,S36,0,2
 4,Línea D,False,412,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,2025-04-17T18:26:05-03:00,,True,S37,0,2
 4,Línea D,False,412,José Hernández,1,Salvaescalera N°3:  Andén - vestíbulo,2025-04-17T18:26:05-03:00,,True,S38,0,2
-4,Línea D,False,413,Juramento,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2043.,2025-04-18T04:05:22-03:00,,True,A1,0,0
-4,Línea D,False,413,Juramento,2,Ascensor N°2: Andén sentido Congreso de Tucumán - Boletería.,2025-04-18T04:05:22-03:00,,True,A2,0,0
-4,Línea D,False,413,Juramento,0,Ascensor N°3: Andén sentido Catedral - Vestíbulo.,2025-04-18T04:05:22-03:00,,True,A3,0,0
-4,Línea D,False,413,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,2025-04-18T04:05:22-03:00,,False,E36,0,1
-4,Línea D,False,413,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,2025-04-18T04:05:22-03:00,,False,E37,0,1
+4,Línea D,False,413,Juramento,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2043.,2025-04-18T04:35:04-03:00,,True,A1,0,0
+4,Línea D,False,413,Juramento,2,Ascensor N°2: Andén sentido Congreso de Tucumán - Boletería.,2025-04-18T04:35:04-03:00,,True,A2,0,0
+4,Línea D,False,413,Juramento,0,Ascensor N°3: Andén sentido Catedral - Vestíbulo.,2025-04-18T04:35:04-03:00,,True,A3,0,0
+4,Línea D,False,413,Juramento,2,Escalera N°36: Andén sentido Congreso de Tucumán - Boletería,2025-04-18T04:35:04-03:00,,False,E36,0,1
+4,Línea D,False,413,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,2025-04-18T04:35:04-03:00,,False,E37,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,2025-04-17T18:26:05-03:00,,True,E38,0,1
-4,Línea D,False,413,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,2025-04-18T04:05:22-03:00,,False,E39,0,1
-4,Línea D,False,413,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,2025-04-18T04:05:22-03:00,,False,E40,1,1
-4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,2025-04-18T04:05:22-03:00,,False,E41,1,1
-4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,2025-04-18T04:05:22-03:00,,True,A1,0,0
-4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,2025-04-18T04:05:22-03:00,,True,A2,0,0
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,2025-04-18T04:05:22-03:00,,False,E42,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,2025-04-18T04:05:22-03:00,,False,E43,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,2025-04-18T04:05:22-03:00,,False,E44,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,2025-04-18T04:05:22-03:00,,False,E45,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,2025-04-18T04:05:22-03:00,,False,E46,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,2025-04-18T04:05:22-03:00,,False,E47,0,1
-5,Línea E,False,500,Retiro,1,Ascensor N°1: Andén Central - Vestíbulo -  combinación con Línea C,2025-04-18T04:05:22-03:00,,True,A1,0,0
+4,Línea D,False,413,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,2025-04-18T04:35:04-03:00,,False,E39,0,1
+4,Línea D,False,413,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,2025-04-18T04:35:04-03:00,,False,E40,1,1
+4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,2025-04-18T04:35:04-03:00,,False,E41,1,1
+4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,2025-04-18T04:35:04-03:00,,True,A1,0,0
+4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,2025-04-18T04:35:04-03:00,,True,A2,0,0
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,2025-04-18T04:35:04-03:00,,True,E42,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,2025-04-18T04:35:04-03:00,,True,E43,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,2025-04-18T04:35:04-03:00,,True,E44,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,2025-04-18T04:35:04-03:00,,True,E45,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,2025-04-18T04:35:04-03:00,,False,E46,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,2025-04-18T04:35:04-03:00,,False,E47,0,1
+5,Línea E,False,500,Retiro,1,Ascensor N°1: Andén Central - Vestíbulo -  combinación con Línea C,2025-04-18T04:35:04-03:00,,True,A1,0,0
 5,Línea E,False,500,Retiro,1,Ascensor N°2: Boletería - Av Libertador 100 - Salida 5,2025-04-17T19:58:56-03:00,,False,A2,0,0
 5,Línea E,False,500,Retiro,1,Ascensor N°3: Pasillo de combinación con Línea C - Andén Central Línea C,2025-04-17T19:58:56-03:00,,False,A3,0,0
 5,Línea E,False,500,Retiro,1,Escalera N°1: Pasillo - Juncal 601,2025-04-17T19:58:56-03:00,,True,E1,0,1
@@ -248,150 +248,150 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,500,Retiro,1,Escalera N°2: Pasillo - Av. Libertador 100 (Salida 3),2025-04-17T19:58:56-03:00,,False,E2,0,1
 5,Línea E,False,500,Retiro,1,"Escalera N°3: Boletería - Hall (Salidas 1, 2 y 3)",2025-04-17T19:58:56-03:00,,True,E3,0,1
 5,Línea E,False,500,Retiro,1,"Escalera N°4: Hall Salidas 1, 2 y 3 - Boletería",2025-04-17T19:58:56-03:00,,True,E4,1,1
-5,Línea E,False,500,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,2025-04-18T04:05:22-03:00,,True,E5,1,1
+5,Línea E,False,500,Retiro,1,Escalera N°5: Hall Salidas 4 y 7 - Boletería,2025-04-18T04:35:04-03:00,,True,E5,1,1
 5,Línea E,False,500,Retiro,1,Escalera N°6: Frente de boletería - hall Salidas 4 y 7,2025-04-17T19:58:56-03:00,,True,E6,0,1
-5,Línea E,False,500,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2025-04-18T04:05:22-03:00,,True,E7,0,1
+5,Línea E,False,500,Retiro,1,Escalera N°7: Andén Central - Vestíbulo (Lado conexión con FFCC),2025-04-18T04:35:04-03:00,,True,E7,0,1
 5,Línea E,False,500,Retiro,1,Escalera N°8: Vestíbulo (Lado conexión con FFCC) - Andén Central,2025-04-17T19:58:56-03:00,,True,E8,1,1
 5,Línea E,False,500,Retiro,1,Escalera N°10:    Andén - Vestíbulo (Lado Combinación con Línea C),2025-04-17T19:58:56-03:00,,True,E9,0,1
-5,Línea E,False,501,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A1,0,0
-5,Línea E,False,501,Catalinas,1,Ascensor N°2: Vestíbulo - Salida 1 (Este) - Alem 900 (Plazoleta),2025-04-18T04:05:22-03:00,,True,A2,0,0
-5,Línea E,False,501,Catalinas,1,Escalera N°1: Vestíbulo - Salida 4 (Av. Leandro N. Alem 900),2025-04-18T04:05:22-03:00,,False,E1,0,1
-5,Línea E,False,501,Catalinas,1,Escalera N°2: Vestíbulo - Entrepiso Salida 1,2025-04-18T04:05:22-03:00,,False,E2,0,1
-5,Línea E,False,501,Catalinas,1,Escalera N°3 : Andén Central- Vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-5,Línea E,False,501,Catalinas,1,Escalera N°4: Entrepiso -  Salida 1 (Av. Leandro N. Alem 900),2025-04-18T04:05:22-03:00,,False,E4,0,1
+5,Línea E,False,501,Catalinas,1,Ascensor N°1: Andén Central - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A1,0,0
+5,Línea E,False,501,Catalinas,1,Ascensor N°2: Vestíbulo - Salida 1 (Este) - Alem 900 (Plazoleta),2025-04-18T04:35:04-03:00,,True,A2,0,0
+5,Línea E,False,501,Catalinas,1,Escalera N°1: Vestíbulo - Salida 4 (Av. Leandro N. Alem 900),2025-04-18T04:35:04-03:00,,False,E1,0,1
+5,Línea E,False,501,Catalinas,1,Escalera N°2: Vestíbulo - Entrepiso Salida 1,2025-04-18T04:35:04-03:00,,False,E2,0,1
+5,Línea E,False,501,Catalinas,1,Escalera N°3 : Andén Central- Vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+5,Línea E,False,501,Catalinas,1,Escalera N°4: Entrepiso -  Salida 1 (Av. Leandro N. Alem 900),2025-04-18T04:35:04-03:00,,False,E4,0,1
 5,Línea E,False,501,Catalinas,1,Escalera N°5: Andén Central - Vestíbulo,2025-04-17T19:58:56-03:00,,True,E5,0,1
-5,Línea E,False,501,Catalinas,1,Escalera N°6: Vestíbulo - Andén Central,2025-04-18T04:05:22-03:00,,True,E6,1,1
+5,Línea E,False,501,Catalinas,1,Escalera N°6: Vestíbulo - Andén Central,2025-04-18T04:35:04-03:00,,True,E6,1,1
 5,Línea E,False,502,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,2025-04-17T19:58:56-03:00,,True,A1,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°2: Vestíbulo norte - hall boletería norte,2025-04-17T19:58:56-03:00,,False,A2,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),2025-04-17T19:58:56-03:00,,False,A3,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,2025-04-17T19:58:56-03:00,,True,A4,0,0
 5,Línea E,False,502,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,2025-04-17T19:58:56-03:00,,True,E1,0,1
 5,Línea E,False,502,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,2025-04-17T19:58:56-03:00,,True,E2,0,1
-5,Línea E,False,502,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,2025-04-18T04:05:22-03:00,,True,E3,0,1
-5,Línea E,False,502,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,2025-04-18T04:05:22-03:00,,True,E4,0,1
+5,Línea E,False,502,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,2025-04-18T04:35:04-03:00,,True,E3,0,1
+5,Línea E,False,502,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,2025-04-18T04:35:04-03:00,,True,E4,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°4: Vestíbulo - Andén,2025-04-17T19:58:56-03:00,,True,E5,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,2025-04-17T19:58:56-03:00,,False,E6,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°7: Vestíbulo - Andén,2025-04-17T19:58:56-03:00,,False,E7,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,2025-04-17T19:58:56-03:00,,False,E8,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),2025-04-17T19:58:56-03:00,,False,E9,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,2025-04-17T19:58:56-03:00,,True,E1,0,1
-5,Línea E,False,503,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,2025-04-18T04:05:22-03:00,,False,E2,1,1
-5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2025-04-18T04:05:22-03:00,,False,E3,0,1
-5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,2025-04-18T04:05:22-03:00,,False,E4,1,1
-5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2025-04-18T04:05:22-03:00,,False,EExt,0,1
-5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,2025-04-18T04:05:22-03:00,,False,E5,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2025-04-18T04:05:22-03:00,,True,E6,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2025-04-18T04:05:22-03:00,,True,E8,0,1
-5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2025-04-18T04:05:22-03:00,,False,E10,1,1
-5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2025-04-18T04:05:22-03:00,,False,E9,0,1
-5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2025-04-18T04:05:22-03:00,,False,EExt,0,1
-5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2025-04-18T04:05:22-03:00,,True,E11,0,1
-5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2025-04-18T04:05:22-03:00,,True,E12,0,1
-5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2025-04-18T04:05:22-03:00,,False,E13,0,1
-5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2025-04-18T04:05:22-03:00,,False,E14,0,1
-5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2025-04-18T04:05:22-03:00,,True,E15,0,1
-5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2025-04-18T04:05:22-03:00,,True,E16,0,1
-5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,2025-04-18T04:05:22-03:00,,False,E17,0,1
-5,Línea E,False,509,Jujuy,2,Escalera N°18: Andén sentido Virreyes - Boletería,2025-04-18T04:05:22-03:00,,False,E18,0,1
-5,Línea E,False,510,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2025-04-18T04:05:22-03:00,,False,E19,0,1
+5,Línea E,False,503,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,2025-04-18T04:35:04-03:00,,False,E2,1,1
+5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,2025-04-18T04:35:04-03:00,,False,E3,0,1
+5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,2025-04-18T04:35:04-03:00,,False,E4,1,1
+5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),2025-04-18T04:35:04-03:00,,False,EExt,0,1
+5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,2025-04-18T04:35:04-03:00,,False,E5,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,2025-04-18T04:35:04-03:00,,True,E6,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,2025-04-18T04:35:04-03:00,,True,E8,0,1
+5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,2025-04-18T04:35:04-03:00,,False,E10,1,1
+5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,2025-04-18T04:35:04-03:00,,False,E9,0,1
+5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,2025-04-18T04:35:04-03:00,,False,EExt,0,1
+5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,2025-04-18T04:35:04-03:00,,True,E11,0,1
+5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,2025-04-18T04:35:04-03:00,,True,E12,0,1
+5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,2025-04-18T04:35:04-03:00,,False,E13,0,1
+5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,2025-04-18T04:35:04-03:00,,False,E14,0,1
+5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,2025-04-18T04:35:04-03:00,,True,E15,0,1
+5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,2025-04-18T04:35:04-03:00,,True,E16,0,1
+5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,2025-04-18T04:35:04-03:00,,False,E17,0,1
+5,Línea E,False,509,Jujuy,2,Escalera N°18: Andén sentido Virreyes - Boletería,2025-04-18T04:35:04-03:00,,False,E18,0,1
+5,Línea E,False,510,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,2025-04-18T04:35:04-03:00,,False,E19,0,1
 5,Línea E,False,510,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,2025-04-17T19:58:56-03:00,,True,E20,0,1
-5,Línea E,False,511,Boedo,1,Escalera N°21: Andén Central - Boletería,2025-04-18T04:05:22-03:00,,True,E21,0,1
-5,Línea E,False,512,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,2025-04-18T04:05:22-03:00,,True,E22,0,1
-5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,2025-04-18T04:05:22-03:00,,True,E23,0,1
-5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,2025-04-18T04:05:22-03:00,,False,E24,0,1
-5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2025-04-18T04:05:22-03:00,,False,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,2025-04-18T04:05:22-03:00,,False,E7,0,1
-5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2025-04-18T04:05:22-03:00,,False,E1,0,1
-5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2025-04-18T04:05:22-03:00,,False,E2,0,1
-5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,2025-04-18T04:05:22-03:00,,False,E26,0,1
-6,Línea H,False,600,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,2025-04-18T04:05:22-03:00,,True,A1,0,0
+5,Línea E,False,511,Boedo,1,Escalera N°21: Andén Central - Boletería,2025-04-18T04:35:04-03:00,,True,E21,0,1
+5,Línea E,False,512,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,2025-04-18T04:35:04-03:00,,True,E22,0,1
+5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,2025-04-18T04:35:04-03:00,,True,E23,0,1
+5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,2025-04-18T04:35:04-03:00,,False,E24,0,1
+5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,2025-04-18T04:35:04-03:00,,False,E25,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,2025-04-18T04:35:04-03:00,,False,E7,0,1
+5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,2025-04-18T04:35:04-03:00,,False,E1,0,1
+5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,2025-04-18T04:35:04-03:00,,False,E2,0,1
+5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,2025-04-18T04:35:04-03:00,,False,E26,0,1
+6,Línea H,False,600,Facultad de Derecho,0,Ascensor N°1:  Andén no operativo - vestíbulo,2025-04-18T04:35:04-03:00,,True,A1,0,0
 6,Línea H,False,600,Facultad de Derecho,2,Ascensor N°2: Andén - vestíbulo,2025-04-17T19:02:49-03:00,,True,A2,0,0
 6,Línea H,False,600,Facultad de Derecho,1,Ascensor N°3: Vestíbulo - Facultad de Derecho Av. Figueroa Alcorta 2201,2025-04-17T19:02:49-03:00,,False,A3,0,0
-6,Línea H,False,600,Facultad de Derecho,0,Escalera N°1: Andén no operativo - vestíbulo,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,600,Facultad de Derecho,2,Escalera N°2: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,E2,0,1
+6,Línea H,False,600,Facultad de Derecho,0,Escalera N°1: Andén no operativo - vestíbulo,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,600,Facultad de Derecho,2,Escalera N°2: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,E2,0,1
 6,Línea H,False,601,Las Heras,0,Ascensor N°1:  Hall Boletería - Av. Pueyrredón 2001 (y Av. Las Heras),2025-04-17T19:02:49-03:00,,True,A1,0,0
 6,Línea H,False,601,Las Heras,2,Ascensor N°2: Entrepiso - Hall Boletería,2025-04-17T19:02:49-03:00,,True,A2,0,0
 6,Línea H,False,601,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,2025-04-17T19:02:49-03:00,,True,A3,0,0
 6,Línea H,False,601,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,2025-04-17T19:02:49-03:00,,True,A4,0,0
-6,Línea H,False,601,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,2025-04-18T04:05:22-03:00,,True,E1,0,1
+6,Línea H,False,601,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,2025-04-18T04:35:04-03:00,,True,E1,0,1
 6,Línea H,False,601,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,2025-04-17T19:02:49-03:00,,True,E2,1,1
-6,Línea H,False,601,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,2025-04-18T04:05:22-03:00,,True,E4,1,1
-6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,2025-04-18T04:05:22-03:00,,True,E5,0,1
-6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),2025-04-18T04:05:22-03:00,,True,E6,0,1
+6,Línea H,False,601,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,2025-04-18T04:35:04-03:00,,True,E4,1,1
+6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,2025-04-18T04:35:04-03:00,,True,E5,0,1
+6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),2025-04-18T04:35:04-03:00,,True,E6,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,2025-04-17T19:02:49-03:00,,True,A1,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,2025-04-17T19:02:49-03:00,,True,A2,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,2025-04-17T19:02:49-03:00,,True,A3,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,2025-04-17T19:02:49-03:00,,True,A4,0,0
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,2025-04-18T04:05:22-03:00,,False,A5,0,0
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,2025-04-18T04:35:04-03:00,,False,A5,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,2025-04-17T19:02:49-03:00,,True,A6,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,2025-04-17T19:02:49-03:00,,True,A7,0,0
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,2025-04-18T04:05:22-03:00,,True,E1,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,2025-04-18T04:35:04-03:00,,True,E1,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,2025-04-17T19:02:49-03:00,,True,E2,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,2025-04-18T04:05:22-03:00,,True,E4,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),2025-04-18T04:05:22-03:00,,True,E5,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,2025-04-18T04:05:22-03:00,,True,E6,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,2025-04-18T04:05:22-03:00,,True,E7,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,2025-04-18T04:05:22-03:00,,True,E8,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,2025-04-18T04:35:04-03:00,,True,E4,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),2025-04-18T04:35:04-03:00,,True,E5,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,2025-04-18T04:35:04-03:00,,True,E6,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,2025-04-18T04:35:04-03:00,,True,E7,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,2025-04-18T04:35:04-03:00,,True,E8,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,2025-04-17T19:02:49-03:00,,True,E9,0,1
 6,Línea H,False,603,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,2025-04-17T19:02:49-03:00,,True,A1,0,0
 6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,2025-04-17T19:02:49-03:00,,True,A2,0,0
 6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,2025-04-17T19:02:49-03:00,,True,A3,0,0
-6,Línea H,False,603,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,603,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E2,0,1
-6,Línea H,False,603,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,603,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),2025-04-18T04:05:22-03:00,,True,E4,0,1
-6,Línea H,False,603,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),2025-04-18T04:05:22-03:00,,True,E5,0,1
+6,Línea H,False,603,Córdoba,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,603,Córdoba,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E2,0,1
+6,Línea H,False,603,Córdoba,1,Escalera N°3: Hall boletería - Entrepiso (salida n° 1),2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,603,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),2025-04-18T04:35:04-03:00,,True,E4,0,1
+6,Línea H,False,603,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),2025-04-18T04:35:04-03:00,,True,E5,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),2025-04-17T19:02:49-03:00,,False,E6,0,1
-6,Línea H,False,604,Corrientes,0,Ascensor N°2: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,A1,0,0
+6,Línea H,False,604,Corrientes,0,Ascensor N°2: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,A1,0,0
 6,Línea H,False,604,Corrientes,2,Ascensor N°4: Andén a Facultad – Entrepiso combinación L/B sentido Alem,2025-04-17T19:02:49-03:00,,False,A2,0,0
-6,Línea H,False,604,Corrientes,2,Ascensor N°3: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,A3,0,0
+6,Línea H,False,604,Corrientes,2,Ascensor N°3: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,A3,0,0
 6,Línea H,False,604,Corrientes,1,Ascensor N°5:Andén a Hospitales – Entrepiso combinación L/B sentido Alem,2025-04-17T19:02:49-03:00,,False,A4,0,0
 6,Línea H,False,604,Corrientes,0,Ascensor N° 1: Hall Boletería – Av. Pueyrredón 562,2025-04-17T19:02:49-03:00,,True,A5,0,0
 6,Línea H,False,604,Corrientes,1,Ascensor N°6: Hall  - Combinación con Línea B sentido a J.M. de Rosas,2025-04-17T19:02:49-03:00,,False,A6,0,0
 6,Línea H,False,604,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,2025-04-17T19:02:49-03:00,,False,C3,0,0
 6,Línea H,False,604,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,2025-04-17T19:02:49-03:00,,False,C4,0,0
-6,Línea H,False,604,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,604,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,2025-04-18T04:05:22-03:00,,True,E10,0,1
+6,Línea H,False,604,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,604,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,2025-04-18T04:35:04-03:00,,True,E10,0,1
 6,Línea H,False,604,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,2025-04-17T19:02:49-03:00,,True,E2,0,1
-6,Línea H,False,604,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,604,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,2025-04-18T04:05:22-03:00,,True,E4,1,1
+6,Línea H,False,604,Corrientes,1,Escalera N°3: Hall Boletería - Vestíbulo Línea B,2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,604,Corrientes,1,Escalera N°4: Vestíbulo de L/B -  Hall boletería,2025-04-18T04:35:04-03:00,,True,E4,1,1
 6,Línea H,False,604,Corrientes,1,Escalera N°5: Vestíbulo - Entrepiso,2025-04-17T19:02:49-03:00,,True,E5,1,1
-6,Línea H,False,604,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E6,0,1
-6,Línea H,False,604,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,2025-04-18T04:05:22-03:00,,True,E7,0,1
-6,Línea H,False,604,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,2025-04-18T04:05:22-03:00,,True,E8,0,1
+6,Línea H,False,604,Corrientes,1,Escalera N°6: Entrepiso - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E6,0,1
+6,Línea H,False,604,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,2025-04-18T04:35:04-03:00,,True,E7,0,1
+6,Línea H,False,604,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,2025-04-18T04:35:04-03:00,,True,E8,0,1
 6,Línea H,False,604,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,2025-04-17T19:02:49-03:00,,True,E9,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,2025-04-17T19:02:49-03:00,,False,A1,0,0
-6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,2025-04-17T19:02:49-03:00,,True,A3,0,0
-6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,2025-04-18T04:05:22-03:00,,True,E10,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E2,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,2025-04-18T04:35:04-03:00,,True,E10,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E2,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,2025-04-17T19:02:49-03:00,,True,E3,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,2025-04-18T04:05:22-03:00,,True,E4,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E5,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,2025-04-18T04:05:22-03:00,,True,E6,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°1: Andén sentido Hospitales - Entrepiso,2025-04-18T04:05:22-03:00,,True,E7,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,2025-04-18T04:05:22-03:00,,True,E8,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,2025-04-18T04:35:04-03:00,,True,E4,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E5,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,2025-04-18T04:35:04-03:00,,True,E6,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°1: Andén sentido Hospitales - Entrepiso,2025-04-18T04:35:04-03:00,,True,E7,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,2025-04-18T04:35:04-03:00,,True,E8,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,2025-04-17T19:02:49-03:00,,False,E9,1,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Salvaescalera P2  Tren Sarmiento - Hall Boletería,2025-04-17T19:02:49-03:00,,True,P 2,0,2
 6,Línea H,False,605,Once – 30 de Diciembre,1,Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento,2025-04-17T19:02:49-03:00,,True,S3,0,2
 6,Línea H,False,606,Venezuela,0,Ascensor N°1:  Vestíbulo - Av. Jujuy 451,2025-04-17T19:02:49-03:00,,True,A1,0,0
-6,Línea H,False,606,Venezuela,2,Ascensor N°2: Andén Sentido Facultad - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
+6,Línea H,False,606,Venezuela,2,Ascensor N°2: Andén Sentido Facultad - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
 6,Línea H,False,606,Venezuela,1,Ascensor N°3: Andén Sentido Hospitales - Vestíbulo,2025-04-17T19:02:49-03:00,,True,A3,0,0
 6,Línea H,False,606,Venezuela,2,Escalera N°1: Vestíbulo - Av. Jujuy 425,2025-04-17T19:02:49-03:00,,True,E1,0,1
 6,Línea H,False,606,Venezuela,1,Escalera N°2: Vestíbulo - Jujuy 420. Cerrada por renovación de medio de elevación.,2025-04-17T19:02:49-03:00,,False,E2,0,1
-6,Línea H,False,606,Venezuela,0,Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina,2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,606,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,2025-04-18T04:05:22-03:00,,True,E4,0,1
+6,Línea H,False,606,Venezuela,0,Escalera N°3 :  Andén - Vestíbulo sentido Facultad de Medicina,2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,606,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,2025-04-18T04:35:04-03:00,,True,E4,0,1
 6,Línea H,False,607,Humberto 1°,1,Ascensor N°1 Boletería del lado combinación con Línea E a Av. Jujuy 1194,2025-04-17T19:02:49-03:00,,True,A1,0,0
 6,Línea H,False,607,Humberto 1°,0,Ascensor N°2: Andén sentido Facultad a Boletería del lado combinación con Línea E,2025-04-17T19:02:49-03:00,,True,A2,0,0
 6,Línea H,False,607,Humberto 1°,2,Ascensor N°3: Andén sentido Hospitales a Boletería del lado combinación con Línea E,2025-04-17T19:02:49-03:00,,True,A3,0,0
 6,Línea H,False,607,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,2025-04-17T19:02:49-03:00,,True,A4,0,2
-6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,607,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,2025-04-18T04:05:22-03:00,,True,E2,0,1
-6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,2025-04-18T04:05:22-03:00,,True,E4,0,1
+6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,607,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,2025-04-18T04:35:04-03:00,,True,E2,0,1
+6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,2025-04-18T04:35:04-03:00,,True,E4,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°5: Boletería que da a la calle Humberto 1° a Av. Jujuy 1148,2025-04-17T19:02:49-03:00,,True,E5,0,1
 6,Línea H,False,607,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,2025-04-17T19:02:49-03:00,,True,S1,0,0
 6,Línea H,False,607,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,2025-04-17T19:02:49-03:00,,True,S2,0,0
@@ -401,24 +401,24 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,0,Escalera N°1: Andén sentido Facultad a Boletería del lado Av. Garay,2025-04-17T19:02:49-03:00,,True,E1,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Escalera N°2: Andén sentido Hospitales a Boletería del lado Av. Garay,2025-04-17T19:02:49-03:00,,True,E2,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,2025-04-17T19:02:49-03:00,,True,E3,0,1
-6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600,2025-04-18T04:05:22-03:00,,True,E4,0,1
-6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,2025-04-18T04:05:22-03:00,,True,A1,0,0
+6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600,2025-04-18T04:35:04-03:00,,True,E4,0,1
+6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,2025-04-18T04:35:04-03:00,,True,A1,0,0
 6,Línea H,False,609,Caseros,0,Ascensor N°1:Andén sentido Facultad - Vestíbulo,2025-04-17T19:02:49-03:00,,True,A2,0,0
-6,Línea H,False,609,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A3,0,0
-6,Línea H,False,609,Caseros,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,609,Caseros,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E2,0,1
-6,Línea H,False,609,Caseros,1,Escalera N°4: Vestíbulo - Av. Jujuy 2180,2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,609,Caseros,1,Escalera N°3: Vestíbulo - Av. Jujuy 2110,2025-04-18T04:05:22-03:00,,True,E4,0,1
-6,Línea H,False,610,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),2025-04-18T04:05:22-03:00,,True,A1,0,0
-6,Línea H,False,610,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,2025-04-18T04:05:22-03:00,,True,A2,0,0
+6,Línea H,False,609,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A3,0,0
+6,Línea H,False,609,Caseros,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,609,Caseros,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E2,0,1
+6,Línea H,False,609,Caseros,1,Escalera N°4: Vestíbulo - Av. Jujuy 2180,2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,609,Caseros,1,Escalera N°3: Vestíbulo - Av. Jujuy 2110,2025-04-18T04:35:04-03:00,,True,E4,0,1
+6,Línea H,False,610,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),2025-04-18T04:35:04-03:00,,True,A1,0,0
+6,Línea H,False,610,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,2025-04-18T04:35:04-03:00,,True,A2,0,0
 6,Línea H,False,610,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,2025-04-17T19:02:49-03:00,,True,A3,0,0
-6,Línea H,False,610,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,2025-04-18T04:05:22-03:00,,True,E2,1,1
-6,Línea H,False,610,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E3,0,1
-6,Línea H,False,610,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,2025-04-18T04:05:22-03:00,,True,E4,0,1
-6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2025-04-18T04:05:22-03:00,,True,A1,0,0
-6,Línea H,False,611,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,2025-04-18T04:05:22-03:00,,True,A2,0,0
+6,Línea H,False,610,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,2025-04-18T04:35:04-03:00,,True,E2,1,1
+6,Línea H,False,610,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E3,0,1
+6,Línea H,False,610,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,2025-04-18T04:35:04-03:00,,True,E4,0,1
+6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,2025-04-18T04:35:04-03:00,,True,A1,0,0
+6,Línea H,False,611,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,2025-04-18T04:35:04-03:00,,True,A2,0,0
 6,Línea H,False,611,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),2025-04-17T19:02:49-03:00,,True,A3,0,0
-6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,2025-04-18T04:05:22-03:00,,True,E1,0,1
-6,Línea H,False,611,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,2025-04-18T04:05:22-03:00,,True,E2,0,1
-6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,2025-04-18T04:05:22-03:00,,True,E3,0,1
+6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,2025-04-18T04:35:04-03:00,,True,E1,0,1
+6,Línea H,False,611,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,2025-04-18T04:35:04-03:00,,True,E2,0,1
+6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,2025-04-18T04:35:04-03:00,,True,E3,0,1
