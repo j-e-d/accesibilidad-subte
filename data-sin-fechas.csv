@@ -100,7 +100,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,213,Tronador Villa Ortúzar,1,Ascensor N°2:  Andén central - vestíbulo,True,A2,0,0
 2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°1: Andén central - Av.Triunvirato  3101,True,E1,0,1
 2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°2: Andén Central - Av.Triunvirato 3174,True,E2,1,1
-2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,True,E3,0,1
+2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°3: Andén central - Vestíbulo,False,E3,0,1
 2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°4: Andén central - Vestíbulo,True,E4,1,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,True,A1,0,0
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,True,A2,0,0
@@ -277,13 +277,13 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,503,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,True,E1,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,True,E2,1,1
 5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,True,E3,0,1
-5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,True,E4,1,1
+5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,False,E4,1,1
 5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,EExt,0,1
 5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E5,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,E6,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,True,E10,1,1
-5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,True,E9,0,1
+5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,False,E9,0,1
 5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,True,EExt,0,1
 5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,E11,0,1
 5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,True,E12,0,1
