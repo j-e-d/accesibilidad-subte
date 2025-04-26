@@ -2,7 +2,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,True,A1,0,0
 1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),False,AN,0,0
 1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),True,AS,0,0
-1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,False,E1,0,1
+1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,True,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E2,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E1,0,1
@@ -207,7 +207,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E23,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,True,E24,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,True,E25,0,1
-4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),False,E26,0,1
+4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E26,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E27,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E28,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E29,0,1
