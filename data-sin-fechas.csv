@@ -156,7 +156,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,304,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,False,E9,0,1
 3,Línea C,False,304,Avenida de Mayo,1,Escalera N°1 (ext.): Vestíbulo -  Bernardo de Irigoyen 22,False,EExt,0,1
 3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,False,E7,0,1
-3,Línea C,False,305,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,False,E8,0,1
+3,Línea C,False,305,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,True,E8,0,1
 3,Línea C,False,306,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,True,E5,0,1
 3,Línea C,False,306,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,True,E6,0,1
 3,Línea C,False,307,San Juan,2,Escalera N°3: Andén sentido Constitución - Vestíbulo,True,E3,0,1
@@ -284,7 +284,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,False,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,True,E10,1,1
 5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,True,E9,0,1
-5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,False,EExt,0,1
+5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,True,EExt,0,1
 5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,E11,0,1
 5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,True,E12,0,1
 5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,False,E13,0,1
