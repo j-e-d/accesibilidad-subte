@@ -5,7 +5,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,False,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E2,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E1,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E1,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,False,EN,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,ES,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,AN,0,0
@@ -19,7 +19,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,False,EQE,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O: Andén a San Pedrito - Pasillo y Galería Comercial,True,EQO,0,1
 1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,True,AN,0,0
-1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,False,E1,0,1
+1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,E1,0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,AS,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,True,E1,0,1
 1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte) :Andén sentido Plaza de Mayo - Av.Rivadavia 4963,True,A1,0,0
@@ -135,7 +135,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,True,E9,0,1
 3,Línea C,False,300,Retiro,1,Ascensor N°1: Vestíbulo - Línea Mitre,True,A1,0,0
 3,Línea C,False,300,Retiro,1,Escalera N°18: Vestíbulo - Línea Mitre,True,E18,0,1
-3,Línea C,False,300,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,True,E19,1,1
+3,Línea C,False,300,Retiro,1,Escalera N°19: Línea Mitre - vestíbulo,False,E19,1,1
 3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,True,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,True,E16,0,1
 3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,True,E17,0,1
@@ -266,7 +266,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,502,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),False,A3,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°1: Andén - vestíbulo sur,False,A4,0,0
 5,Línea E,False,502,Correo Central,1,Escalera N°1: Salida 6 (Entrepiso)  - Av. L. N. Alem 316,True,E1,0,1
-5,Línea E,False,502,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,True,E2,0,1
+5,Línea E,False,502,Correo Central,1,Escalera 2: Vestíbulo a salida 11  - Frente del CCK,False,E2,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°3: Vestibulo - Entrepiso salida 6,True,E3,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E4,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E5,1,1
@@ -351,7 +351,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,0,Ascensor N° 1: Hall Boletería – Av. Pueyrredón 562,True,A5,0,0
 6,Línea H,False,604,Corrientes,1,Ascensor N°6: Hall  - Combinación con Línea B sentido a J.M. de Rosas,False,A6,0,0
 6,Línea H,False,604,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,True,C3,0,0
-6,Línea H,False,604,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,True,C4,0,0
+6,Línea H,False,604,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,False,C4,0,0
 6,Línea H,False,604,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,True,E1,0,1
 6,Línea H,False,604,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,True,E10,0,1
 6,Línea H,False,604,Corrientes,1,Escalera N°2: Vestíbulo - Av. Pueyrredón 576,True,E2,0,1
