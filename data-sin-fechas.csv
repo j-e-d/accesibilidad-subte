@@ -237,7 +237,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E42,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,True,E43,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,True,E44,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,False,E45,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,True,E45,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,True,E46,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,True,E47,0,1
 5,Línea E,False,500,Retiro,1,Ascensor N°1: Andén Central - Vestíbulo -  combinación con Línea C,True,A1,0,0
