@@ -187,7 +187,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,False,EExt,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,True,E10,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E9,0,1
-4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EExt,0,1
+4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,False,EExt,0,1
 4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E11,0,1
 4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E12,0,1
 4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EExt,0,1
