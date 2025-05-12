@@ -5,7 +5,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,True,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E2,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E1,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E1,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,EN,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,False,ES,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,AN,0,0
@@ -189,7 +189,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E9,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EExt,0,1
 4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E11,0,1
-4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,False,E12,0,1
+4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E12,0,1
 4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EExt,0,1
 4,Línea D,False,407,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,True,EExt,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°13:  Andén central - vestíbulo este,False,E13,0,1
