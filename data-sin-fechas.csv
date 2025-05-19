@@ -259,8 +259,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,501,Catalinas,1,Escalera N°2: Vestíbulo - Entrepiso Salida 1,False,E2,0,1
 5,Línea E,False,501,Catalinas,1,Escalera N°3 : Andén Central- Vestíbulo,True,E3,0,1
 5,Línea E,False,501,Catalinas,1,Escalera N°4: Entrepiso -  Salida 1 (Av. Leandro N. Alem 900),False,E4,0,1
-5,Línea E,False,501,Catalinas,1,Escalera N°5: Andén Central - Vestíbulo,False,E5,0,1
-5,Línea E,False,501,Catalinas,1,Escalera N°6: Vestíbulo - Andén Central,True,E6,1,1
+5,Línea E,False,501,Catalinas,1,Escalera N°5: Andén Central - Vestíbulo,True,E5,0,1
+5,Línea E,False,501,Catalinas,1,Escalera N°6: Vestíbulo - Andén Central,False,E6,1,1
 5,Línea E,False,502,Correo Central,1,Ascensor N°4: Andén Central/ Andén Central Línea B,True,A1,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°2: Vestíbulo norte - hall boletería norte,False,A2,0,0
 5,Línea E,False,502,Correo Central,1,Ascensor N°3: Pasillo - Alem 339 (Frente al CCK),False,A3,0,0
@@ -271,18 +271,18 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,502,Correo Central,1,Escalera N°5: Andén -  Vestíbulo,True,E4,0,1
 5,Línea E,False,502,Correo Central,1,Escalera N°4: Vestíbulo - Andén,True,E5,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°6: Andén  - Vestíbulo,False,E6,0,1
-5,Línea E,False,502,Correo Central,1,Escalera N°7: Vestíbulo - Andén,False,E7,1,1
-5,Línea E,False,502,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,False,E8,1,1
+5,Línea E,False,502,Correo Central,1,Escalera N°7: Vestíbulo - Andén,True,E7,1,1
+5,Línea E,False,502,Correo Central,1,Escalera N°8: Hall boletería (salida 7 y 9) - Vestíbulo,True,E8,1,1
 5,Línea E,False,502,Correo Central,1,Escalera N°9: Vestíbulo - Hall boletería (salida 2),False,E9,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°1: Andén Central - Vestíbulo este,True,E1,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°2: Vestíbulo este - Andén Central,True,E2,1,1
 5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,True,E3,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,True,E4,1,1
-5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),False,EExt,0,1
-5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E5,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,False,E6,0,1
+5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),True,EExt,0,1
+5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,False,E5,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,E6,0,1
 5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
-5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,True,E10,1,1
+5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,False,E10,1,1
 5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,False,E9,0,1
 5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,True,EExt,0,1
 5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,E11,0,1
