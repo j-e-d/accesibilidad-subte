@@ -202,9 +202,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,True,EExt,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,False,E19,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°20: Entrepiso de salida noroeste - vestíbulo,False,E20,0,1
-4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,False,E21,0,1
+4,Línea D,False,410,Ministro Carranza,0,Escalera N°21: Vestíbulo - Andén sentido Catedral,True,E21,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°22: Vestíbulo - Andén sentido Congreso de Tucumán,False,E22,0,1
-4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,False,E23,0,1
+4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E23,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,False,E24,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,False,E25,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),False,E26,0,1
@@ -293,7 +293,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,E16,0,1
 5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,False,E17,0,1
 5,Línea E,False,509,Jujuy,2,Escalera N°18: Andén sentido Virreyes - Boletería,False,E18,0,1
-5,Línea E,False,510,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,False,E19,0,1
+5,Línea E,False,510,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,True,E19,0,1
 5,Línea E,False,510,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,True,E20,0,1
 5,Línea E,False,511,Boedo,1,Escalera N°21: Andén Central - Boletería,True,E21,0,1
 5,Línea E,False,512,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,True,E22,0,1
