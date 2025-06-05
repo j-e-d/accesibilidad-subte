@@ -213,8 +213,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E29,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,True,E30,0,1
 4,Línea D,False,411,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,True,S31,0,2
-4,Línea D,False,411,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,False,S32,0,2
-4,Línea D,False,411,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,False,S33,0,2
+4,Línea D,False,411,Olleros,0,Salvaescalera N°2:  Andén sentido Catedral - Vestíbulo,True,S32,0,2
+4,Línea D,False,411,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,True,S33,0,2
 4,Línea D,False,412,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,True,E31,0,1
 4,Línea D,False,412,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán .Cerrada por renovación de medio de elevación.,False,E32,0,1
 4,Línea D,False,412,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,True,E33,0,1
@@ -319,7 +319,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,True,E4,1,1
 6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
 6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),True,E6,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,True,A1,0,0
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,False,A1,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A4,0,0
@@ -334,7 +334,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,True,E6,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,True,E7,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,True,E8,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,False,E9,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,True,E9,0,1
 6,Línea H,False,603,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,True,A1,0,0
 6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,True,A2,0,0
 6,Línea H,False,603,Córdoba,1,Ascensor N°3: Vestíbulo - Av. Pueyrredón 980,True,A3,0,0
@@ -387,7 +387,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,607,Humberto 1°,1,Ascensor N°1 Boletería del lado combinación con Línea E a Av. Jujuy 1194,True,A1,0,0
 6,Línea H,False,607,Humberto 1°,0,Ascensor N°2: Andén sentido Facultad a Boletería del lado combinación con Línea E,True,A2,0,0
 6,Línea H,False,607,Humberto 1°,2,Ascensor N°3: Andén sentido Hospitales a Boletería del lado combinación con Línea E,True,A3,0,0
-6,Línea H,False,607,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,True,A4,0,2
+6,Línea H,False,607,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,False,A4,0,2
 6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,True,E1,0,1
 6,Línea H,False,607,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,True,E2,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,True,E3,0,1
@@ -402,7 +402,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Escalera N°2: Andén sentido Hospitales a Boletería del lado Av. Garay,True,E2,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,True,E3,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600,True,E4,0,1
-6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,False,A1,0,0
+6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,True,A1,0,0
 6,Línea H,False,609,Caseros,0,Ascensor N°1:Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,609,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,609,Caseros,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
@@ -413,7 +413,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,610,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,610,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,610,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,True,E1,0,1
-6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,False,E2,1,1
+6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,True,E2,1,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,True,E3,0,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,True,E4,0,1
 6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
