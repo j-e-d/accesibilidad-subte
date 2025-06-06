@@ -105,7 +105,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,True,A1,0,0
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,True,A2,0,0
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,True,E1,0,1
-2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,True,E2,0,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,False,E2,0,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,True,E3,0,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,True,E4,1,1
 2,Línea B,False,215,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,True,A1,0,0
@@ -189,8 +189,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Cerrada por renovación de medio de elevación.,False,E9,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,True,EExt,0,1
 4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,True,E11,0,1
-4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,True,E12,0,1
-4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,True,EExt,0,1
+4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,False,E12,0,1
+4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,False,EExt,0,1
 4,Línea D,False,407,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,False,EExt,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°13: Cerrada por obras de renovación en la estación.,False,E13,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°14:Cerrada por obras de renovación en la estación.,False,E14,0,1
@@ -209,7 +209,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,False,E25,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),False,E26,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,False,E27,0,1
-4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,False,E28,0,1
+4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E28,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E29,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,False,E30,0,1
 4,Línea D,False,411,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,True,S31,0,2
@@ -300,7 +300,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,False,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,False,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,False,E2,0,1
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
@@ -395,7 +395,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,607,Humberto 1°,1,Escalera N°5: Boletería que da a la calle Humberto 1° a Av. Jujuy 1148,True,E5,0,1
 6,Línea H,False,607,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
 6,Línea H,False,607,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,True,S2,0,0
-6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Ascensor N°1: Boletería esquina Garay con salida a Av. Jujuy 1633,False,A1,0,0
+6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Ascensor N°1: Boletería esquina Garay con salida a Av. Jujuy 1633,True,A1,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,0,Ascensor N°2: Andén sentido Facultad a Boletería calle Inclán,True,A2,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Ascensor N°3: Andén sentido Hospitales a Boletería calle Inclán,True,A3,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,0,Escalera N°1: Andén sentido Facultad a Boletería del lado Av. Garay,True,E1,0,1
@@ -412,8 +412,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,610,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),False,A1,0,0
 6,Línea H,False,610,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,610,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,True,A3,0,0
-6,Línea H,False,610,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,True,E1,0,1
-6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,True,E2,1,1
+6,Línea H,False,610,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,False,E1,0,1
+6,Línea H,False,610,Parque Patricios,1,Escalera N°2: Plaza Parque de los Patricios - vestíbulo,False,E2,1,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,True,E3,0,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,True,E4,0,1
 6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
