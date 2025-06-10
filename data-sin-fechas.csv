@@ -1,10 +1,10 @@
 idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcion,funcionando,nombre,sentido,tipo
-1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,True,A1,0,0
+1,Línea A,False,0,Plaza de Mayo,1,Ascensor N°1: Andén central - Hipólito Yrigoyen  299,False,A1,0,0
 1,Línea A,False,1,Perú,0,Ascensor N°1 (Norte): Andén - Av. de Mayo 599 (y Perú),True,AN,0,0
 1,Línea A,False,1,Perú,2,Ascensor N°2 (Sur): Andén - Av. de Mayo 600 (y Perú),True,AS,0,0
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
-1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,True,E2,1,1
-1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,False,E2,0,1
+1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,False,E2,1,1
+1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E2,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E1,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,EN,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,ES,0,1
@@ -92,7 +92,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,208,Medrano Almagro,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 3980,False,EExt,0,1
 2,Línea B,False,209,Ángel Gallardo,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 4668,True,EExt,0,1
 2,Línea B,False,210,Malabia O. Pugliese,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 5288,True,EExt,0,1
-2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),True,EExt,0,1
+2,Línea B,False,211,Dorrego,2,Escalera N°1: Andén sentido J. M. de Rosas - Av. Corrientes 6192 (hacia Tren San Martín),False,EExt,0,1
 2,Línea B,False,212,Federico Lacroze,0,Escalera N°3: Hall Línea Urquiza - Andén Línea B sentido Alem,True,EHall,1,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°2: Andén sentido Rosas - Av. Corrientes/Plazoleta sureste,False,ESE,0,1
 2,Línea B,False,212,Federico Lacroze,2,Escalera N°1: Andén sentido Rosas - Av. Guzmán/Estación Línea Urquiza,True,ESO,0,1
@@ -182,7 +182,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,403,Callao,1,Escalera N°1: Vestíbulo norte - Av. Córdoba 1811,False,EExt,0,1
 4,Línea D,False,404,Facultad de Medicina,0,Ascensor N°1: Andén sentido Catedral - Av. Córdoba 2161,True,A1,0,0
 4,Línea D,False,404,Facultad de Medicina,2,Ascensor N°2:  Andén sentido C. de Tucumán - Av. Córdoba 2160,True,A2,0,0
-4,Línea D,False,404,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,True,E7,0,1
+4,Línea D,False,404,Facultad de Medicina,0,Escalera N°7: Andén sentido Catedral - Vestíbulo,False,E7,0,1
 4,Línea D,False,404,Facultad de Medicina,2,Escalera N°8: Andén sentido C. de Tucumán - Vestíbulo,True,E8,0,1
 4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,True,EExt,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,True,E10,0,1
@@ -207,7 +207,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,410,Ministro Carranza,0,Escalera N°23: Andén sentido Catedral - vestíbulo,True,E23,0,1
 4,Línea D,False,410,Ministro Carranza,2,Escalera N°24: Andén sentido Congreso de Tucumán - Vestíbulo,True,E24,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,True,E25,0,1
-4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E26,0,1
+4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),False,E26,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E27,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E28,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E29,0,1
@@ -230,8 +230,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,413,Juramento,0,Escalera N°37:  Andén sentido Catedral - Boletería,True,E37,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,True,E38,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,True,E39,0,1
-4,Línea D,False,413,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E40,1,1
-4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E41,1,1
+4,Línea D,False,413,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,False,E40,1,1
+4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,False,E41,1,1
 4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,A1,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,True,A2,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E42,0,1
@@ -288,7 +288,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,E11,0,1
 5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,True,E12,0,1
 5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,True,E13,0,1
-5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,True,E14,0,1
+5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,False,E14,0,1
 5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,E15,0,1
 5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,E16,0,1
 5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,True,E17,0,1
