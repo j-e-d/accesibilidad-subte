@@ -5,7 +5,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,1,Perú,0,Escalera N°1: Andén - Av. de Mayo 593,True,E1,0,1
 1,Línea A,False,1,Perú,2,Escalera N°2: Av.de Mayo 556 a Hall boletería,True,E2,1,1
 1,Línea A,False,2,Piedras,0,Escalera N°2: Andén - Av. de Mayo 839,True,E2,0,1
-1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,False,E1,0,1
+1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E1,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,EN,0,1
 1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,False,ES,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,AN,0,0
@@ -391,7 +391,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,True,E1,0,1
 6,Línea H,False,607,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,True,E2,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,True,E3,0,1
-6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,True,E4,0,1
+6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,False,E4,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°5: Boletería que da a la calle Humberto 1° a Av. Jujuy 1148,True,E5,0,1
 6,Línea H,False,607,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
 6,Línea H,False,607,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,True,S2,0,0
