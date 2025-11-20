@@ -13,7 +13,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2025-11-20T05:08:44-03:00,,False,E3,0,1
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2025-11-20T05:08:44-03:00,,False,ES,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2025-11-20T05:08:44-03:00,,True,E6,0,1
-1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2025-11-20T05:08:44-03:00,,True,E7,1,1
+1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2025-11-20T07:07:36-03:00,,True,E7,1,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,2025-11-20T05:08:44-03:00,,True,E8,1,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,2025-11-20T05:08:44-03:00,,True,E9,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2025-11-20T05:08:44-03:00,,True,EQE,0,1
@@ -197,7 +197,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,408,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2025-11-19T18:15:51-03:00,,False,E15,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2025-11-19T18:15:51-03:00,,False,E16,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera Ext : Cerrada por obras de renovación en la estación.,2025-11-19T18:15:51-03:00,,False,EExt,0,1
-4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2025-11-19T18:15:51-03:00,,True,E17,0,1
+4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2025-11-20T07:05:44-03:00,,False,E17,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2025-11-19T18:15:51-03:00,,True,E18,0,1
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2025-11-19T18:15:51-03:00,,True,EExt,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°19: Vestíbulo - Entrepiso de salida noroeste,2025-11-19T18:15:51-03:00,,True,E19,0,1
