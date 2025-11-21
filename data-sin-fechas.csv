@@ -78,7 +78,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,False,EExt,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Vestíbulo - Andén sentido Alem,False,E10,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Vestíbulo - Andén sentido Rosas,False,E11,1,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,False,E12,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°12: Andén sentido Rosas - Vestíbulo,True,E12,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Andén sentido Alem  -  Vestíbulo,True,E9,0,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°5: Vestíbulo - Andén,True,E5,1,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Andén - Vestíbulo,True,E6,0,1
@@ -127,7 +127,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11:  Andén Central - Entrepiso,True,E11,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Vestíbulo - Roosevelt 5170,True,E2,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Vestíbulo - Roosevelt 5110,False,E3,0,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,False,E4,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Entrepiso - Vestíbulo,True,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Vestíbulo - Entrepiso,True,E5,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,True,E7,0,1
@@ -279,9 +279,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,503,Bolívar,1,Escalera N°3: Andén Central - Vestíbulo oeste,False,E3,0,1
 5,Línea E,False,503,Bolívar,1,Escalera N°4: Vestíbulo oeste - andén central,False,E4,1,1
 5,Línea E,False,503,Bolívar,1,Escalera Ext: Vestíbulo este - Julio A. Roca 508 (y Bolívar),False,EExt,0,1
-5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,False,E5,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,False,E6,0,1
-5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,False,E8,0,1
+5,Línea E,False,504,Belgrano,0,Escalera N°5: Andén sentido Retiro - Boletería,True,E5,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°6: Andén sentido Virreyes - Boletería,True,E6,0,1
+5,Línea E,False,504,Belgrano,2,Escalera N°8: Andén sentido Virreyes - Boletería,True,E8,0,1
 5,Línea E,False,505,Independencia,1,Escalera N°9: Vestíbulo - Andén Central,True,E10,1,1
 5,Línea E,False,505,Independencia,1,Escalera N°10: Andén Central - Vestíbulo,True,E9,0,1
 5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,False,EExt,0,1
