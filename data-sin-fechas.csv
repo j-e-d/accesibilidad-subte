@@ -59,7 +59,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,EInt,0,1
 2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E19,1,1
 2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E20,0,1
-2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,False,E21,0,1
+2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E21,0,1
 2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E22,1,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
@@ -298,8 +298,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,511,Boedo,1,Escalera N°21: Andén Central - Boletería,False,E21,0,1
 5,Línea E,False,512,Av. La Plata,1,Escalera N°22: Andén Central - Boletería,True,E22,0,1
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
-5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,False,E24,0,1
-5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,False,E25,0,1
+5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
+5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
 5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°2: Andén sentido Retiro - Boletería,False,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°1: Andén sentido Virreyes - Boletería,False,E2,0,1
@@ -326,7 +326,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,True,A5,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,True,A7,0,0
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,False,E1,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,True,E2,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,False,E3,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°4: Andén sentido Hospitales -  Vestíbulo,True,E4,0,1
@@ -421,4 +421,4 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,611,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
 6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,False,E1,0,1
 6,Línea H,False,611,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,False,E2,0,1
-6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,False,E3,0,1
+6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,True,E3,0,1
