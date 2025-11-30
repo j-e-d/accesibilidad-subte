@@ -60,7 +60,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,201,Florida,1,Escalera N°20: Andén Central  - Vestíbulo,True,E19,1,1
 2,Línea B,False,201,Florida,1,Escalera EN°19:  Vestíbulo - Andén Central,True,E20,0,1
 2,Línea B,False,201,Florida,1,Escalera N°22: Vestíbulo - Andén Central,True,E21,0,1
-2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,False,E22,1,1
+2,Línea B,False,201,Florida,1,Escalera N°21: Andén Central  - Vestíbulo,True,E22,1,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo,True,E17,0,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo,True,E18,0,1
 2,Línea B,False,203,Uruguay,1,Ascensor N°1: Cerrado por obras de renovación en la estación.,False,A1,0,0
@@ -421,4 +421,4 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,611,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
 6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,False,E1,0,1
 6,Línea H,False,611,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,True,E2,0,1
-6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,False,E3,0,1
+6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,True,E3,0,1
