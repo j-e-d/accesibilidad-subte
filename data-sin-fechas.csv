@@ -209,7 +209,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°25: Vestíbulo - Entrepiso de salida sur,True,E25,0,1
 4,Línea D,False,410,Ministro Carranza,1,Escalera N°26: Pasillo noreste - Entrepiso noreste (Boletería),True,E26,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°27: Vestíbulo - Andén sentido Catedral,True,E27,0,1
-4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,False,E28,0,1
+4,Línea D,False,411,Olleros,2,Escalera N°28: Vestíbulo -  Andén sentido Congreso de Tucumán,True,E28,0,1
 4,Línea D,False,411,Olleros,0,Escalera N°29: Andén sentido Catedral - Vestíbulo,True,E29,0,1
 4,Línea D,False,411,Olleros,2,Escalera N°30: Andén sentido Congreso de Tucumán - Vestíbulo,True,E30,0,1
 4,Línea D,False,411,Olleros,1,Salvaescalera N°1: Vestíbulo -  Av. Cabildo 700,False,S31,0,2
@@ -362,8 +362,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,True,E7,0,1
 6,Línea H,False,604,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,True,E8,0,1
 6,Línea H,False,604,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,True,E9,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,False,A1,0,0
-6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,False,A2,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,True,A1,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,True,A3,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,True,E1,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E10,0,1
@@ -386,22 +386,22 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,606,Venezuela,1,Escalera N°4: Andén - Vestíbulo sentido Hospitales,True,E4,0,1
 6,Línea H,False,607,Humberto 1°,1,Ascensor N°1 Boletería del lado combinación con Línea E a Av. Jujuy 1194,True,A1,0,0
 6,Línea H,False,607,Humberto 1°,0,Ascensor N°2: Andén sentido Facultad a Boletería del lado combinación con Línea E,True,A2,0,0
-6,Línea H,False,607,Humberto 1°,2,Ascensor N°3: Andén sentido Hospitales a Boletería del lado combinación con Línea E,True,A3,0,0
+6,Línea H,False,607,Humberto 1°,2,Ascensor N°3: Andén sentido Hospitales a Boletería del lado combinación con Línea E,False,A3,0,0
 6,Línea H,False,607,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,True,A4,0,2
 6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,True,E1,0,1
 6,Línea H,False,607,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,True,E2,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,True,E3,0,1
-6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,False,E4,0,1
+6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,True,E4,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°5: Boletería que da a la calle Humberto 1° a Av. Jujuy 1148,True,E5,0,1
 6,Línea H,False,607,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
 6,Línea H,False,607,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,True,S2,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Ascensor N°1: Boletería esquina Garay con salida a Av. Jujuy 1633,True,A1,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,0,Ascensor N°2: Andén sentido Facultad a Boletería calle Inclán,True,A2,0,0
-6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Ascensor N°3: Andén sentido Hospitales a Boletería calle Inclán,False,A3,0,0
+6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Ascensor N°3: Andén sentido Hospitales a Boletería calle Inclán,True,A3,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,0,Escalera N°1: Andén sentido Facultad a Boletería del lado Av. Garay,True,E1,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Escalera N°2: Andén sentido Hospitales a Boletería del lado Av. Garay,True,E2,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,True,E3,0,1
-6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600,True,E4,0,1
+6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600,False,E4,0,1
 6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,True,A1,0,0
 6,Línea H,False,609,Caseros,0,Ascensor N°1:Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,609,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,True,A3,0,0
