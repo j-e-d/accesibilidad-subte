@@ -373,7 +373,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,2026-01-20T13:52:59-03:00,,True,E5,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°10: Hall Boletería - Entrepiso,2026-01-20T13:52:59-03:00,,True,E6,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°1: Andén sentido Hospitales - Entrepiso,2026-01-20T13:52:59-03:00,,True,E7,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,2026-01-20T13:52:59-03:00,,False,E8,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°8: Andén - Entrepiso,2026-01-20T14:57:17-03:00,,True,E8,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°7: Vestíbulo - Entrepiso,2026-01-20T13:52:59-03:00,,True,E9,1,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Salvaescalera P2  Tren Sarmiento - Hall Boletería,2026-01-20T13:52:59-03:00,,True,P 2,0,2
 6,Línea H,False,605,Once – 30 de Diciembre,1,Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento,2026-01-20T13:52:59-03:00,,True,S3,0,2
