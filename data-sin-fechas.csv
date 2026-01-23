@@ -158,7 +158,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,305,Mariano Moreno,2,Escalera N°7: Andén sentido Constitución - Vestíbulo,True,E7,0,1
 3,Línea C,False,305,Mariano Moreno,0,Escalera N°8: Andén sentido Retiro- vestíbulo,True,E8,0,1
 3,Línea C,False,306,Independencia,2,Escalera N°5: Andén sentido Constitución - Vestíbulo,True,E5,0,1
-3,Línea C,False,306,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,True,E6,0,1
+3,Línea C,False,306,Independencia,0,Escalera N°6:  Andén sentido Constitución - Vestíbulo,False,E6,0,1
 3,Línea C,False,307,San Juan,2,Escalera N°3: Andén sentido Constitución - Vestíbulo,True,E3,0,1
 3,Línea C,False,307,San Juan,0,Escalera N°4: Andén sentido Retiro.,True,E4,0,1
 3,Línea C,False,308,Constitución,2,Ascensor N°1: Centro de Trasbordo - Superficie Av. Garay 1150 (sólo salida),False,A1,0,0
@@ -287,7 +287,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,505,Independencia,1,Escalera Ext: Pasillo sur - Lima 899,True,EExt,0,1
 5,Línea E,False,506,San José,0,Escalera N°11: Andén sentido Retiro - Boletería,True,E11,0,1
 5,Línea E,False,506,San José,2,Escalera N°12: Andén sentido Virreyes  - Boletería,True,E12,0,1
-5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,True,E13,0,1
+5,Línea E,False,507,Entre Ríos,0,Escalera N°13: Andén sentido Retiro - Boletería,False,E13,0,1
 5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,True,E14,0,1
 5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,E15,0,1
 5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,E16,0,1
@@ -350,7 +350,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,1,Ascensor N°5:Andén a Hospitales – Entrepiso combinación L/B sentido Alem,True,A4,0,0
 6,Línea H,False,604,Corrientes,0,Ascensor N° 1: Hall Boletería – Av. Pueyrredón 562,True,A5,0,0
 6,Línea H,False,604,Corrientes,1,Ascensor N°6: Hall  - Combinación con Línea B sentido a J.M. de Rosas,True,A6,0,0
-6,Línea H,False,604,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,False,C3,0,0
+6,Línea H,False,604,Corrientes,1,Camino rodante N°3: Hall Boletería - Combinación con Línea B,True,C3,0,0
 6,Línea H,False,604,Corrientes,1,Camino rodante N°4: Línea B - Hall Boletería,True,C4,0,0
 6,Línea H,False,604,Corrientes,1,Escalera N°1: Vestíbulo - Av. Pueyrredón 585,True,E1,0,1
 6,Línea H,False,604,Corrientes,2,Escalera N°10: Andén sentido Hospitales - Entrepiso,True,E10,0,1
