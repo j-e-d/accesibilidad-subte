@@ -14,7 +14,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,False,ES,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,True,E6,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E7,0,1
-1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,True,E8,0,1
+1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,False,E8,0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,True,E9,1,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E 10: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,EQE,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O 11: Andén a San Pedrito - Pasillo y Galería Comercial,True,EQO,0,1
@@ -111,7 +111,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,215,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,True,A1,0,0
 2,Línea B,False,215,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,215,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
-2,Línea B,False,215,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,True,E1,0,1
+2,Línea B,False,215,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,False,E1,0,1
 2,Línea B,False,215,Echeverría,1,Escalera N°2: Entrepiso - vestbulo,True,E2,0,1
 2,Línea B,False,215,Echeverría,1,Escalera N°3: Entrepiso - vestíbulo,True,E3,0,1
 2,Línea B,False,215,Echeverría,2,Escalera N°4: Andén sentido Rosas - Entrepiso,True,E4,0,1
@@ -325,7 +325,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A4,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,True,A5,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°6: Vestíbulo - Av. Pueyrredón 1500,True,A6,0,0
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,True,A7,0,0
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°7:  Pasillo combinación - Andén Línea D,False,A7,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°1: Andén sentido Facultad - Entrepiso,True,E1,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Escalera N°2: Entrepiso - Andén sentido Hospitales,True,E2,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Escalera N°3: Andén sentido Facultad - vestíbulo,False,E3,0,1
@@ -362,11 +362,11 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,0,Escalera N°7: Andén sentido Facultad - Entrepiso,True,E7,0,1
 6,Línea H,False,604,Corrientes,2,Escalera N°8: Andén sentido Hospitales - Entrepiso,True,E8,0,1
 6,Línea H,False,604,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,False,E9,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,False,A1,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,True,A1,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
-6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,False,A3,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,True,A3,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°3: Hall Boletería - Entrepiso,True,E1,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E10,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Entrepiso - Av. Pueyrredón esquina Bmé. Mitre,False,E10,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,True,E2,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°5: Andén sentido Facultad - Entrepiso,True,E3,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°4: Andén sentido Hospitales - Entrepiso,True,E4,0,1
@@ -417,7 +417,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,610,Parque Patricios,1,Escalera N°3: Andén - Vestíbulo,True,E3,0,1
 6,Línea H,False,610,Parque Patricios,1,Escalera N°4: Andén - Vestíbulo,True,E4,0,1
 6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
-6,Línea H,False,611,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,True,A2,0,0
+6,Línea H,False,611,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,False,A2,0,0
 6,Línea H,False,611,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
 6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,True,E1,0,1
 6,Línea H,False,611,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,True,E2,0,1
