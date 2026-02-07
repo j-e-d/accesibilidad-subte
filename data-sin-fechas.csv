@@ -291,7 +291,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,507,Entre Ríos,2,Escalera N°14: Andén sentido Virreyes - Boletería,True,E14,0,1
 5,Línea E,False,508,Pichincha,0,Escalera N°15: Andén sentido Retiro - Boletería,True,E15,0,1
 5,Línea E,False,508,Pichincha,2,Escalera N°16: Andén sentido Virreyes - Boletería,True,E16,0,1
-5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,True,E17,0,1
+5,Línea E,False,509,Jujuy,0,Escalera N°17: Andén sentido Retiro - Boletería,False,E17,0,1
 5,Línea E,False,509,Jujuy,2,Escalera N°18: Andén sentido Virreyes - Boletería,True,E18,0,1
 5,Línea E,False,510,Gral. Urquiza,0,Escalera N°19: Andén sentido a Retiro - Boletería,True,E19,0,1
 5,Línea E,False,510,Gral. Urquiza,2,Escalera N°20: Andén sentido a Virreyes - Boletería,True,E20,0,1
