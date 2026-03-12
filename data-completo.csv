@@ -85,7 +85,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,206,Pueyrredón,2,Escalera N°8:  Andén sentido Rosas - Hall Boletería,2026-03-12T05:22:46-03:00,,True,E7,1,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Andén sentido Alem - Hall Boletería,2026-03-12T05:22:46-03:00,,True,E8,0,1
 2,Línea B,False,206,Pueyrredón,1,Escalera N° 1 Exterior: Vestíbulo - Av. Corrientes 2797,2026-03-12T05:22:46-03:00,,True,EExt,0,1
-2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,2026-03-12T05:22:46-03:00,,True,E1,0,1
+2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Andén sentido Rosas - vestíbulo,2026-03-12T07:53:41-03:00,,True,E1,0,1
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°2: Vestíbulo - Andén sentido Rosas,2026-03-12T05:22:46-03:00,,True,E2,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Vestíbulo - Andén sentido Alem,2026-03-12T05:22:46-03:00,,True,E3,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°4: Andén sentido Alem - Vestíbulo,2026-03-12T05:22:46-03:00,,True,E4,0,1
@@ -133,9 +133,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Entrepiso - Vestíbulo,2026-03-12T05:22:46-03:00,,True,E7,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Entrepiso - Andén Central,2026-03-12T05:22:46-03:00,,True,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Andén Central - Entrepiso,2026-03-12T05:22:46-03:00,,True,E9,0,1
-3,Línea C,False,300,Retiro,1,Ascensor N°1: Cerrado por obras en el FFCC Mitre,2026-03-11T19:50:20-03:00,,False,A1,0,0
-3,Línea C,False,300,Retiro,1,Escalera N°18: Cerrada por obras en el FFCC Mitre,2026-03-11T19:50:20-03:00,,False,E18,0,1
-3,Línea C,False,300,Retiro,1,Escalera N°19: Cerrada por obras en el FFCC Mitre,2026-03-11T19:50:20-03:00,,False,E19,1,1
+3,Línea C,False,300,Retiro,1,Ascensor N°1: De hall FFCC Mitre a hall de boletería,2026-03-11T19:50:20-03:00,,False,A1,0,0
+3,Línea C,False,300,Retiro,1,Escalera N°18: De hall boletería (andén central) a hall de Estación de FFCC,2026-03-11T19:50:20-03:00,,False,E18,0,1
+3,Línea C,False,300,Retiro,1,Escalera N°19: De hall de Estación de FFCC a hall central,2026-03-11T19:50:20-03:00,,False,E19,1,1
 3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,2026-03-11T19:50:20-03:00,,True,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,2026-03-11T19:50:20-03:00,,True,E16,0,1
 3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,2026-03-11T19:50:20-03:00,,True,E17,0,1
