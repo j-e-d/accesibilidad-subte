@@ -18,7 +18,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,6,Plaza Miserere,1,Escalera N°9: Túnel oeste de galería Comercial - estación Once Línea Sarmiento,2026-03-19T06:03:48-03:00,,True,E9,1,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E 10: Andén a Plaza de Mayo – Pasillo y Galería Comercial,2026-03-19T06:03:48-03:00,,False,EQE,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O 11: Andén a San Pedrito - Pasillo y Galería Comercial,2026-03-19T06:03:48-03:00,,True,EQO,0,1
-1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,2026-03-19T06:03:48-03:00,,True,AN,0,0
+1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,2026-03-19T09:54:02-03:00,,False,AN,0,0
 1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,2026-03-19T06:03:48-03:00,,True,E1,0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,2026-03-19T06:03:48-03:00,,True,AS,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,2026-03-19T06:03:48-03:00,,True,E1,0,1
@@ -318,7 +318,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,601,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,2026-03-19T06:23:44-03:00,,True,E3,0,1
 6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,2026-03-19T06:23:44-03:00,,True,E4,1,1
 6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,2026-03-19T06:23:44-03:00,,True,E5,0,1
-6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),2026-03-19T06:23:44-03:00,,True,E6,0,1
+6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),2026-03-19T09:54:53-03:00,,False,E6,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,2026-03-19T06:23:44-03:00,,True,A1,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,2026-03-19T06:23:44-03:00,,True,A2,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,2026-03-19T06:23:44-03:00,,True,A3,0,0
