@@ -187,7 +187,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,404,Facultad de Medicina,1,Escalera N°1 Ext: Vestíbulo - Av. Córdoba y Pte. Uriburu,2026-03-22T12:36:29-03:00,,True,EExt,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°10: Andén central - Vestíbulo,2026-03-22T12:36:29-03:00,,True,E10,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Ascendente de andén central a hall boletería este,2026-03-22T12:36:29-03:00,,True,E9,0,1
-4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2026-03-22T12:36:29-03:00,,True,EExt,0,1
+4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2026-03-22T15:17:37-03:00,,False,EExt,0,1
 4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2026-03-22T12:36:29-03:00,,True,E11,0,1
 4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2026-03-22T12:36:29-03:00,,True,E12,0,1
 4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2026-03-22T12:36:29-03:00,,True,EExt,0,1
