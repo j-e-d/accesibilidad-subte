@@ -189,7 +189,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,405,Pueyrredón,1,Escalera N°9: Ascendente de andén central a hall boletería este,2026-03-24T18:43:32-03:00,,True,E9,0,1
 4,Línea D,False,405,Pueyrredón,1,Escalera N°1 Ext: Túnel de combinación- Av Santa Fe 2516,2026-03-24T18:43:32-03:00,,True,EExt,0,1
 4,Línea D,False,406,Agüero,0,Escalera N°11: Andén sentido Catedral - vestíbulo,2026-03-24T18:43:32-03:00,,True,E11,0,1
-4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2026-03-24T18:43:32-03:00,,True,E12,0,1
+4,Línea D,False,406,Agüero,2,Escalera N°12:  Andén sentido Congreso de T.  - vestíbulo,2026-03-25T07:48:01-03:00,,False,E12,0,1
 4,Línea D,False,406,Agüero,1,Escalera Ext: Vestíbulo - Av. Santa Fe 2915,2026-03-24T18:43:32-03:00,,True,EExt,0,1
 4,Línea D,False,407,Bulnes,1,Escalera N°1: Boletería  - Av. Santa Fe 3256,2026-03-24T18:43:32-03:00,,True,EExt,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°13: Andén central - vestíbulo este,2026-03-24T18:43:32-03:00,,True,E13,0,1
