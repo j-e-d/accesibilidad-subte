@@ -138,7 +138,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,300,Retiro,1,Escalera N°19: De hall de Estación de FFCC a hall central,2026-03-26T14:14:00-03:00,,True,E19,1,1
 3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,2026-03-26T14:14:00-03:00,,True,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,2026-03-26T14:14:00-03:00,,True,E16,0,1
-3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,2026-03-26T14:26:22-03:00,,True,E17,0,1
+3,Línea C,False,301,Gral. San Martín,0,Escalera N°17: Andén sentido Retiro - Vestíbulo,2026-03-26T15:46:01-03:00,,False,E17,0,1
 3,Línea C,False,302,Lavalle,0,Escalera N°14: Andén sentido Retiro - Vestíbulo,2026-03-26T14:14:00-03:00,,True,E14,0,1
 3,Línea C,False,302,Lavalle,2,Escalera N°15: Andén sentido Constitución - Vestíbulo,2026-03-26T14:14:00-03:00,,True,E15,0,1
 3,Línea C,False,302,Lavalle,1,Escalera N°1 Ext: Pasillo de salida - Esmeralda 492,2026-03-26T14:14:00-03:00,,True,EExt,0,1
@@ -150,7 +150,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,303,Diagonal Norte,2,Escalera N°13: Andén - vestíbulo y combinación Línea D (sentido a Congreso de Tucumán),2026-03-26T14:14:00-03:00,,True,E13,0,1
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°20: Vestíbulo - Sarmiento 861,2026-03-26T14:14:00-03:00,,True,E20,0,1
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,2026-03-26T14:14:00-03:00,,True,E21,1,1
-3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2026-03-26T14:14:00-03:00,,True,E22,0,1
+3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,2026-03-26T15:40:50-03:00,,False,E22,0,1
 3,Línea C,False,303,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,2026-03-26T14:14:00-03:00,,True,E23,1,1
 3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2026-03-26T14:14:00-03:00,,True,E10,0,1
 3,Línea C,False,304,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,2026-03-26T14:14:00-03:00,,True,E9,0,1
