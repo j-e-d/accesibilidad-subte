@@ -196,7 +196,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,408,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2026-03-30T05:45:54-03:00,,True,E14,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2026-03-30T05:45:54-03:00,,True,E15,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2026-03-30T05:45:54-03:00,,True,E16,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2026-03-30T15:44:32-03:00,,False,EExt,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2026-03-30T17:11:12-03:00,,True,EExt,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2026-03-30T05:45:54-03:00,,True,E17,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2026-03-30T05:45:54-03:00,,True,E18,0,1
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2026-03-30T05:45:54-03:00,,True,EExt,0,1
