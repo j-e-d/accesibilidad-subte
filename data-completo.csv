@@ -217,7 +217,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,411,Olleros,0,Salvaescalera N°3: Andén sentido Catedral - Vestíbulo,2026-03-31T05:41:08-03:00,,True,S33,0,2
 4,Línea D,False,412,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,2026-03-31T05:41:08-03:00,,True,E31,0,1
 4,Línea D,False,412,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán,2026-03-31T05:41:08-03:00,,True,E32,0,1
-4,Línea D,False,412,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,2026-03-31T07:04:03-03:00,,False,E33,0,1
+4,Línea D,False,412,José Hernández,0,Escalera N°34: Andén sentido Catedral - Boletería,2026-03-31T11:27:32-03:00,,True,E33,0,1
 4,Línea D,False,412,José Hernández,2,Escalera N°33: Andén sentido Congreso de Tucumán - Boletería,2026-03-31T05:41:08-03:00,,True,E34,0,1
 4,Línea D,False,412,José Hernández,1,Escalera N°35: Vestíbulo - Av. Cabildo 1617.,2026-03-31T05:41:08-03:00,,True,E35,0,1
 4,Línea D,False,412,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,2026-03-31T05:41:08-03:00,,False,S36,0,2
