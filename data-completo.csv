@@ -237,7 +237,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,2026-04-05T08:30:06-03:00,,True,E42,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,2026-04-05T08:30:06-03:00,,True,E43,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,2026-04-05T08:30:06-03:00,,True,E44,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,2026-04-05T08:30:06-03:00,,False,E45,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,2026-04-05T10:34:12-03:00,,True,E45,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,2026-04-05T08:30:06-03:00,,True,E46,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,2026-04-05T08:30:06-03:00,,True,E47,0,1
 5,Línea E,False,500,Retiro,1,Ascensor N°1: Andén Central - Vestíbulo -  combinación con Línea C,2026-04-05T08:58:03-03:00,,True,A1,0,0
