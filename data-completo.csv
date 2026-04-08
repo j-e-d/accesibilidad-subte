@@ -333,7 +333,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°5: Vestíbulo - Entrepiso (Salida N° 3),2026-04-08T13:29:50-03:00,,True,E5,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°6: Entrepiso (salida 3) - Av. Santa Fe 2487,2026-04-08T13:29:50-03:00,,True,E6,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°7:  Entrepiso - nivel boletería,2026-04-08T13:29:50-03:00,,True,E7,0,1
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,2026-04-08T13:29:50-03:00,,False,E8,0,1
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°8: Vestíbulo - Av. Pueyrredón 1500,2026-04-08T19:03:38-03:00,,True,E8,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Escalera N°9: Pasillo de combinación - Andén Pueyrredón Línea D,2026-04-08T13:29:50-03:00,,True,E9,0,1
 6,Línea H,False,603,Córdoba,0,Ascensor N°1: Andén sentido Facultad - Entrepiso,2026-04-08T13:29:50-03:00,,True,A1,0,0
 6,Línea H,False,603,Córdoba,2,Ascensor N°2: Andén sentido Hospitales - Entrepiso,2026-04-08T13:29:50-03:00,,True,A2,0,0
@@ -402,14 +402,14 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Escalera N°2: Andén sentido Hospitales a Boletería del lado Av. Garay,2026-04-08T13:29:50-03:00,,True,E2,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,2026-04-08T13:29:50-03:00,,True,E3,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Boletería del lado Av. Garay a Av. Jujuy 1600,2026-04-08T13:29:50-03:00,,True,E4,0,1
-6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,2026-04-08T13:29:50-03:00,,False,A1,0,0
+6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,2026-04-08T19:04:39-03:00,,True,A1,0,0
 6,Línea H,False,609,Caseros,0,Ascensor N°1:Andén sentido Facultad - Vestíbulo,2026-04-08T13:29:50-03:00,,False,A2,0,0
 6,Línea H,False,609,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,2026-04-08T13:29:50-03:00,,True,A3,0,0
 6,Línea H,False,609,Caseros,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,2026-04-08T13:29:50-03:00,,False,E1,0,1
 6,Línea H,False,609,Caseros,2,Escalera N°2: Andén sentido Hospitales - Vestíbulo,2026-04-08T13:29:50-03:00,,False,E2,0,1
 6,Línea H,False,609,Caseros,1,Escalera N°4: Vestíbulo - Av. Jujuy 2180,2026-04-08T13:29:50-03:00,,True,E3,0,1
 6,Línea H,False,609,Caseros,1,Escalera N°3: Vestíbulo - Av. Jujuy 2110,2026-04-08T13:29:50-03:00,,True,E4,0,1
-6,Línea H,False,610,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),2026-04-08T13:29:50-03:00,,True,A1,0,0
+6,Línea H,False,610,Parque Patricios,1,Ascensor N°3: Vestíbulo - Monteagudo 28 (y Av. Caseros),2026-04-08T19:03:38-03:00,,False,A1,0,0
 6,Línea H,False,610,Parque Patricios,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,2026-04-08T13:29:50-03:00,,True,A2,0,0
 6,Línea H,False,610,Parque Patricios,2,Ascensor N°1: Andén sentido Hospitales - Vestíbulo,2026-04-08T13:29:50-03:00,,True,A3,0,0
 6,Línea H,False,610,Parque Patricios,1,Escalera N°1:Vestíbulo -  Plaza Parque de los Patricios,2026-04-08T13:29:50-03:00,,True,E1,0,1
