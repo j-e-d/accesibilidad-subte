@@ -11,7 +11,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,2026-04-11T16:10:22-03:00,,True,AN,0,0
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),2026-04-11T16:10:22-03:00,,True,AS,0,0
 1,Línea A,False,5,Congreso,0,Escalera N°1: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,2026-04-11T16:10:22-03:00,,True,E3,0,1
-1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2026-04-11T16:10:22-03:00,,True,ES,0,1
+1,Línea A,False,5,Congreso,2,Escalera N°2: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,2026-04-11T20:21:30-03:00,,False,ES,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,2026-04-11T16:10:22-03:00,,True,E6,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,2026-04-11T16:10:22-03:00,,True,E7,0,1
 1,Línea A,False,6,Plaza Miserere,1,Escalera N° 8: Estación Once Línea Sarmiento - túnel oeste de galería comercial,2026-04-11T16:10:22-03:00,,True,E8,0,1
@@ -196,7 +196,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,408,Plaza Italia,1,Escalera N°14: Vestíbulo este - andén central,2026-04-11T18:31:59-03:00,,True,E14,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°15: Andén central - vestíbulo oeste,2026-04-11T18:31:59-03:00,,True,E15,0,1
 4,Línea D,False,408,Plaza Italia,1,Escalera N°16: Vestíbulo oeste - andén central,2026-04-11T18:31:59-03:00,,True,E16,0,1
-4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2026-04-11T18:31:59-03:00,,False,EExt,0,1
+4,Línea D,False,408,Plaza Italia,1,Escalera Ext: Vestíbulo este - Av. Santa Fe 4026,2026-04-11T20:19:23-03:00,,True,EExt,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°17:  Vestíbulo - andén central,2026-04-11T18:31:59-03:00,,True,E17,0,1
 4,Línea D,False,409,Palermo,1,Escalera N°18:  Andén central - vestíbulo,2026-04-11T18:31:59-03:00,,True,E18,0,1
 4,Línea D,False,409,Palermo,1,Escalera Ext: Vestíbulo - Av. Santa Fe 4636,2026-04-11T18:31:59-03:00,,True,EExt,0,1
