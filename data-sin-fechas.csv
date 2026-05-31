@@ -129,7 +129,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Ascendente de hall boletería - Monroe 5100,True,E3,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Descendente de entrepiso (Lado Monroe) - Andén central,True,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Ascendente de Andén central - Entrepiso Monroe,True,E5,1,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Ascendente de Hall boletería - Roosvelt 5110,True,E6,1,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Ascendente de Hall boletería - Roosvelt 5110,False,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Descendente de entrepiso Roosvelt - Andén central,True,E7,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11: Ascendente de andén central - Entrepiso Roosvelt,True,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Descendente de Hall boletería - Entrepiso Roosvelt,True,E9,0,1
