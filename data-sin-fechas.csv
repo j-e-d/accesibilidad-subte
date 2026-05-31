@@ -7,10 +7,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,2,Piedras,0,Escalera N°2: Cerrada por obras de renovación en la estación,False,E2,0,1
 1,Línea A,False,3,Lima,0,Escalera N°1: Andén  - Av. de Mayo 1127,True,E1,0,1
 1,Línea A,False,4,Saenz Peña,0,Escalera N°1: Andén sentido Plaza de Mayo -  Av. de Mayo 1423,True,EN,0,1
-1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,True,ES,0,1
+1,Línea A,False,4,Saenz Peña,2,Escalera N°2: Andén sentido San Pedrito -  Av. de Mayo 1470,False,ES,0,1
 1,Línea A,False,5,Congreso,0,Ascensor N°1 (Norte): Andén -  Av. Rivadavia 1841,True,AN,0,0
 1,Línea A,False,5,Congreso,2,Ascensor N°2 (Sur): Andén sentido San Pedrito - Av. Rivadavia 1802 (y Entre Ríos),True,AS,0,0
-1,Línea A,False,5,Congreso,0,Escalera N°3: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,False,E3,0,1
+1,Línea A,False,5,Congreso,0,Escalera N°3: Andén sentido Plaza de Mayo - Av. Rivadavia 1815,True,E3,0,1
 1,Línea A,False,5,Congreso,2,Escalera N°4: Andén sentido San Pedrito - Av.Rivadavia  y Combate de los Pozos,True,ES,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°6:  Sudeste de andén -  pasillo este,False,E6,0,1
 1,Línea A,False,6,Plaza Miserere,2,Escalera N°7: Sudoeste de andén  - pasillo este,True,E7,0,1
@@ -219,7 +219,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,412,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán,True,E32,0,1
 4,Línea D,False,412,José Hernández,0,Escalera N°34: Ascendente de hall boletería a andén sur (Sentido a Rosas),True,E33,0,1
 4,Línea D,False,412,José Hernández,2,Escalera N°33: Ascendente de andén norte (Sentido a Catedral) a hall central boletería (Lado este),True,E34,0,1
-4,Línea D,False,412,José Hernández,1,Escalera N°35:Ascendente de hall central boletería a Cabildo 1617 (Exterior) (Lado noroeste),False,E35,0,1
+4,Línea D,False,412,José Hernández,1,Escalera N°35:Ascendente de hall central boletería a Cabildo 1617 (Exterior) (Lado noroeste),True,E35,0,1
 4,Línea D,False,412,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,False,S36,0,2
 4,Línea D,False,412,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,True,S37,0,2
 4,Línea D,False,412,José Hernández,1,Salvaescalera N°3:  Andén - vestíbulo,True,S38,0,2
@@ -314,7 +314,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,601,Las Heras,1,Ascensor N°3: Entrepiso - Andén sentido Hospitales,True,A3,0,0
 6,Línea H,False,601,Las Heras,1,Ascensor N°4: Entrepiso - Andén sentido Facultad,True,A4,0,0
 6,Línea H,False,601,Las Heras,2,Escalera N°1: Andén sentido Facultad -  Entrepiso,True,E1,0,1
-6,Línea H,False,601,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,True,E2,1,1
+6,Línea H,False,601,Las Heras,2,Escalera N°2: Entrepiso - Andén sentido Facultad,False,E2,1,1
 6,Línea H,False,601,Las Heras,0,Escalera N°3: Andén sentido Hospitales - Entrepiso,True,E3,0,1
 6,Línea H,False,601,Las Heras,0,Escalera N°4: Entrepiso - Andén sentido Hospitales,True,E4,1,1
 6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
