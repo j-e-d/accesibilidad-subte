@@ -37,7 +37,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,11,Puan,1,Escalera N°1(ext): Hall Boletería – Superficie (Av. Rivadavia 5896),True,E1,0,1
 1,Línea A,False,11,Puan,2,Escalera N°2: Andén - vestíbulo,True,E2,0,1
 1,Línea A,False,11,Puan,0,Escalera N°3: Andén - vestíbulo,True,E3,0,1
-1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,False,A1,0,0
+1,Línea A,False,12,Carabobo,1,Ascensor N°1: Vestíbulo - Av. Rivadavia 6365,True,A1,0,0
 1,Línea A,False,12,Carabobo,2,Ascensor N°2: Andén - vestíbulo,True,A2,0,0
 1,Línea A,False,12,Carabobo,0,Ascensor N°3: Andén - vestíbulo,True,A3,0,0
 1,Línea A,False,12,Carabobo,1,Escalera N°1: Vestíbulo  - Av. Rivadavia 6332,True,E1,0,1
@@ -46,8 +46,8 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,13,San José de Flores,1,Ascensor N°1: Vestíbulo - Plaza Flores (Av. Rivadavia 6950),False,A1,0,0
 1,Línea A,False,13,San José de Flores,2,Ascensor N°2: Andén - Vestíbulo,True,A2,0,0
 1,Línea A,False,13,San José de Flores,0,Ascensor N°3: Andén  - Vestíbulo,True,A3,0,0
-1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,False,E1,0,1
-1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,True,E2,0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°1: Vestíbulo  - Plaza General Pueyrredón,True,E1,0,1
+1,Línea A,False,13,San José de Flores,1,Escalera N°2: Vestíbulo - Av. Rivadavia 6928,False,E2,0,1
 1,Línea A,False,13,San José de Flores,2,Escalera N°3: Andén norte (Sentido a Plaza de Mayo) - vestíbulo,True,E3,0,1
 1,Línea A,False,13,San José de Flores,0,Escalera N°4: Andén sur (Sentido a San Pedrito) - vestíbulo,True,E4,0,1
 1,Línea A,False,14,San Pedrito,1,Ascensor N°1: Vestíbulo  -  Av. Rivadavia 7445,True,A1,0,0
@@ -62,7 +62,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,201,Florida,1,Escalera N°21: Ascendente Andén Central  - Vestíbulo,True,E21,0,1
 2,Línea B,False,201,Florida,1,Escalera N°22: Descendente Vestíbulo - Andén Central,True,E22,1,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo lado oeste,True,E17,0,1
-2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo lado este,False,E18,0,1
+2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo lado este,True,E18,0,1
 2,Línea B,False,203,Uruguay,1,Ascensor N°1:  Vestíbulo - Av. Corrientes 1401,False,A1,0,0
 2,Línea B,False,203,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
 2,Línea B,False,203,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
@@ -104,7 +104,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,213,Tronador Villa Ortúzar,1,Escalera N°4: Descendente de Hall boletería - Andén Central,True,E4,1,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 3680,True,A1,0,0
 2,Línea B,False,214,De Los Incas Parque Chas,1,Ascensor N°2: Andén Central - Vestíbulo,True,A2,0,0
-2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,False,E1,0,1
+2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°1: Vestíbulo - Andén Central,True,E1,0,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°2: Andén Central - Vestíbulo,True,E2,0,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°3: Vestíbulo - Av. Combatientes de Malvinas y Av.Triunvirato,True,E3,0,1
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,True,E4,1,1
@@ -128,9 +128,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Descendente de 5170 (Exterior) a hall de boletería Lado Roosvelt,True,E2,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Ascendente de Hall boletería - Roosvelt 5110,True,E3,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Ascendente de Andén central - Entrepiso Monroe,True,E4,0,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Descendente de Hall boletería - Entrepiso Monroe,True,E5,1,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Descendente de Hall boletería - Entrepiso Monroe,False,E5,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Descendente de Hall boletería - Entrepiso Roosvelt,True,E6,1,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Ascendente de entrepiso - Hall boletería Monroe,True,E7,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Ascendente de entrepiso - Hall boletería Monroe,False,E7,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Ascendente de hall boletería - Monroe 5100,True,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11: Ascendente de andén central - Entrepiso Roosvelt,True,E9,0,1
 3,Línea C,False,300,Retiro,1,Ascensor N°1: De hall FFCC Mitre a hall de boletería,True,A1,0,0
@@ -166,7 +166,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,308,Constitución,1,Ascensor N°3: Andén Central - Centro de Trasbordo superficie Av. Garay 1150 (sólo ingreso),True,A3,0,0
 3,Línea C,False,308,Constitución,2,Ascensor N°4: Andén 2 -  Centro de Trasbordo superficie Av. Garay 1150 (sólo salida),True,A4,0,0
 3,Línea C,False,308,Constitución,2,Escalera N°1:  Andén - Hall Centro de Trasbordo,True,E1,0,1
-3,Línea C,False,308,Constitución,2,Escalera N°2: Andén - Hall Centro de Trasbordo,False,E2,0,1
+3,Línea C,False,308,Constitución,2,Escalera N°2: Andén - Hall Centro de Trasbordo,True,E2,0,1
 4,Línea D,False,400,Catedral,2,Ascensor N°1: Andén sur sentido Congreso de Tucumán  - Av. Roque Sáenz Peña 534 (sólo ingreso),True,A1,0,0
 4,Línea D,False,400,Catedral,0,Ascensor N° 2 Andén Norte - Sólo hacia el exterior: Av. Roque Sáenz Peña 567,True,A2,0,0
 4,Línea D,False,400,Catedral,0,Escalera N°1: Andén -  Av. Roque Sáenz Peña y Florida (Exterior),True,E1,0,1
@@ -300,7 +300,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°1: Descendente de hall boletería a andén norte (Sentido a Retiro),True,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°2: Ascendente de andén sur (Sentido a Virreyes) a hall boletería,True,E2,0,1
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
