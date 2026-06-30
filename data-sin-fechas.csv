@@ -83,7 +83,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,206,Pueyrredón,0,Escalera N°8:  Descendente de hall boletería - Andén (Sentido Rosas),True,E5,1,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Ascendente de Andén (sentido Rosas) - Vestíbulo,True,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°5: Ascendente de andén (Sentido Alem) - Hall boletería,True,E7,1,1
-2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Descendente de hall boletería - Andén (Sentido Alem),False,E8,0,1
+2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Descendente de hall boletería - Andén (Sentido Alem),True,E8,0,1
 2,Línea B,False,206,Pueyrredón,1,Escalera EXT: Exterior: Vestíbulo - Av. Corrientes 2797,True,EExt,0,1
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Ascendente de andén norte (Sentido Alem) - Hall boletería,True,E1,0,1
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°4: Descendente de hall boletería - Andén sur (Sentido Rosas),True,E2,1,1
