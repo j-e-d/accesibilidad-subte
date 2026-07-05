@@ -63,14 +63,14 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,201,Florida,1,Escalera N°22: Descendente Vestíbulo - Andén Central,True,E22,1,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo lado oeste,True,E17,0,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo lado este,True,E18,0,1
-2,Línea B,False,203,Uruguay,1,Ascensor N°1:  Vestíbulo - Av. Corrientes 1401,True,A1,0,0
-2,Línea B,False,203,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
+2,Línea B,False,203,Uruguay,1,Ascensor N°1:  Vestíbulo - Av. Corrientes 1401,False,A1,0,0
+2,Línea B,False,203,Uruguay,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
 2,Línea B,False,203,Uruguay,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,False,A3,0,0
 2,Línea B,False,203,Uruguay,0,Escalera N°2: Vestíbulo - Av. Corrientes 1463,True,EExt,0,1
 2,Línea B,False,203,Uruguay,0,Escalera N°1: Andén sentido Alem - Vestíbulo,True,EInt,0,1
 2,Línea B,False,204,Callao,1,Ascensor N°1: Vestíbulo - Av. Corrientes 1811,True,A1,0,0
-2,Línea B,False,204,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
-2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
+2,Línea B,False,204,Callao,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,False,A2,0,0
+2,Línea B,False,204,Callao,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,False,A3,0,0
 2,Línea B,False,204,Callao,2,Escalera N°13: Vestíbulo - Andén sentido Alem,True,E13,1,1
 2,Línea B,False,204,Callao,0,Escalera N°14: Vestíbulo - Av. Corrientes 1802,True,E14,0,1
 2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
@@ -110,7 +110,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,214,De Los Incas Parque Chas,1,Escalera N°4: Vestíbulo - Av. Triunvirato 3711,True,E4,1,1
 2,Línea B,False,215,Echeverría,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 4250,True,A1,0,0
 2,Línea B,False,215,Echeverría,2,Ascensor N°2: Andén sentido Rosas - Vestíbulo,True,A2,0,0
-2,Línea B,False,215,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,True,A3,0,0
+2,Línea B,False,215,Echeverría,0,Ascensor N°3: Andén sentido Alem - Vestíbulo,False,A3,0,0
 2,Línea B,False,215,Echeverría,1,Escalera N°1: Vestíbulo - Av. Triunvirato 4272,True,E1,0,1
 2,Línea B,False,215,Echeverría,1,Escalera N°4: Andén sentido Rosas - Entrepiso,True,E2,0,1
 2,Línea B,False,215,Echeverría,1,Escalera N°5: Andén sentido Alem - Entrepiso,True,E3,0,1
@@ -118,10 +118,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,215,Echeverría,0,Escalera N°3: Entrepiso - vestíbulo,True,E5,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°1: Vestíbulo - Av. Triunvirato 5100,True,A1,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°2: Vestíbulo - Franklin D. Roosevelt 5109,True,A2,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,False,A3,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°3: Entrepiso - Vestíbulo,True,A3,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°4: Entrepiso - Vestíbulo,True,A4,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,False,A5,0,0
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,False,A6,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°5: Andén Central - Entrepiso,True,A5,0,0
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Ascensor N°6: Andén Central - Entrepiso,True,A6,0,0
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°8: Descendente de entrepiso (Lado Monroe) - Andén central,True,E1,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°7: Ascendente de entrepiso - Hall boletería Roosvelt,True,E10,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Descendente de entrepiso Roosvelt - Andén central,True,E11,0,1
@@ -231,12 +231,12 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,413,Juramento,1,Escalera N°38: Boletería - Av. Cabildo 2040,True,E38,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°39: Boletería - Av. Cabildo 2025,True,E39,0,1
 4,Línea D,False,413,Juramento,1,Escalera N°40: Av. Cabildo 2076 - Boletería,True,E40,1,1
-4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,False,E41,1,1
+4,Línea D,False,413,Juramento,1,Escalera N°41: Av. Cabildo 2077 - Boletería,True,E41,1,1
 4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°1: Vestíbulo - Av. Cabildo 2834,True,A1,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Ascensor N°2: Andén Central - Vestíbulo.,True,A2,0,0
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°42: Vestíbulo este - Andén central,True,E42,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°43: Andén Central - Vestíbulo este,True,E43,0,1
-4,Línea D,False,414,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,False,E44,0,1
+4,Línea D,False,414,Congreso Tucumán,1,Escalera N°44: Andén Central - Vestíbulo oeste,True,E44,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°45: Vestíbulo oeste - Andén Central,True,E45,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°46: Vestíbulo - Av. Cabildo 2860,True,E46,0,1
 4,Línea D,False,414,Congreso Tucumán,1,Escalera N°47: Vestíbulo - Av. Cabildo 2832,True,E47,0,1
@@ -320,7 +320,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,601,Las Heras,1,Escalera N°5: Entrepiso - Hall Boletería,True,E5,0,1
 6,Línea H,False,601,Las Heras,1,Escalera N°6: Hall Boletería - Plaza Teniente General Mitre (Av. Las Heras y Av. Pueyrredón),True,E6,0,1
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°1: Entrepiso - Andén,False,A1,0,0
-6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,False,A2,0,0
+6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°4: Entrepiso - Andén sentido Hospitales,True,A2,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,0,Ascensor N°3: Entrepiso - Andén sentido Facultad,True,A3,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,2,Ascensor N°2: Hall Boletería  - Andén sentido Hospitales,True,A4,0,0
 6,Línea H,False,602,Santa Fe - Carlos Jáuregui,1,Ascensor N°5: Vestíbulo - Av. Santa Fe 2409,True,A5,0,0
@@ -344,7 +344,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,603,Córdoba,1,Escalera N°4: Entrepiso -  Av. Pueyrredón 980 (Salida N°1),True,E4,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°5: Hall boletería - entrepiso (salida 2),True,E5,0,1
 6,Línea H,False,603,Córdoba,1,Escalera N°6: Entrepiso - Av. Córdoba 2582 (salida N° 2),True,E6,0,1
-6,Línea H,False,604,Corrientes,0,Ascensor N°2: Andén - vestíbulo,False,A1,0,0
+6,Línea H,False,604,Corrientes,0,Ascensor N°2: Andén - vestíbulo,True,A1,0,0
 6,Línea H,False,604,Corrientes,2,Ascensor N°4: Andén a Facultad – Entrepiso combinación L/B sentido Alem,True,A2,0,0
 6,Línea H,False,604,Corrientes,2,Ascensor N°3: Andén - vestíbulo,True,A3,0,0
 6,Línea H,False,604,Corrientes,1,Ascensor N°5:Andén a Hospitales – Entrepiso combinación L/B sentido Alem,True,A4,0,0
@@ -364,7 +364,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,604,Corrientes,0,Escalera N°9: Andén sentido Facultad - Entrepiso,True,E9,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Ascensor N°1: Hall Boletería - Av. Pueyrredón 71,True,A1,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,0,Ascensor N°2: Andén sentido Facultad - Vestíbulo,True,A2,0,0
-6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,False,A3,0,0
+6,Línea H,False,605,Once – 30 de Diciembre,2,Ascensor N°3: Andén a Hospitales - Hall Boletería,True,A3,0,0
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°1: Andén sentido Hospitales - Entrepiso,True,E1,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°10: Vestibulo central a Entrepiso,True,E10,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°2: Entrepiso - Vestíbulo,True,E2,0,1
@@ -402,7 +402,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Escalera N°2: Andén sentido Hospitales a Boletería del lado Av. Garay,True,E2,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,True,E3,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Ascendende boleteria a Av. Jujuy 1600,True,E4,0,1
-6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,True,A1,0,0
+6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,False,A1,0,0
 6,Línea H,False,609,Caseros,0,Ascensor N°1:Andén sentido Facultad - Vestíbulo,True,A2,0,0
 6,Línea H,False,609,Caseros,2,Ascensor N°2: Andén sentido Hospitales - Vestíbulo,True,A3,0,0
 6,Línea H,False,609,Caseros,0,Escalera N°1: Andén sentido Facultad - Vestíbulo,True,E1,0,1
@@ -419,6 +419,6 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,611,Hospitales,0,Ascensor N°1: Vestíbulo - Av. Almafuerte 300,True,A1,0,0
 6,Línea H,False,611,Hospitales,2,Ascensor N°2: Andén - vestíbulo central,True,A2,0,0
 6,Línea H,False,611,Hospitales,1,Ascensor N°3: Andén - vestíbulo (Sentido Facultad),True,A3,0,0
-6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,False,E1,0,1
+6,Línea H,False,611,Hospitales,0,Escalera N°1: Andén - vestíbulo,True,E1,0,1
 6,Línea H,False,611,Hospitales,2,Escalera N°2: Andén no operativo - vestíbulo,True,E2,0,1
-6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,False,E3,0,1
+6,Línea H,False,611,Hospitales,1,Escalera N°3: Vestíbulo - Av. Almafuerte y Los Patos,True,E3,0,1
