@@ -58,9 +58,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,200,Leandro N. Alem,2,Escalera N°2 (exterior): Vestíbulo - Av. Corrientes 161,True,EExt,0,1
 2,Línea B,False,200,Leandro N. Alem,1,Escalera N°1: Andén - Vestíbulo,True,EInt,0,1
 2,Línea B,False,201,Florida,1,Escalera N°20: Ascendente Andén Central  - Vestíbulo,True,E19,1,1
-2,Línea B,False,201,Florida,1,Escalera EN°19:  Descendente Vestíbulo - Andén Central,False,E20,0,1
+2,Línea B,False,201,Florida,1,Escalera EN°19:  Descendente Vestíbulo - Andén Central,True,E20,0,1
 2,Línea B,False,201,Florida,1,Escalera N°21: Ascendente Andén Central  - Vestíbulo,False,E21,0,1
-2,Línea B,False,201,Florida,1,Escalera N°22: Descendente Vestíbulo - Andén Central,False,E22,1,1
+2,Línea B,False,201,Florida,1,Escalera N°22: Descendente Vestíbulo - Andén Central,True,E22,1,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°17: Andén Central - Vestíbulo lado oeste,False,E17,0,1
 2,Línea B,False,202,Carlos Pellegrini,1,Escalera N°18: Andén Central - Vestíbulo lado este,True,E18,0,1
 2,Línea B,False,203,Uruguay,1,Ascensor N°1:  Vestíbulo - Av. Corrientes 1401,True,A1,0,0
@@ -76,10 +76,10 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,204,Callao,0,Escalera N°15: Vestíbulo - Av. Callao 402,True,E15,0,1
 2,Línea B,False,204,Callao,0,Escalera N°16: Andén sentido Rosas - Vestíbulo,False,E16,0,1
 2,Línea B,False,204,Callao,1,Escalera N°1 (Ext): Vestíbulo - Av. Corrientes 1833,True,EExt,0,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N° 12: Descendente de hall boletería - Andén sur (Sentido Rosas),False,E10,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N° 12: Descendente de hall boletería - Andén sur (Sentido Rosas),True,E10,0,1
 2,Línea B,False,205,Pasteur AMIA,0,Escalera N°11: Descendente de Vestíbulo - Andén (sentido Alem),False,E11,1,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Ascendente de andén (Sentido Alem) - Hall boletería,False,E12,0,1
-2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Ascendente de andén (Sentido Rosas) - Hall boletería,False,E9,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°9: Ascendente de andén (Sentido Alem) - Hall boletería,True,E12,0,1
+2,Línea B,False,205,Pasteur AMIA,0,Escalera N°10: Ascendente de andén (Sentido Rosas) - Hall boletería,True,E9,0,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°8:  Descendente de hall boletería - Andén (Sentido Rosas),False,E5,1,1
 2,Línea B,False,206,Pueyrredón,0,Escalera N°6: Ascendente de Andén (sentido Rosas) - Vestíbulo,True,E6,0,1
 2,Línea B,False,206,Pueyrredón,2,Escalera N°5: Ascendente de andén (Sentido Alem) - Hall boletería,False,E7,1,1
@@ -127,7 +127,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°10: Descendente de entrepiso Roosvelt - Andén central,True,E11,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°2: Descendente de 5170 (Exterior) a hall de boletería Lado Roosvelt,True,E2,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°3: Ascendente de Hall boletería - Roosvelt 5110,True,E3,1,1
-2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Ascendente de Andén central - Entrepiso Monroe,True,E4,0,1
+2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°9: Ascendente de Andén central - Entrepiso Monroe,False,E4,0,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°4: Descendente de Hall boletería - Entrepiso Monroe,True,E5,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°6: Descendente de Hall boletería - Entrepiso Roosvelt,True,E6,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°5: Ascendente de entrepiso - Hall boletería Monroe,True,E7,0,1
@@ -390,9 +390,9 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,607,Humberto 1°,1,Ascensor N° 4  Combinación con Línea E al andén sentido a Pza. de los Virreyes,False,A4,0,2
 6,Línea H,False,607,Humberto 1°,0,Escalera N°1: Andén sentido Facultad a entrepiso central,True,E1,0,1
 6,Línea H,False,607,Humberto 1°,2,Escalera N°2: Andén sentido Hospitales a entrepiso central,True,E2,0,1
-6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,True,E3,0,1
+6,Línea H,False,607,Humberto 1°,1,Escalera N°3: Entrepiso central a Boletería del lado combinación con Línea E,False,E3,0,1
 6,Línea H,False,607,Humberto 1°,1,Escalera N°4: Entrepiso - Boletería que da a la calle Humberto 1°,True,E4,0,1
-6,Línea H,False,607,Humberto 1°,1,Escalera N°5: ascendente a boleteria a Av. Jujuy 1148,True,E5,0,1
+6,Línea H,False,607,Humberto 1°,1,Escalera N°5: ascendente a boleteria a Av. Jujuy 1148,False,E5,0,1
 6,Línea H,False,607,Humberto 1°,1,S1: Salvaescalera vestíbulo -  pasillo Línea E sentido Retiro,True,S1,0,0
 6,Línea H,False,607,Humberto 1°,1,S2: Salvaescalera vestíbulo -  pasillo Línea E sentido Virreyes,True,S2,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Ascensor N°1: Boletería esquina Garay con salida a Av. Jujuy 1633,True,A1,0,0
@@ -400,7 +400,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Ascensor N°3: Andén sentido Hospitales a Boletería calle Inclán,True,A3,0,0
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,0,Escalera N°1: Andén sentido Facultad a Boletería del lado Av. Garay,True,E1,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,2,Escalera N°2: Andén sentido Hospitales a Boletería del lado Av. Garay,True,E2,0,1
-6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,True,E3,0,1
+6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°3: Boletería del lado calle Inclán a Av. Jujuy 1691,False,E3,0,1
 6,Línea H,False,608,Inclán Mezquita Al Ahmad,1,Escalera N°4: Ascendende boleteria a Av. Jujuy 1600,True,E4,0,1
 6,Línea H,False,609,Caseros,1,Ascensor N°3: Vestíbulo - Av. Jujuy 2179,True,A1,0,0
 6,Línea H,False,609,Caseros,0,Ascensor N°1:Andén sentido Facultad - Vestíbulo,True,A2,0,0
