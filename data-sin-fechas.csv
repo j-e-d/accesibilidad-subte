@@ -86,7 +86,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,206,Pueyrredón,2,Escalera N°7: Descendente de hall boletería - Andén (Sentido Alem),False,E8,0,1
 2,Línea B,False,206,Pueyrredón,1,Escalera EXT: Exterior: Vestíbulo - Av. Corrientes 2797,True,EExt,0,1
 2,Línea B,False,207,Carlos Gardel,2,Escalera N°1: Ascendente de andén norte (Sentido Alem) - Hall boletería,False,E1,0,1
-2,Línea B,False,207,Carlos Gardel,2,Escalera N°4: Descendente de hall boletería - Andén sur (Sentido Rosas),False,E2,1,1
+2,Línea B,False,207,Carlos Gardel,2,Escalera N°4: Descendente de hall boletería - Andén sur (Sentido Rosas),True,E2,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°3: Descendente de Hall boletería - Andén norte (Sentido Alem),True,E3,1,1
 2,Línea B,False,207,Carlos Gardel,0,Escalera N°2: Ascendente de andén  sur - Hall boletería (Sentido Rosas),True,E4,0,1
 2,Línea B,False,208,Medrano Almagro,2,Escalera N°1:Ascendente de andén sur (Sentido a Rosas) a Corrientes 3980,True,EExt,0,1
@@ -218,7 +218,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 4,Línea D,False,412,José Hernández,0,Escalera N°31: Hall central boletería - Andén sentido Catedral,True,E31,0,1
 4,Línea D,False,412,José Hernández,2,Escalera N°32: Vestíbulo - Andén sentido de Tucumán,True,E32,0,1
 4,Línea D,False,412,José Hernández,0,Escalera N°34: Ascendente de hall boletería a andén sur,True,E33,0,1
-4,Línea D,False,412,José Hernández,2,Escalera N°33: Ascendente de andén norte (Sentido a Catedral) a hall central boletería (Lado este),False,E34,0,1
+4,Línea D,False,412,José Hernández,2,Escalera N°33: Ascendente de andén norte (Sentido a Catedral) a hall central boletería (Lado este),True,E34,0,1
 4,Línea D,False,412,José Hernández,1,Escalera N°35:Ascendente de hall central boletería a Cabildo 1617 (Exterior) (Lado noroeste),False,E35,0,1
 4,Línea D,False,412,José Hernández,1,Salvaescalera N°1: Vestibulo - Av. Cabildo 1500,False,S36,0,2
 4,Línea D,False,412,José Hernández,0,Salvaescalera N°2: Andén sentido Catedral - vestíbulo,True,S37,0,2
@@ -300,7 +300,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 5,Línea E,False,512,Av. La Plata,1,Escalera N°23: Andén Central - Boletería,True,E23,0,1
 5,Línea E,False,513,Moreno,2,Escalera N°24: Andén sentido Virreyes - Boletería,True,E24,0,1
 5,Línea E,False,513,Moreno,0,Escalera N°25: Andén sentido Retiro - Boletería,True,E25,0,1
-5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,False,E7,0,1
+5,Línea E,False,514,Emilio Mitre,2,Escalera N°7: Andén sentido Virreyes - Hall Boletería,True,E7,0,1
 5,Línea E,False,515,Medalla Milagrosa,2,Escalera N°1: Descendente de hall boletería a andén norte (Sentido a Retiro),True,E1,0,1
 5,Línea E,False,515,Medalla Milagrosa,0,Escalera N°2: Ascendente de andén sur (Sentido a Virreyes) a hall boletería,True,E2,0,1
 5,Línea E,False,516,Varela,2,Escalera N°26: Andén sentido Virreyes - Boletería.,True,E26,0,1
@@ -373,7 +373,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°5: Andén sentido Facultad - Entrepiso,True,E5,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°6: Entrepiso - Vestíbulo,True,E6,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,2,Escalera N°7: Descendente de vestíbulo a entrepiso,False,E7,0,1
-6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°8: Ascendente andén hospitales a Entrepiso,True,E8,0,1
+6,Línea H,False,605,Once – 30 de Diciembre,0,Escalera N°8: Ascendente andén hospitales a Entrepiso,False,E8,0,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Escalera N°9: Ascendente entrepiso - Av. Pueyrredón esquina Bmé. Mitre,True,E9,1,1
 6,Línea H,False,605,Once – 30 de Diciembre,1,Salvaescalera P2  Tren Sarmiento - Hall Boletería,True,P 2,0,2
 6,Línea H,False,605,Once – 30 de Diciembre,1,Salvaescalera P1: Hall Boletería – Conexión con L/A y Hall FF.CC. Sarmiento,True,S3,0,2
