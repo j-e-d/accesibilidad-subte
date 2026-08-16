@@ -19,7 +19,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.E 10: Andén a Plaza de Mayo – Pasillo y Galería Comercial,True,EQE,0,1
 1,Línea A,False,6,Plaza Miserere,0,Escalera Q.O 11: Andén a San Pedrito - Pasillo y Galería Comercial,True,EQO,0,1
 1,Línea A,False,7,Loria,0,Ascensor N°1 (Norte): Andén sentido Plaza de Mayo - Av. Rivadavia 3427,True,AN,0,0
-1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,True,E1,0,1
+1,Línea A,False,7,Loria,2,Escalera N°1: Andén sentido San Pedrito - Av. Rivadavia  3466,False,E1,0,1
 1,Línea A,False,8,Castro Barros,2,Ascensor N°1: Andén sentido a San Pedrito a Rivadavia 3910,True,AS,0,0
 1,Línea A,False,8,Castro Barros,2,Escalera N°1:  Andén sentido a San Pedrito a Av. Rivadavia  3924,True,E1,0,1
 1,Línea A,False,9,Acoyte,0,Ascensor N°1(Norte) :Andén sentido Plaza de Mayo - Av.Rivadavia 4963,True,A1,0,0
@@ -134,7 +134,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°1: Cerrada por obras en la estación,False,E8,1,1
 2,Línea B,False,216,Juan Manuel de Rosas Villa Urquiza,1,Escalera N°11: Ascendente de andén central - Entrepiso Roosvelt,True,E9,1,1
 3,Línea C,False,300,Retiro,1,Ascensor N°1: De hall FFCC Mitre a hall de boletería,True,A1,0,0
-3,Línea C,False,300,Retiro,1,Escalera N°18: De hall boletería (andén central) a hall de Estación de FFCC,True,E18,0,1
+3,Línea C,False,300,Retiro,1,Escalera N°18: De hall boletería (andén central) a hall de Estación de FFCC,False,E18,0,1
 3,Línea C,False,300,Retiro,1,Escalera N°19: De hall de Estación de FFCC a hall central,True,E19,1,1
 3,Línea C,False,301,Gral. San Martín,1,Escalera N°1 (ext) : Vestíbulo - Plaza San Martín,True,E1,0,1
 3,Línea C,False,301,Gral. San Martín,2,Escalera N°16 : Andén sentido Constitución - Vestíbulo,True,E16,0,1
@@ -150,7 +150,7 @@ idLinea,nombreLinea,fueraDeHorario,idEstacion,nombreEstacion,cabecera,descripcio
 3,Línea C,False,303,Diagonal Norte,2,Escalera N°13: Andén - vestíbulo y combinación Línea D (sentido a Congreso de Tucumán),True,E13,0,1
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°20: Vestíbulo - Sarmiento 861,True,E20,0,1
 3,Línea C,False,303,Diagonal Norte,1,Escalera N°21: Sarmiento 861 - Vestíbulo,True,E21,1,1
-3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,False,E22,0,1
+3,Línea C,False,303,Diagonal Norte,0,Escalera N°22:  Andén sentido Retiro - Hall Boletería,True,E22,0,1
 3,Línea C,False,303,Diagonal Norte,0,Escalera N°23: Hall Boletería - Andén sentido Retiro,True,E23,1,1
 3,Línea C,False,304,Avenida de Mayo,0,Escalera N°10: Andén sentido Retiro  - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,True,E10,0,1
 3,Línea C,False,304,Avenida de Mayo,2,Escalera N°9: Andén sentido Constitución - Vestíbulo y combinación Línea A sentido a Plaza de Mayo,True,E9,0,1
