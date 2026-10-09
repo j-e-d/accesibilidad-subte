@@ -41,7 +41,7 @@ for line in json_data:
                     access["fechaNormalizacion"].split("-")[0].split("(")[1][:-3]
                 )
                 fecha_normalizacion_ts = (
-                    datetime.fromtimestamp(int(fecha_normalizacion_ts))
+                    datetime.fromtimestamp(int(fecha_normalizacion_str))
                     .astimezone(ZoneInfo("America/Argentina/Buenos_Aires"))
                     .isoformat()
                 )
