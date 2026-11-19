@@ -9,8 +9,10 @@ import requests
 
 
 result = requests.get(
-    "https://aplicacioneswp.metrovias.com.ar/APIAccesibilidad/Accesibilidad.svc/GetLineas"
+    "https://apiaccesibilidad.emova.com.ar/Accesibilidad.svc/getlineas",
+    timeout=60,
 )
+result.raise_for_status()
 json_data = result.json()
 
 results = list()
